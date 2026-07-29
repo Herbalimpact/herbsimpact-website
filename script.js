@@ -1,5 +1,5 @@
 /* ===========================================================
-   Herbal Impact â Shared Scripts
+   Herbal Impact Ã¢ÂÂ Shared Scripts
    =========================================================== */
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -156,10 +156,10 @@ el.parentElement.insertBefore(social, el);
 
 var counter = document.createElement('div');
 counter.className = 'visitor-counter';
-counter.textContent = 'Visitors: …';
+counter.textContent = 'Visitors: â¦';
 el.parentElement.insertBefore(counter, el);
-fetch('https://api.countapi.xyz/hit/herbsimpact-website/visits')
-.then(function (r) { return r.json(); })
-.then(function (d) { counter.textContent = 'Visitors: ' + d.value.toLocaleString(); })
-.catch(function () { counter.style.display = 'none'; });
+fetch('https://api.counterapi.dev/v1/herbsimpact/visits/up')
+      .then(function (r) { return r.json(); })
+      .then(function (d) { counter.textContent = 'Visitors: ' + (d.count || 0).toLocaleString(); })
+      .catch(function () { counter.style.display = 'none'; });
 });
