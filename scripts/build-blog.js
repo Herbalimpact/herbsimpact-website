@@ -44,6 +44,19 @@ const SWAHILI_LINK_TEXT = {
   toEnglish: 'READ IN ENGLISH',
 };
 
+// Text for the language-switch links shown above the article title and at
+// the bottom of the article. These differ from SWAHILI_LINK_TEXT above,
+// which is the button link inside the article body itself.
+const TOP_LINK_TEXT = {
+  en: 'All articles',
+  sw: 'Soma kwa Kiingereza / Read in English',
+};
+
+const BOTTOM_LINK_TEXT = {
+  en: 'Back to all articles',
+  sw: 'Rudi kwenye makala zote / Back to all articles',
+};
+
 function parseFrontMatter(raw) {
   const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
   if (!match) {
@@ -124,6 +137,12 @@ function buildPost(mdFileName, template) {
   const isSwahili = outputName.endsWith('-sw.html');
   const disclaimer = isSwahili ? DISCLAIMER.sw : DISCLAIMER.en;
   const swahiliLinkText = isSwahili ? SWAHILI_LINK_TEXT.toEnglish : SWAHILI_LINK_TEXT.toSwahili;
+  // The top link goes back to "all articles" for English posts, but for
+  // Swahili posts it links directly to the matching English post instead
+  // (matching the original hand-written pages).
+  const topLinkHref = isSwahili ? outputName.replace('-sw.html', '.html') : 'blog.html';
+  const topLinkText = isSwahili ? TOP_LINK_TEXT.sw : TOP_LINK_TEXT.en;
+  const bottomLinkText = isSwahili ? BOTTOM_LINK_TEXT.sw : BOTTOM_LINK_TEXT.en;
 
   const bodyHtml = markdownToHtml(body);
 
@@ -137,6 +156,9 @@ function buildPost(mdFileName, template) {
     .split('{{SWAHILI_LINK_TEXT}}').join(swahiliLinkText)
     .split('{{DESCRIPTION}}').join(escapeHtml(data.description || ''))
     .split('{{DISCLAIMER}}').join(escapeHtml(disclaimer))
+    .split('{{TOP_LINK_HREF}}').join(escapeHtml(topLinkHref))
+    .split('{{TOP_LINK_TEXT}}').join(escapeHtml(topLinkText))
+    .split('{{BOTTOM_LINK_TEXT}}').join(escapeHtml(bottomLinkText))
     .split('{{BODY}}').join(bodyHtml);
 
   fs.writeFileSync(path.join(ROOT, outputName), html, 'utf8');
