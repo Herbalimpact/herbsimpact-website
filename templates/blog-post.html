@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{TITLE}} — Herbal Impact</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<link rel="icon" href="logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a href="index.html" class="brand">
+      <img src="logo.png" alt="Herbal Impact logo">
+      <span>Herbal Impact<br><small>NATURE-BACKED WELLNESS</small></span>
+    </a>
+    <button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="store.html">Store</a>
+      <a href="downloads.html">Free Downloads</a>
+      <a href="blog.html" class="active">Blog</a>
+      <a href="tools.html">Tools</a>
+      <a href="videos.html">Videos</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="section" style="padding-bottom:0;">
+  <div class="container">
+    <a href="blog.html">&larr; All articles</a>
+  </div>
+</section>
+
+<article class="post">
+  <div class="container" style="max-width:760px;">
+    <div class="meta" style="margin-top:20px;">{{CATEGORY}} &middot; {{READ_TIME}}</div>
+    <h1>{{TITLE}}</h1>
+    <div class="blog-cover"><img src="{{COVER_IMAGE}}" alt="{{COVER_IMAGE_ALT}}"></div>
+    <a href="{{SWAHILI_LINK}}" class="sw-btn">{{SWAHILI_LINK_TEXT}}</a>
+
+    {{BODY}}
+
+    <div class="disclaimer">{{DISCLAIMER}}</div>
+
+    <p class="mt-40"><a href="blog.html">&larr; Back to all articles</a></p>
+  </div>
+</article>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="brand" style="color:#fff;margin-bottom:12px;"><img src="logo.png" alt="Herbal Impact logo" style="height:40px"></div>
+        <p class="small" style="color:#c8ddcd">Nature-backed wellness, made simple. Herbal products, recipes and free resources rooted in tradition.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="about.html">About</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="tools.html">Tools</a></li>
+          <li><a href="videos.html">Videos</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <ul>
+          <li><a href="store.html">Store</a></li>
+          <li><a href="downloads.html">Free Downloads</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Stay in touch</h4>
+        <form data-static-form data-success-message="Thanks for subscribing!">
+          <div class="field">
+            <input type="email" placeholder="Your email" required>
+          </div>
+          <button class="btn btn-primary" type="submit">Subscribe</button>
+          <p class="form-message small" style="display:none;color:#fff"></p>
+        </form>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2026 Herbal Impact. All rights reserved. | Dar es Salaam, Tanzania
+    </div>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
