@@ -1,0 +1,15 @@
+---
+seo_title: "Contact Us — Herbal Impact"
+seo_description: "Have a question about a product, a recipe, or wellness coaching? Send Herbal Impact a message and we will get back to you soon."
+hero_eyebrow: "Contact"
+hero_title: "Let's talk wellness"
+hero_text: "Have a question about a product, a recipe, or coaching? Send us a message and we'll get back to you as soon as we can."
+form_title: "Send a message"
+form_success_message: "Thank you! Your message has been received — we'll be in touch soon."
+location_text: "Dar es Salaam, Tanzania"
+email: "info@herbsimpact.com"
+whatsapp_display: "+255 754 281131"
+whatsapp_link: "https://wa.me/255754281131"
+social_label: "TikTok @herbal_impact"
+social_url: "https://www.tiktok.com/@herbal_impact"
+---
