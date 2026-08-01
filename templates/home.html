@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{seo_title}}</title>
+<meta name="description" content="{{seo_description}}">
+<link rel="icon" href="logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+<div class="container nav-wrap">
+<a href="index.html" class="brand">
+<img src="logo.png" alt="Herbal Impact logo">
+<span>Herbal Impact<br><small>NATURE-BACKED WELLNESS</small></span>
+</a>
+<button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
+<nav class="main-nav">
+<a href="index.html" class="active">Home</a>
+<a href="about.html">About</a>
+<a href="store.html">Store</a>
+<a href="downloads.html">Free Downloads</a>
+<a href="blog.html">Blog</a>
+<a href="tools.html">Tools</a>
+<a href="videos.html">Videos</a>
+<a href="contact.html">Contact</a>
+</nav>
+</div>
+</header>
+
+<section class="hero">
+<div class="container hero-grid">
+<div>
+<span class="eyebrow">{{hero_eyebrow}}</span>
+<h1>{{hero_title}}</h1>
+<p class="lead">{{hero_lead}}</p>
+<div class="hero-actions">
+<a href="store.html" class="btn btn-primary">Shop products</a>
+<a href="downloads.html" class="btn btn-outline">Free downloads</a>
+</div>
+</div>
+<div class="hero-image"><img src="{{hero_image}}" alt="{{hero_image_alt}}"></div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<div class="section-head">
+<span class="eyebrow">{{help_eyebrow}}</span>
+<h2>{{help_title}}</h2>
+<p>{{help_text}}</p>
+</div>
+<div class="grid grid-3">
+{{#pillars}}
+<div class="card">
+<div class="icon">{{icon}}</div>
+<h3>{{title}}</h3>
+<p>{{description}}</p>
+<a href="{{link_href}}">{{link_text}}</a>
+</div>
+{{/pillars}}
+</div>
+</div>
+</section>
+
+<section class="section alt">
+<div class="container">
+<div class="grid grid-2" style="align-items:center;">
+<div>
+<span class="eyebrow">{{story_eyebrow}}</span>
+<h2>{{story_title}}</h2>
+<p>{{story_text}}</p>
+<a href="about.html" class="btn btn-primary">Learn more about us</a>
+</div>
+<div class="card">
+<h3>What we stand for</h3>
+{{#story_points}}
+<p><strong>{{bold}}</strong> &mdash; {{text}}</p>
+{{/story_points}}
+</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<div class="section-head">
+<span class="eyebrow">{{tools_eyebrow}}</span>
+<h2>{{tools_title}}</h2>
+<p>{{tools_text}}</p>
+</div>
+<div class="text-center">
+<a href="tools.html" class="btn btn-primary">Open the calculators</a>
+</div>
+</div>
+</section>
+
+<section class="section blue">
+<div class="container">
+<div class="newsletter" style="background:var(--green);">
+<h3>{{newsletter_title}}</h3>
+<p>{{newsletter_text}}</p>
+<form data-static-form data-success-message="Thanks for subscribing! You're on the list.">
+<input type="email" placeholder="Enter your email" required>
+<button type="submit" class="btn btn-primary">Subscribe</button>
+</form>
+<p class="form-message" style="display:none;color:#fff;font-weight:700;margin-top:12px;"></p>
+<p class="note">No spam, ever. Unsubscribe anytime.</p>
+</div>
+</div>
+</section>
+
+<footer class="site-footer">
+<div class="container">
+<div class="footer-grid">
+<div>
+<div class="brand" style="color:#fff;margin-bottom:12px;"><img src="logo.png" alt="Herbal Impact logo" style="height:40px"></div>
+<p class="small" style="color:#c8ddcd">Nature-backed wellness, made simple. Herbal products, recipes and free resources rooted in tradition.</p>
+</div>
+<div>
+<h4>Explore</h4>
+<ul>
+<li><a href="about.html">About</a></li>
+<li><a href="blog.html">Blog</a></li>
+<li><a href="tools.html">Tools</a></li>
+<li><a href="videos.html">Videos</a></li>
+</ul>
+</div>
+<div>
+<h4>Shop</h4>
+<ul>
+<li><a href="store.html">Store</a></li>
+<li><a href="downloads.html">Free Downloads</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+<div>
+<h4>Stay in touch</h4>
+<form data-static-form data-success-message="Thanks for subscribing!">
+<div class="field">
+<input type="email" placeholder="Your email" required>
+</div>
+<button class="btn btn-primary" type="submit">Subscribe</button>
+<p class="form-message small" style="display:none;color:#fff"></p>
+</form>
+</div>
+</div>
+<div class="footer-bottom">
+&copy; 2026 Herbal Impact. All rights reserved. | Dar es Salaam, Tanzania
+</div>
+</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
