@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>About Us — Herbal Impact</title>
-<meta name="description" content="Herbal Impact was founded on the belief that nature offers powerful, time-tested tools for wellbeing, made safe and simple for everyone.">
+<title>{{seo_title}}</title>
+<meta name="description" content="{{seo_description}}">
 <link rel="icon" href="logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -13,117 +13,109 @@
 <body>
 
 <header class="site-header">
-  <div class="container nav-wrap">
-    <a href="index.html" class="brand">
-      <img src="logo.png" alt="Herbal Impact logo">
-      <span>Herbal Impact<br><small>NATURE-BACKED WELLNESS</small></span>
-    </a>
-    <button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
-    <nav class="main-nav">
-      <a href="index.html">Home</a>
-      <a href="about.html" class="active">About</a>
-      <a href="store.html">Store</a>
-      <a href="downloads.html">Free Downloads</a>
-      <a href="blog.html">Blog</a>
-      <a href="tools.html">Tools</a>
-      <a href="videos.html">Videos</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-  </div>
+<div class="container nav-wrap">
+<a href="index.html" class="brand">
+<img src="logo.png" alt="Herbal Impact logo">
+<span>Herbal Impact<br><small>NATURE-BACKED WELLNESS</small></span>
+</a>
+<button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
+<nav class="main-nav">
+<a href="index.html">Home</a>
+<a href="about.html" class="active">About</a>
+<a href="store.html">Store</a>
+<a href="downloads.html">Free Downloads</a>
+<a href="blog.html">Blog</a>
+<a href="tools.html">Tools</a>
+<a href="videos.html">Videos</a>
+<a href="contact.html">Contact</a>
+</nav>
+</div>
 </header>
 
 <section class="page-hero">
-  <div class="container">
-    <span class="eyebrow" style="background:rgba(255,255,255,0.15);">Our story</span>
-    <h1>Bridging traditional wisdom and modern wellness</h1>
-    <p>Herbal Impact was founded on a simple belief: that nature offers powerful, time-tested tools for wellbeing — and that everyone deserves access to them, made safe and simple.</p>
-  </div>
+<div class="container">
+<span class="eyebrow" style="background:rgba(255,255,255,0.15);">{{hero_eyebrow}}</span>
+<h1>{{hero_title}}</h1>
+<p>{{hero_text}}</p>
+</div>
 </section>
 
 <section class="section">
-  <div class="container">
-    <div class="grid grid-2" style="align-items:center;">
-      <div>
-        <p>We research and formulate herbal products, craft trustworthy medicinal recipes, and share practical wellness knowledge to help people live healthier, more grounded lives. Everything we make is rooted in traditional knowledge and refined for the way we live today.</p>
-        <p>Our mission is to make natural, traditional wellness accessible, trustworthy, and genuinely effective — through products people can rely on, resources they can use themselves, and knowledge that empowers them for life.</p>
-        <a href="contact.html" class="btn btn-primary">Get in touch</a>
-      </div>
-      <div class="hero-image"><img src="https://wodkuvykpqnkpmpirjzg.supabase.co/storage/v1/object/public/media/1784549480525-16vbu700.png" alt="Botanical herbs and tincture"></div>
-    </div>
-  </div>
+<div class="container">
+<div class="grid grid-2" style="align-items:center;">
+<div>
+<p>{{intro_paragraph_1}}</p>
+<p>{{intro_paragraph_2}}</p>
+<a href="contact.html" class="btn btn-primary">Get in touch</a>
+</div>
+<div class="hero-image"><img src="{{intro_image}}" alt="{{intro_image_alt}}"></div>
+</div>
+</div>
 </section>
 
 <section class="section alt">
-  <div class="container">
-    <div class="section-head">
-      <h2>What we stand for</h2>
-    </div>
-    <div class="grid grid-3">
-            <div class="card">
-        <div class="icon">🔍</div>
-        <h3>Research first</h3>
-        <p>Every formulation begins with careful study of traditional uses and modern understanding of each herb.</p>
-      </div>
-      <div class="card">
-        <div class="icon">🌿</div>
-        <h3>Honest ingredients</h3>
-        <p>We use whole, plant-based ingredients with full transparency — no hidden fillers or vague labels.</p>
-      </div>
-      <div class="card">
-        <div class="icon">❤️</div>
-        <h3>People over products</h3>
-        <p>Our goal is your wellbeing. We share knowledge freely and meet you wherever you are on your journey.</p>
-      </div>
-    </div>
-  </div>
+<div class="container">
+<div class="section-head">
+<h2>{{values_title}}</h2>
+</div>
+<div class="grid grid-3">
+{{#values}}
+<div class="card">
+<div class="icon">{{icon}}</div>
+<h3>{{title}}</h3>
+<p>{{description}}</p>
+</div>
+{{/values}}
+</div>
+</div>
 </section>
 
 <section class="section">
-  <div class="container text-center">
-    <h2>Our mission</h2>
-    <p style="max-width:700px;margin:0 auto;">To make natural, traditional wellness accessible, trustworthy, and genuinely effective — through products people can rely on, recipes they can make themselves, and guidance that empowers them for life.</p>
-  </div>
+<div class="container text-center">
+<h2>{{mission_title}}</h2>
+<p style="max-width:700px;margin:0 auto;">{{mission_text}}</p>
+</div>
 </section>
 
 <footer class="site-footer">
-  <div class="container">
-    <div class="footer-grid">
-      <div>
-        <div class="brand" style="color:#fff;margin-bottom:12px;"><img src="logo.png" alt="Herbal Impact logo" style="height:40px"></div>
-        <p class="small" style="color:#c8ddcd">Nature-backed wellness, made simple. Herbal products, recipes and free resources rooted in tradition.</p>
-      </div>
-      <div>
-        <h4>Explore</h4>
-        <ul>
-          <li><a href="about.html">About</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="tools.html">Tools</a></li>
-          <li><a href="videos.html">Videos</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Shop</h4>
-        <ul>
-          <li><a href="store.html">Store</a></li>
-          <li><a href="downloads.html">Free Downloads</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Stay in touch</h4>
-        <form data-static-form data-success-message="Thanks for subscribing!">
-          <div class="field">
-            <input type="email" placeholder="Your email" required>
-          </div>
-          <button class="btn btn-primary" type="submit">Subscribe</button>
-          <p class="form-message small" style="display:none;color:#fff"></p>
-        </form>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      &copy; 2026 Herbal Impact. All rights reserved. | Dar es Salaam, Tanzania
-    </div>
-  </div>
+<div class="container">
+<div class="footer-grid">
+<div>
+<div class="brand" style="color:#fff;margin-bottom:12px;"><img src="logo.png" alt="Herbal Impact logo" style="height:40px"></div>
+<p class="small" style="color:#c8ddcd">Nature-backed wellness, made simple. Herbal products, recipes and free resources rooted in tradition.</p>
+</div>
+<div>
+<h4>Explore</h4>
+<ul>
+<li><a href="about.html">About</a></li>
+<li><a href="blog.html">Blog</a></li>
+<li><a href="tools.html">Tools</a></li>
+<li><a href="videos.html">Videos</a></li>
+</ul>
+</div>
+<div>
+<h4>Shop</h4>
+<ul>
+<li><a href="store.html">Store</a></li>
+<li><a href="downloads.html">Free Downloads</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+<div>
+<h4>Stay in touch</h4>
+<form data-static-form data-success-message="Thanks for subscribing!">
+<div class="field">
+<input type="email" placeholder="Your email" required>
+</div>
+<button class="btn btn-primary" type="submit">Subscribe</button>
+<p class="form-message small" style="display:none;color:#fff"></p>
+</form>
+</div>
+</div>
+<div class="footer-bottom">
+&copy; 2026 Herbal Impact. All rights reserved. | Dar es Salaam, Tanzania
+</div>
+</div>
 </footer>
 
 <script src="script.js"></script>
