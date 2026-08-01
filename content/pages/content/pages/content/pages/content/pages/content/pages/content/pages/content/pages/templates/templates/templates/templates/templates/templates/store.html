@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{SEO_TITLE}}</title>
+<meta name="description" content="{{SEO_DESCRIPTION}}">
+<link rel="icon" href="logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a href="index.html" class="brand">
+      <img src="logo.png" alt="Herbal Impact logo">
+      <span>Herbal Impact<br><small>NATURE-BACKED WELLNESS</small></span>
+    </a>
+    <button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="store.html" class="active">Store</a>
+      <a href="downloads.html">Free Downloads</a>
+      <a href="blog.html">Blog</a>
+      <a href="tools.html">Tools</a>
+      <a href="videos.html">Videos</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="page-hero">
+  <div class="container">
+    <span class="eyebrow" style="background:rgba(255,255,255,0.15);">{{HERO_EYEBROW}}</span>
+    <h1>{{HERO_TITLE}}</h1>
+    <p>{{HERO_TEXT}}</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="store-hero">
+      <h2>{{STORE_TITLE}}</h2>
+      <p style="max-width:520px;margin:0 auto 24px;">{{STORE_TEXT}}</p>
+      <a href="{{STORE_LINK_URL}}" target="_blank" rel="noopener" class="btn btn-primary">{{STORE_LINK_TEXT}}</a>
+    </div>
+
+    <div class="featured-products">
+      <h2 class="text-center" style="margin-bottom:24px;">{{FEATURED_TITLE}}</h2>
+      <div class="grid grid-2">
+        {{FEATURED_PRODUCTS}}
+      </div>
+    </div>
+
+    <div class="grid grid-3 mt-40">
+      {{HIGHLIGHTS}}
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="brand" style="color:#fff;margin-bottom:12px;"><img src="logo.png" alt="Herbal Impact logo" style="height:40px"></div>
+        <p class="small" style="color:#c8ddcd">Nature-backed wellness, made simple. Herbal products, recipes and free resources rooted in tradition.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="about.html">About</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="tools.html">Tools</a></li>
+          <li><a href="videos.html">Videos</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <ul>
+          <li><a href="store.html">Store</a></li>
+          <li><a href="downloads.html">Free Downloads</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Stay in touch</h4>
+        <form data-static-form data-success-message="Thanks for subscribing!">
+          <div class="field">
+            <input type="email" placeholder="Your email" required>
+          </div>
+          <button class="btn btn-primary" type="submit">Subscribe</button>
+          <p class="form-message small" style="display:none;color:#fff"></p>
+        </form>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2026 Herbal Impact. All rights reserved. | Dar es Salaam, Tanzania
+    </div>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
