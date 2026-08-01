@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Videos — Herbal Impact</title>
-<meta name="description" content="Watch Herbal Impact's latest wellness videos and tips on TikTok.">
+<title>{{seo_title}}</title>
+<meta name="description" content="{{seo_description}}">
 <link rel="icon" href="logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -13,92 +13,87 @@
 <body>
 
 <header class="site-header">
-  <div class="container nav-wrap">
-    <a href="index.html" class="brand">
-      <img src="logo.png" alt="Herbal Impact logo">
-      <span>Herbal Impact<br><small>NATURE-BACKED WELLNESS</small></span>
-    </a>
-    <button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
-    <nav class="main-nav">
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
-      <a href="store.html">Store</a>
-      <a href="downloads.html">Free Downloads</a>
-      <a href="blog.html">Blog</a>
-      <a href="tools.html">Tools</a>
-      <a href="videos.html" class="active">Videos</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-  </div>
+<div class="container nav-wrap">
+<a href="index.html" class="brand">
+<img src="logo.png" alt="Herbal Impact logo">
+<span>Herbal Impact<br><small>NATURE-BACKED WELLNESS</small></span>
+</a>
+<button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
+<nav class="main-nav">
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="store.html">Store</a>
+<a href="downloads.html">Free Downloads</a>
+<a href="blog.html">Blog</a>
+<a href="tools.html">Tools</a>
+<a href="videos.html" class="active">Videos</a>
+<a href="contact.html">Contact</a>
+</nav>
+</div>
 </header>
 
 <section class="page-hero">
-  <div class="container">
-    <span class="eyebrow" style="background:rgba(255,255,255,0.15);">Videos</span>
-    <h1>Wellness tips &amp; herbal know-how on video</h1>
-    <p>Follow along on TikTok for quick, practical herbal wellness tips. <a href="https://www.tiktok.com/@herbal_impact" target="_blank" rel="noopener" style="color:#fff;text-decoration:underline;">@herbal_impact</a></p>
-  </div>
+<div class="container">
+<span class="eyebrow" style="background:rgba(255,255,255,0.15);">{{hero_eyebrow}}</span>
+<h1>{{hero_title}}</h1>
+<p>{{hero_text_before_link}} <a href="{{tiktok_profile_url}}" target="_blank" rel="noopener" style="color:#fff;text-decoration:underline;">{{tiktok_handle}}</a></p>
+</div>
 </section>
 
 <section class="section">
-  <div class="container">
-    <div class="grid grid-3">
-            <div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herbal_impact/video/7661324089679744277" data-video-id="7661324089679744277" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
-      <div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herbal_impact/video/7661193515426237716" data-video-id="7661193515426237716" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
-      <div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herbal_impact/video/7324410584919788805" data-video-id="7324410584919788805" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
-      <div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herbal_impact/video/7324042735588019461" data-video-id="7324042735588019461" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
-      <div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herbal_impact/video/7320710265408965893" data-video-id="7320710265408965893" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
-      <div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herbal_impact/video/7319192924892220677" data-video-id="7319192924892220677" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
-      <div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herbal_impact/video/7319092874497264901" data-video-id="7319092874497264901" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
-      <div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herbal_impact/video/7319056278339210501" data-video-id="7319056278339210501" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
-    </div>
-    <div class="text-center mt-40">
-      <a href="https://www.tiktok.com/@herbal_impact" target="_blank" rel="noopener" class="btn btn-primary">See more on TikTok →</a>
-    </div>
-  </div>
+<div class="container">
+<div class="grid grid-3">
+{{#videos}}
+<div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/{{tiktok_handle}}/video/{{video_id}}" data-video-id="{{video_id}}" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
+{{/videos}}
+</div>
+<div class="text-center mt-40">
+<a href="{{tiktok_profile_url}}" target="_blank" rel="noopener" class="btn btn-primary">{{more_link_text}}</a>
+</div>
+</div>
 </section>
 
 <script async src="https://www.tiktok.com/embed.js"></script>
 
 <footer class="site-footer">
-  <div class="container">
-    <div class="footer-grid">
-      <div>
-        <div class="brand" style="color:#fff;margin-bottom:12px;"><img src="logo.png" alt="Herbal Impact logo" style="height:40px"></div>
-        <p class="small" style="color:#c8ddcd">Nature-backed wellness, made simple. Herbal products, recipes and free resources rooted in tradition.</p>
-      </div>
-      <div>
-        <h4>Explore</h4>
-        <ul>
-          <li><a href="about.html">About</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="tools.html">Tools</a></li>
-          <li><a href="videos.html">Videos</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Shop</h4>
-        <ul>
-          <li><a href="store.html">Store</a></li>
-          <li><a href="downloads.html">Free Downloads</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Stay in touch</h4>
-        <form data-static-form data-success-message="Thanks for subscribing!">
-          <div class="field">
-            <input type="email" placeholder="Your email" required>
-          </div>
-          <button class="btn btn-primary" type="submit">Subscribe</button>
-          <p class="form-message small" style="display:none;color:#fff"></p>
-        </form>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      &copy; 2026 Herbal Impact. All rights reserved. | Dar es Salaam, Tanzania
-    </div>
-  </div>
+<div class="container">
+<div class="footer-grid">
+<div>
+<div class="brand" style="color:#fff;margin-bottom:12px;"><img src="logo.png" alt="Herbal Impact logo" style="height:40px"></div>
+<p class="small" style="color:#c8ddcd">Nature-backed wellness, made simple. Herbal products, recipes and free resources rooted in tradition.</p>
+</div>
+<div>
+<h4>Explore</h4>
+<ul>
+<li><a href="about.html">About</a></li>
+<li><a href="blog.html">Blog</a></li>
+<li><a href="tools.html">Tools</a></li>
+<li><a href="videos.html">Videos</a></li>
+</ul>
+</div>
+<div>
+<h4>Shop</h4>
+<ul>
+<li><a href="store.html">Store</a></li>
+<li><a href="downloads.html">Free Downloads</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+<div>
+<h4>Stay in touch</h4>
+<form data-static-form data-success-message="Thanks for subscribing!">
+<div class="field">
+<input type="email" placeholder="Your email" required>
+</div>
+<button class="btn btn-primary" type="submit">Subscribe</button>
+<p class="form-message small" style="display:none;color:#fff"></p>
+</form>
+</div>
+</div>
+<div class="footer-bottom">
+&copy; 2026 Herbal Impact. All rights reserved. | Dar es Salaam, Tanzania
+</div>
+</div>
 </footer>
 
 <script src="script.js"></script>
