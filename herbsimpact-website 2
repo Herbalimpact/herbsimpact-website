@@ -1,0 +1,13 @@
+{
+  "name": "herbsimpact-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static website for Herbal Impact - herbal wellness products, recipes, coaching, blog and tools.",
+  "scripts": {
+    "build": "node scripts/build-blog.js && node scripts/build-pages.js"
+  },
+  "dependencies": {
+    "yaml": "^2.5.1"
+  }
+}
+Add package.json
