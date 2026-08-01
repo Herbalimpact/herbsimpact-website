@@ -1,4 +1,204 @@
 backend: {name: git-gateway, branch: main}
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
-collections: [{name: pages, label: Pages, files: [{name: home, label: "Home Page", file: index.html, format: frontmatter, fields: [{label: "Page HTML", name: body, widget: code, default_language: html, allow_language_selection: false, output_code_only: true}]}, {name: about, label: "About Page", file: about.html, format: frontmatter, fields: [{label: "Page HTML", name: body, widget: code, default_language: html, allow_language_selection: false, output_code_only: true}]}, {name: blog_index, label: "Blog Index Page", file: blog.html, format: frontmatter, fields: [{label: "Page HTML", name: body, widget: code, default_language: html, allow_language_selection: false, output_code_only: true}]}, {name: contact, label: "Contact Page", file: contact.html, format: frontmatter, fields: [{label: "Page HTML", name: body, widget: code, default_language: html, allow_language_selection: false, output_code_only: true}]}, {name: downloads, label: "Downloads Page", file: downloads.html, format: frontmatter, fields: [{label: "Page HTML", name: body, widget: code, default_language: html, allow_language_selection: false, output_code_only: true}]}, {name: store, label: "Store Page", file: store.html, format: frontmatter, fields: [{label: "Page HTML", name: body, widget: code, default_language: html, allow_language_selection: false, output_code_only: true}]}, {name: tools, label: "Tools Page", file: tools.html, format: frontmatter, fields: [{label: "Page HTML", name: body, widget: code, default_language: html, allow_language_selection: false, output_code_only: true}]}, {name: videos, label: "Videos Page", file: videos.html, format: frontmatter, fields: [{label: "Page HTML", name: body, widget: code, default_language: html, allow_language_selection: false, output_code_only: true}]}]}, {name: blog_posts, label: "Blog Posts", folder: "content/blog", create: true, slug: "{{slug}}", format: frontmatter, fields: [{label: "Title", name: title, widget: string}, {label: "Category", name: category, widget: string, hint: "Small eyebrow label above the title, e.g. GETTING STARTED"}, {label: "Read time", name: read_time, widget: string, hint: "e.g. 6 MIN READ"}, {label: "Cover image", name: cover_image, widget: image}, {label: "Cover image alt text", name: cover_image_alt, widget: string}, {label: "Swahili version link", name: swahili_link, widget: string, required: false, hint: "Filename of the matching translated post, e.g. blog-1-sw.html"}, {label: "SEO description", name: description, widget: string, required: false, hint: "Used for search engines and link previews"}, {label: "Body", name: body, widget: markdown}]}]
+collections:
+  - name: pages
+    label: Pages
+    files:
+      - name: home
+        label: "Home Page"
+        file: content/pages/home.md
+        fields:
+          - {label: "SEO title", name: seo_title, widget: string}
+          - {label: "SEO description", name: seo_description, widget: text}
+          - {label: "Hero eyebrow", name: hero_eyebrow, widget: string}
+          - {label: "Hero title", name: hero_title, widget: string}
+          - {label: "Hero lead paragraph", name: hero_lead, widget: text}
+          - {label: "Hero image", name: hero_image, widget: image}
+          - {label: "Hero image alt text", name: hero_image_alt, widget: string}
+          - {label: "\"How we help\" eyebrow", name: help_eyebrow, widget: string}
+          - {label: "\"How we help\" title", name: help_title, widget: string}
+          - {label: "\"How we help\" text", name: help_text, widget: text}
+          - label: "Three pillars"
+            name: pillars
+            widget: list
+            fields:
+              - {label: Icon (emoji), name: icon, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Description, name: description, widget: text}
+              - {label: "Link text", name: link_text, widget: string}
+              - {label: "Link URL", name: link_href, widget: string}
+          - {label: "Story eyebrow", name: story_eyebrow, widget: string}
+          - {label: "Story title", name: story_title, widget: string}
+          - {label: "Story text", name: story_text, widget: text}
+          - label: "\"What we stand for\" points"
+            name: story_points
+            widget: list
+            fields:
+              - {label: "Bold lead-in", name: bold, widget: string}
+              - {label: "Rest of sentence", name: text, widget: string}
+          - {label: "Tools eyebrow", name: tools_eyebrow, widget: string}
+          - {label: "Tools title", name: tools_title, widget: string}
+          - {label: "Tools text", name: tools_text, widget: text}
+          - {label: "Newsletter title", name: newsletter_title, widget: string}
+          - {label: "Newsletter text", name: newsletter_text, widget: string}
+
+      - name: about
+        label: "About Page"
+        file: content/pages/about.md
+        fields:
+          - {label: "SEO title", name: seo_title, widget: string}
+          - {label: "SEO description", name: seo_description, widget: text}
+          - {label: "Hero eyebrow", name: hero_eyebrow, widget: string}
+          - {label: "Hero title", name: hero_title, widget: string}
+          - {label: "Hero text", name: hero_text, widget: text}
+          - {label: "First paragraph", name: intro_paragraph_1, widget: text}
+          - {label: "Second paragraph", name: intro_paragraph_2, widget: text}
+          - {label: Image, name: intro_image, widget: image}
+          - {label: "Image alt text", name: intro_image_alt, widget: string}
+          - {label: "\"What we stand for\" title", name: values_title, widget: string}
+          - label: Values
+            name: values
+            widget: list
+            fields:
+              - {label: Icon (emoji), name: icon, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Description, name: description, widget: text}
+          - {label: "Mission title", name: mission_title, widget: string}
+          - {label: "Mission text", name: mission_text, widget: text}
+
+      - name: blog_index
+        label: "Blog Index Page"
+        file: content/pages/blog-index.md
+        fields:
+          - {label: "SEO title", name: seo_title, widget: string}
+          - {label: "SEO description", name: seo_description, widget: text}
+          - {label: "Hero eyebrow", name: hero_eyebrow, widget: string}
+          - {label: "Hero title", name: hero_title, widget: string}
+          - {label: "Hero text", name: hero_text, widget: text}
+          - label: "Note"
+            name: note
+            widget: string
+            required: false
+            default: "The article cards below are generated automatically from the Blog Posts collection — add or edit posts there, not here."
+
+      - name: contact
+        label: "Contact Page"
+        file: content/pages/contact.md
+        fields:
+          - {label: "SEO title", name: seo_title, widget: string}
+          - {label: "SEO description", name: seo_description, widget: text}
+          - {label: "Hero eyebrow", name: hero_eyebrow, widget: string}
+          - {label: "Hero title", name: hero_title, widget: string}
+          - {label: "Hero text", name: hero_text, widget: text}
+          - {label: "Form title", name: form_title, widget: string}
+          - {label: "Form success message", name: form_success_message, widget: string}
+          - {label: "Location text", name: location_text, widget: string}
+          - {label: Email, name: email, widget: string}
+          - {label: "WhatsApp display text", name: whatsapp_display, widget: string}
+          - {label: "WhatsApp link (https://wa.me/...)", name: whatsapp_link, widget: string}
+          - {label: "Social label", name: social_label, widget: string}
+          - {label: "Social URL", name: social_url, widget: string}
+
+      - name: downloads
+        label: "Downloads Page"
+        file: content/pages/downloads.md
+        fields:
+          - {label: "SEO title", name: seo_title, widget: string}
+          - {label: "SEO description", name: seo_description, widget: text}
+          - {label: "Hero eyebrow", name: hero_eyebrow, widget: string}
+          - {label: "Hero title", name: hero_title, widget: string}
+          - {label: "Hero text", name: hero_text, widget: text}
+          - label: "Free downloads"
+            name: downloads
+            widget: list
+            fields:
+              - {label: "Tag", name: tag, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Description, name: description, widget: text}
+              - {label: "File (upload a PDF or paste a URL)", name: file_url, widget: file}
+              - {label: "Swahili title", name: sw_title, widget: string, required: false}
+              - {label: "Swahili description", name: sw_description, widget: text, required: false}
+              - {label: "Swahili file (optional, only if different from the main file)", name: sw_file_url, widget: file, required: false}
+
+      - name: store
+        label: "Store Page"
+        file: content/pages/store.md
+        fields:
+          - {label: "SEO title", name: seo_title, widget: string}
+          - {label: "SEO description", name: seo_description, widget: text}
+          - {label: "Hero eyebrow", name: hero_eyebrow, widget: string}
+          - {label: "Hero title", name: hero_title, widget: string}
+          - {label: "Hero text", name: hero_text, widget: text}
+          - {label: "Store callout title", name: store_title, widget: string}
+          - {label: "Store callout text", name: store_text, widget: text}
+          - {label: "Store link text", name: store_link_text, widget: string}
+          - {label: "Store link URL (Payhip, etc.)", name: store_link_url, widget: string}
+          - {label: "Featured products title", name: featured_title, widget: string}
+          - label: "Featured products"
+            name: featured_products
+            widget: list
+            fields:
+              - {label: Image, name: image, widget: image}
+              - {label: "Product name", name: name, widget: string}
+              - {label: Price, name: price, widget: string}
+              - {label: Description, name: description, widget: text}
+              - {label: "Link URL", name: link_url, widget: string}
+          - label: "Highlight cards"
+            name: highlights
+            widget: list
+            fields:
+              - {label: Icon (emoji), name: icon, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Description, name: description, widget: text}
+
+      - name: tools
+        label: "Tools Page"
+        file: content/pages/tools.md
+        fields:
+          - {label: "SEO title", name: seo_title, widget: string}
+          - {label: "SEO description", name: seo_description, widget: text}
+          - {label: "Hero eyebrow", name: hero_eyebrow, widget: string}
+          - {label: "Hero title", name: hero_title, widget: string}
+          - {label: "Hero text", name: hero_text, widget: text}
+          - {label: "BMI calculator title", name: bmi_title, widget: string}
+          - {label: "BMI calculator text", name: bmi_text, widget: string}
+          - {label: "Payment plan title", name: plan_title, widget: string}
+          - {label: "Payment plan text", name: plan_text, widget: string}
+          - {label: "Loan calculator title", name: loan_title, widget: string}
+          - {label: "Loan calculator text", name: loan_text, widget: string}
+          - {label: "Disclaimer", name: disclaimer, widget: text}
+
+      - name: videos
+        label: "Videos Page"
+        file: content/pages/videos.md
+        fields:
+          - {label: "SEO title", name: seo_title, widget: string}
+          - {label: "SEO description", name: seo_description, widget: text}
+          - {label: "Hero eyebrow", name: hero_eyebrow, widget: string}
+          - {label: "Hero title", name: hero_title, widget: string}
+          - {label: "Hero text (before the TikTok link)", name: hero_text_before_link, widget: string}
+          - {label: "TikTok handle (display text)", name: tiktok_handle, widget: string}
+          - {label: "TikTok profile URL", name: tiktok_profile_url, widget: string}
+          - {label: "\"See more\" link text", name: more_link_text, widget: string}
+          - label: Videos
+            name: videos
+            widget: list
+            fields:
+              - {label: "TikTok video ID", name: video_id, widget: string, hint: "The number at the end of the video's TikTok URL"}
+
+  - name: blog_posts
+    label: "Blog Posts"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    format: frontmatter
+    fields:
+      - {label: "Title", name: title, widget: string}
+      - {label: "Category", name: category, widget: string, hint: "Small eyebrow label above the title, e.g. GETTING STARTED"}
+      - {label: "Read time", name: read_time, widget: string, hint: "e.g. 6 MIN READ"}
+      - {label: "Cover image", name: cover_image, widget: image}
+      - {label: "Cover image alt text", name: cover_image_alt, widget: string}
+      - {label: "Swahili version link", name: swahili_link, widget: string, required: false, hint: "Filename of the matching translated post, e.g. blog-1-sw.html"}
+      - {label: "SEO description", name: description, widget: string, required: false, hint: "Used for search engines and link previews"}
+      - {label: "Body", name: body, widget: markdown}
