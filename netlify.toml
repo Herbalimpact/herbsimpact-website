@@ -1,11 +1,11 @@
 # Netlify configuration for herbsimpact-website
 #
-# Runs the blog build script before every deploy so that saving a post in
-# Decap CMS (which only edits the Markdown files in content/blog/) always
-# regenerates the matching static blog-N.html page before the site is
-# published. Every other page is still a plain static HTML file that is
-# published as-is, with no build step required.
+# Runs the blog + pages build scripts before every deploy so that saving
+# content in Decap CMS (which only edits the Markdown files in content/blog/
+# and content/pages/) always regenerates the matching static HTML pages
+# before the site is published. Every published page is still a plain
+# static HTML file with no client-side build step required to view it.
 
 [build]
-  command = "node scripts/build-blog.js"
+  command = "npm install && npm run build"
   publish = "."
