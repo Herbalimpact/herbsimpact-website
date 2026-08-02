@@ -1,15 +1,11 @@
 ---
-title: "Uzito wa Ziada: Jinsi Mafuta Mengi Mwilini Yanavyodhoofisha Afya Yako
-  Kimya Kimya"
+title: "Uzito wa Ziada: Jinsi Mafuta Mengi Mwilini Yanavyodhoofisha Afya Yako Kimya Kimya"
 category: HATARI ZA KIAFYA
 read_time: DAKIKA 3 ZA KUSOMA
 cover_image: /assets/uploads/weight-scale.jpg
-cover_image_alt: "Uzito wa Ziada: Jinsi Mafuta Mengi Mwilini Yanavyodhoofisha
-  Afya Yako Kimya Kimya"
+cover_image_alt: "Uzito wa Ziada: Jinsi Mafuta Mengi Mwilini Yanavyodhoofisha Afya Yako Kimya Kimya"
 swahili_link: blog-4.html
-description: Mafuta mengi mwilini huathiri moyo, sukari ya damu, na viungo kimya
-  kimya. Jifunze hatari hizo na jinsi kupunguza uzito kidogo kunavyoweza
-  kusaidia.
+description: Mafuta mengi mwilini huathiri moyo, sukari ya damu, na viungo kimya kimya. Jifunze hatari hizo na jinsi kupunguza uzito kidogo kunavyoweza kusaidia.
 ---
 Kubeba uzito wa ziada haibadilishi tu jinsi unavyoonekana. Kimya kimya, huathiri jinsi moyo wako, sukari ya damu, viungo vyako, na hata hisia zako zinavyofanya kazi kila siku.
 
