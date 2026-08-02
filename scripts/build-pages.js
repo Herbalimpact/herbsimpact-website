@@ -42,6 +42,7 @@ const BLOG_INDEX_POSTS = [
   '5-everyday-herbs.md',
   'brewing-medicinal-tea.md',
   'daily-wellness-rituals.md',
+'the-silent-weight-how-excess-body-fat-quietly-undermines-your-health.md',
   ];
 
 function parseFrontMatter(raw) {
