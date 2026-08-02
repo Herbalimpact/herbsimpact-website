@@ -28,6 +28,8 @@ const OUTPUT_MAP = {
   'brewing-medicinal-tea-sw.md': 'blog-2-sw.html',
   'daily-wellness-rituals.md': 'blog-3.html',
   'daily-wellness-rituals-sw.md': 'blog-3-sw.html',
+  'the-silent-weight-how-excess-body-fat-quietly-undermines-your-health.md': 'blog-4.html',
+  'uzito-wa-ziada-jinsi-mafuta-mengi-mwilini-yanavyodhoofisha-afya-yako-kimya-kimya.md': 'blog-4-sw.html',
 };
 
 // The health disclaimer and the language-switch link text are the same on
