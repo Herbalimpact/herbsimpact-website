@@ -38,12 +38,12 @@ const PAGE_MAP = {
 // English blog posts shown as cards on the Blog Index page, in display
 // order, mapped to the static files build-blog.js publishes them as. Keep
 // this in sync with the OUTPUT_MAP in scripts/build-blog.js.
-const BLOG_INDEX_POSTS = [
-  '5-everyday-herbs.md',
-  'brewing-medicinal-tea.md',
-  'daily-wellness-rituals.md',
-'the-silent-weight-how-excess-body-fat-quietly-undermines-your-health.md',
-  ];
+const BLOG_INDEX_POSTS = {
+'5-everyday-herbs.md': 'blog-1.html',
+'brewing-medicinal-tea.md': 'blog-2.html',
+'daily-wellness-rituals.md': 'blog-3.html',
+'the-silent-weight-how-excess-body-fat-quietly-undermines-your-health.md': 'blog-4.html',
+};
 
 function parseFrontMatter(raw) {
   const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
@@ -78,11 +78,10 @@ function render(template, data) {
 // Builds the "posts" list injected into the Blog Index page: one entry per
 // English blog post, using the same fields as the Blog Posts CMS collection.
 function loadBlogIndexPosts() {
-  return BLOG_INDEX_POSTS.filter((file) => fs.existsSync(path.join(BLOG_DIR, file))).map((file) => {
+  return Object.entries(BLOG_INDEX_POSTS).filter(([file]) => fs.existsSync(path.join(BLOG_DIR, file))).map(([file, slug]) => {
     const raw = fs.readFileSync(path.join(BLOG_DIR, file), 'utf8');
     const data = parseFrontMatter(raw);
-    const slug = file.replace(/\.md$/, '.html');
-    return { ...data, slug };
+        return { ...data, slug };
   });
 }
 
