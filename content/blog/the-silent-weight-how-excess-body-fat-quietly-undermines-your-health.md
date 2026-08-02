@@ -5,8 +5,7 @@ read_time: 3 MIN READ
 cover_image: /assets/uploads/weight-scale.jpg
 cover_image_alt: "The Silent Weight: How Excess Body Fat Quietly Undermines Your Health"
 swahili_link: blog-4-sw.html
-description: Excess body fat quietly strains your heart, blood sugar, and
-  joints. Learn the risks and how a modest weight loss can help.
+description: Excess body fat quietly strains your heart, blood sugar, and joints. Learn the risks and how a modest weight loss can help.
 ---
 Carrying excess weight does more than change how you look. It quietly reshapes how your heart, blood sugar, joints, and even your mood function every single day.
 
