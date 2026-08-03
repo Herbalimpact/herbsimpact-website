@@ -25,7 +25,7 @@ featured_products:
     price: "$7.50"
     description: "A soothing herbal tea blend, formulated to support digestion and everyday comfort."
     link_url: "https://payhip.com/b/x7da9"
-  - image: "https://payhip.com/cdn-cgi/image/format=auto,width=750/https://pe56d.s3.amazonaws.com/o_1jg2i5m8n1atv1s0p4lb1h2c1o8h1a.png"
+    - image: "/assets/uploads/chronic-cough-elixir.jpg"
     name: "The Potent Elixir for Chronic Cough"
     price: "$5.00"
     description: "A traditional herbal elixir formulated to ease persistent coughs naturally."
