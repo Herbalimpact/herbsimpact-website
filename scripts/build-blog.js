@@ -30,6 +30,8 @@ const OUTPUT_MAP = {
   'daily-wellness-rituals-sw.md': 'blog-3-sw.html',
   'the-silent-weight-how-excess-body-fat-quietly-undermines-your-health.md': 'blog-4.html',
   'uzito-wa-ziada-jinsi-mafuta-mengi-mwilini-yanavyodhoofisha-afya-yako-kimya-kimya.md': 'blog-4-sw.html',
+  'cyclospora-outbreak-2026-what-the-lettuce-linked-parasite-means-for-your-health.md': 'blog-5.html',
+  'mlipuko-wa-cyclospora-2026-maana-ya-vimelea-vinavyohusishwa-na-lettusi-kwa-afya-yako.md': 'blog-5-sw.html',
 };
 
 // The health disclaimer and the language-switch link text are the same on
