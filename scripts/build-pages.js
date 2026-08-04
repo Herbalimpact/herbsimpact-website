@@ -43,6 +43,7 @@ const BLOG_INDEX_POSTS = {
 'brewing-medicinal-tea.md': 'blog-2.html',
 'daily-wellness-rituals.md': 'blog-3.html',
 'the-silent-weight-how-excess-body-fat-quietly-undermines-your-health.md': 'blog-4.html',
+ 'cyclospora-outbreak-2026-what-the-lettuce-linked-parasite-means-for-your-health.md': 'blog-5.html',
 };
 
 function parseFrontMatter(raw) {
