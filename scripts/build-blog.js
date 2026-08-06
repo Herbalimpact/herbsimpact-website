@@ -32,6 +32,8 @@ const OUTPUT_MAP = {
   'uzito-wa-ziada-jinsi-mafuta-mengi-mwilini-yanavyodhoofisha-afya-yako-kimya-kimya.md': 'blog-4-sw.html',
   'cyclospora-outbreak-2026-what-the-lettuce-linked-parasite-means-for-your-health.md': 'blog-5.html',
   'mlipuko-wa-cyclospora-2026-maana-ya-vimelea-vinavyohusishwa-na-lettusi-kwa-afya-yako.md': 'blog-5-sw.html',
+  'chronic-cough-the-global-problem-thats-surprisingly-hard-to-treat.md': 'blog-6.html',
+  'kikohozi-sugu-tatizo-linaloendelea-kusumbua-dunia.md': 'blog-6-sw.html',
 };
 
 // The health disclaimer and the language-switch link text are the same on
