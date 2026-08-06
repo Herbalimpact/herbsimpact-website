@@ -93,7 +93,7 @@ function escapeHtml(str) {
 
 // Converts **bold** inline markdown to HTML on already-escaped text.
 function inline(text) {
-  return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>');
 }
 
 // Minimal Markdown -> HTML converter supporting the subset of Markdown used
