@@ -5,6 +5,7 @@ read_time: DAKIKA 8 ZA KUSOMA
 cover_image: /assets/uploads/chronic-cough-collage-sw.png
 cover_image_alt: Mkusanyiko wa watu tofauti wa rika na asili wakikohoa nyumbani,
   ikionyesha jinsi kikohozi sugu kilivyoenea
+swahili_link: kikohozi-sugu-tatizo-linaloendelea-kusumbua-dunia
 description: Kikohozi sugu huathiri hadi mtu 1 kati ya 10 duniani. Jifunze
   sababu, kuenea duniani, na njia za matibabu ya hospitali na asili za kikohozi
   sugu.
