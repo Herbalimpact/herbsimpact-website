@@ -6,7 +6,7 @@ read_time: DAKIKA 5 ZA KUSOMA
 cover_image: /assets/uploads/bad-breath-bus-couple.png
 cover_image_alt: Mwanaume na mwanamke wameketi kwenye basi la abiria, wote
   wakikunja pua na kufunika midomo yao kutokana na harufu mbaya ya pumzi
-swahili_link: blog-6.html
+swahili_link: blog-7.html
 description: Harufu mbaya ya pumzi huathiri watu wengi wakati fulani wa maisha
   yao. Hii ndiyo sababu halisi ya halitosis na hatua rahisi zinazosaidia
   kuitatua.
