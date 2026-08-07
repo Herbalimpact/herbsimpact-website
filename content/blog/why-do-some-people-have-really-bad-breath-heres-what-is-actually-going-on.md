@@ -5,7 +5,7 @@ read_time: 5 MIN READ
 cover_image: /assets/uploads/bad-breath-bus-couple.png
 cover_image_alt: A man and woman sitting next to each other on a public bus,
   both wrinkling their noses and covering their mouths due to bad breath
-swahili_link: blog-6-sw.html
+swahili_link: blog-7-sw.html
 description: Bad breath affects most adults at some point. Here's what really
   causes halitosis and the simple, proven steps that actually fix it.
 ---
