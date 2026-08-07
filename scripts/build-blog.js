@@ -33,6 +33,8 @@ const OUTPUT_MAP = {
   'cyclospora-outbreak-2026-what-the-lettuce-linked-parasite-means-for-your-health.md': 'blog-5.html',
   'mlipuko-wa-cyclospora-2026-maana-ya-vimelea-vinavyohusishwa-na-lettusi-kwa-afya-yako.md': 'blog-5-sw.html',
   'chronic-cough-the-global-problem-thats-surprisingly-hard-to-treat.md': 'blog-6.html',
+    'why-do-some-people-have-really-bad-breath-heres-what-is-actually-going-on.md': 'blog-7.html',
+    'kwa-nini-baadhi-ya-watu-wanatoa-pumzi-yenye-harufu-mbaya-sana-hii-ndiyo-sababu-halisi.md': 'blog-7-sw.html',
   'kikohozi-sugu-tatizo-linaloendelea-kusumbua-dunia.md': 'blog-6-sw.html',
 };
 
