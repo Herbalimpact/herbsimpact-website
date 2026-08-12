@@ -400,8 +400,8 @@ article.post ul{ padding-left: 1.2em; }
 .sw-box{ background: var(--yellow-light); border-radius:10px; padding:12px 14px; margin-top:8px; font-size:0.92rem; color:var(--text); }
 
 .featured-products{ margin-top:40px; }
-.product-card img{ display:block; width:auto; max-width:100%; height:260px; object-fit:contain; background:#f4f1ea; border-radius:10px; margin:0 auto 14px; box-sizing:border-box; }
-.product-card .price{ color:var(--green); font-weight:800; margin-bottom:10px; }
+.product-card img{ display:block; width:auto; max-width:100%; height:320px; object-fit:contain; background:#f4f1ea; border-radius:10px; margin:0 auto 14px; box-sizing:border-box; }
+.featured-products .grid-2{ grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); } .product-card .price{ color:var(--green); font-weight:800; margin-bottom:10px; }
 
 .whatsapp-float{
   position: fixed; bottom: 24px; right: 24px; z-index: 999;
