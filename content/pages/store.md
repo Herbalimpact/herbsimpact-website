@@ -24,7 +24,9 @@ featured_products:
   - image: /assets/uploads/HAIIBA%20DENTAL%20GUARD%20FOR%20LOADING%20ON%20GITHUB.jpg
     name: Haiiba Dental Guard
     price: $4.75
-    description: A natural formulation designed to support healthy teeth and gums.
+    description: Very powerful herbal disinfectant designed to combat gram positive
+      bacteria invasion in the teeth & gums, leading to reclaimed oral health in
+      a short time
     link_url: https://payhip.com/b/hxvAR
   - image: /assets/uploads/HAIIBA%20TIMAM%20TEA%20FOR%20LOADING%20ON%20GITHUB.jpg
     name: Haiiba Timam Tea
