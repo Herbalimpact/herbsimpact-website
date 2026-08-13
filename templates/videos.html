@@ -44,13 +44,9 @@
 <div class="container">
 <div class="grid grid-3">
 {{#videos}}
-<div class="video-card">
-{{#video_file}}
-<video controls playsinline style="max-width:325px;width:100%;margin:0 auto;display:block;"><source src="{{video_file}}"></video>
-{{/video_file}}
-{{^video_file}}
+<div class="video-card" data-video-file="{{video_file}}">
+<video class="uploaded-video" controls playsinline style="max-width:325px;width:100%;margin:0 auto;display:none;"><source src="{{video_file}}"></video>
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/{{tiktok_handle}}/video/{{video_id}}" data-video-id="{{video_id}}" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote>
-{{/video_file}}
 </div>
 {{/videos}}
 </div>
@@ -59,6 +55,25 @@
 </div>
 </div>
 </section>
+
+<script>
+(function(){
+  var cards = document.querySelectorAll(".video-card");
+  cards.forEach(function(card){
+    var raw = card.getAttribute("data-video-file") || "";
+    var hasVideo = raw.trim() !== "" && raw.indexOf("{{") === -1;
+    var video = card.querySelector("video.uploaded-video");
+    var tiktok = card.querySelector("blockquote.tiktok-embed");
+    if (hasVideo && video) {
+      var source = video.querySelector("source");
+      if (source) { source.setAttribute("src", raw); }
+      video.load();
+      video.style.display = "block";
+      if (tiktok) { tiktok.style.display = "none"; }
+    }
+  });
+})();
+</script>
 
 <script async src="https://www.tiktok.com/embed.js"></script>
 
