@@ -48,6 +48,17 @@ featured_products:
       everyday mobility — ideal after exercise, physical work, or age-related
       pain and stiffness
     link_url: https://payhip.com/b/P2izb
+  - name: TIBA NYEPESI YA NYUMBANI KWA AJILI YA KUPONYA MAGONJWA YA MOYO NA
+      SHINIKIZO LA JUU LA DAMU (PRESHA)
+    price: $21.00
+    description: Tiba nyepesi ya nyumbani kwa ajili ya kuponya magonjwa ya moyo na
+      shinikizo la juu la damu ni muongozo wa jinsi unavyoweza kutumia mimea ya
+      kawaida, inayopatikana katika masoko ya jirani na ulipo, kuponya maradhi
+      ya moyo na shinikizo la juu la damu. Magonjwa haya kwa pamoja ndiyo
+      yanayoongoza kwa kuua idadi kubwa ya watu duniani. Tuiba hii imetumika kwa
+      mafanikio makubwa tangu 2018 na imewaokoa wengi.
+    link_url: https://payhip.com/b/bR3rJ
+    image: /assets/uploads/tiba-nyepesi-moyo-presha.jpg
 highlights:
   - icon: 🫙
     title: Herbal Products
