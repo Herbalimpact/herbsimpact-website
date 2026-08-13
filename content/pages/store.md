@@ -38,7 +38,8 @@ featured_products:
   - image: /assets/uploads/chronic-cough-elixir.jpg
     name: The Potent Elixir for Chronic Cough
     price: $5.00
-    description: A traditional herbal elixir formulated to ease persistent coughs naturally.
+    description: powerful method to formulate a highly potent herbal elixir to ease
+      persistent coughs naturally
     link_url: https://payhip.com/b/g6l1f
   - image: /assets/uploads/HAIIBA%20SKEL%20GEL%20FOR%20LOADING%20ON%20GITHUB.jpg
     name: Haiiba Skel Gel
