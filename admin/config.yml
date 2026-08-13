@@ -185,7 +185,8 @@ collections:
             name: videos
             widget: list
             fields:
-              - {label: "TikTok video ID", name: video_id, widget: string, hint: "The number at the end of the video's TikTok URL"}
+              - {label: "TikTok video ID", name: video_id, widget: string, required: false, hint: "The number at the end of the video's TikTok URL"}
+              - {label: "Upload a video file", name: video_file, widget: file, required: false, hint: "Upload a video file directly (MP4 recommended). If provided, this is used instead of the TikTok embed."}
 
   - name: blog_posts
     label: "Blog Posts"
