@@ -29,8 +29,9 @@ featured_products:
   - image: /assets/uploads/HAIIBA%20TIMAM%20TEA%20FOR%20LOADING%20ON%20GITHUB.jpg
     name: Haiiba Timam Tea
     price: $7.50
-    description: A soothing herbal tea blend, formulated to support digestion and
-      everyday comfort.
+    description: Since 2012 this herbal tea made from several edible plants have
+      given relief to thousands of people. It is famous for cleansing all the
+      internal organs, removing imbalances and restoring organ function
     link_url: https://payhip.com/b/x7da9
   - image: /assets/uploads/chronic-cough-elixir.jpg
     name: The Potent Elixir for Chronic Cough
