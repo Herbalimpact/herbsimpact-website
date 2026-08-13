@@ -55,7 +55,7 @@ featured_products:
       shinikizo la juu la damu ni muongozo wa jinsi unavyoweza kutumia mimea ya
       kawaida, inayopatikana katika masoko ya jirani na ulipo, kuponya maradhi
       ya moyo na shinikizo la juu la damu. Magonjwa haya kwa pamoja ndiyo
-      yanayoongoza kwa kuua idadi kubwa ya watu duniani. Tuiba hii imetumika kwa
+      yanayoongoza kwa kuua idadi kubwa ya watu duniani. Tiba hii imetumika kwa
       mafanikio makubwa tangu 2018 na imewaokoa wengi.
     link_url: https://payhip.com/b/bR3rJ
     image: /assets/uploads/tiba-nyepesi-moyo-presha.jpg
