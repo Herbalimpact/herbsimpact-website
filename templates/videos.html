@@ -44,7 +44,14 @@
 <div class="container">
 <div class="grid grid-3">
 {{#videos}}
-<div class="video-card"><blockquote class="tiktok-embed" cite="https://www.tiktok.com/{{tiktok_handle}}/video/{{video_id}}" data-video-id="{{video_id}}" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote></div>
+<div class="video-card">
+{{#video_file}}
+<video controls playsinline style="max-width:325px;width:100%;margin:0 auto;display:block;"><source src="{{video_file}}"></video>
+{{/video_file}}
+{{^video_file}}
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/{{tiktok_handle}}/video/{{video_id}}" data-video-id="{{video_id}}" style="max-width:325px;min-width:250px;margin:0 auto;"><section></section></blockquote>
+{{/video_file}}
+</div>
 {{/videos}}
 </div>
 <div class="text-center mt-40">
