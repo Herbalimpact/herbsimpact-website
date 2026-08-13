@@ -44,9 +44,9 @@ featured_products:
   - image: /assets/uploads/HAIIBA%20SKEL%20GEL%20FOR%20LOADING%20ON%20GITHUB.jpg
     name: Haiiba Skel Gel
     price: $9.50
-    description: A wellness gel formulated to support joint comfort, flexibility,
-      and everyday mobility — ideal after exercise, physical work, or
-      age-related stiffness.
+    description: An oral gel formulated to support joint comfort, flexibility, and
+      everyday mobility — ideal after exercise, physical work, or age-related
+      pain and stiffness
     link_url: https://payhip.com/b/P2izb
 highlights:
   - icon: 🫙
