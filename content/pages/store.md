@@ -35,7 +35,7 @@ featured_products:
       given relief to thousands of people. It is famous for cleansing all the
       internal organs, removing imbalances and restoring organ function
     link_url: https://payhip.com/b/x7da9
-  - image: /assets/uploads/chronic-cough-elixir.jpg
+  - image: /assets/uploads/chronic-cough-elixir-new.jpg
     name: The Potent Elixir for Chronic Cough
     price: $5.00
     description: Powerful method to formulate a highly potent herbal elixir to ease
