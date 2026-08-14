@@ -116,6 +116,7 @@ collections:
               - {label: "Tag", name: tag, widget: string}
               - {label: Title, name: title, widget: string}
               - {label: Description, name: description, widget: text}
+              - {label: "Image (optional)", name: image, widget: image, required: false}
               - {label: "File (upload a PDF or paste a URL)", name: file_url, widget: file}
               - {label: "Swahili title", name: sw_title, widget: string, required: false}
               - {label: "Swahili description", name: sw_description, widget: text, required: false}
@@ -200,6 +201,7 @@ collections:
       - {label: "Read time", name: read_time, widget: string, hint: "e.g. 6 MIN READ"}
       - {label: "Cover image", name: cover_image, widget: image}
       - {label: "Cover image alt text", name: cover_image_alt, widget: string}
+      - {label: "PDF attachment (optional)", name: pdf_file, widget: file, required: false, hint: "Upload a PDF or paste a URL"}
       - {label: "Swahili version link", name: swahili_link, widget: string, required: false, hint: "Filename of the matching translated post, e.g. blog-1-sw.html"}
       - {label: "SEO description", name: description, widget: string, required: false, hint: "Used for search engines and link previews"}
       - {label: "Body", name: body, widget: markdown}
