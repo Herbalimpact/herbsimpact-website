@@ -50,7 +50,7 @@ featured_products:
     link_url: https://payhip.com/b/P2izb
   - name: TIBA NYEPESI YA NYUMBANI KWA AJILI YA KUPONYA MAGONJWA YA MOYO NA
       SHINIKIZO LA JUU LA DAMU (PRESHA)
-    price: $21.00
+    price: $70.00
     description: Tiba nyepesi ya nyumbani kwa ajili ya kuponya magonjwa ya moyo na
       shinikizo la juu la damu ni muongozo wa jinsi unavyoweza kutumia mimea ya
       kawaida, inayopatikana katika masoko ya jirani na ulipo, kuponya maradhi
