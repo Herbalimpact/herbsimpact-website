@@ -198,12 +198,12 @@ collections:
     fields:
       - {label: "Title", name: title, widget: string}
       - {label: "Category", name: category, widget: string, hint: "Small eyebrow label above the title, e.g. GETTING STARTED"}
-      - {label: "Read time", name: read_time, widget: string, hint: "e.g. 6 MIN READ"}
-      - {label: "Cover image", name: cover_image, widget: image}
-      - {label: "Cover image alt text", name: cover_image_alt, widget: string}
+      - {label: "Read time", name: read_time, widget: string, required: false, hint: "e.g. 6 MIN READ"}
+      - {label: "Cover image", name: cover_image, widget: image, required: false}
+      - {label: "Cover image alt text", name: cover_image_alt, widget: string, required: false}
       - {label: "PDF attachment (optional)", name: pdf_file, widget: file, required: false, hint: "Upload a PDF or paste a URL"}
       - {label: "Swahili version link", name: swahili_link, widget: string, required: false, hint: "Filename of the matching translated post, e.g. blog-1-sw.html"}
       - {label: "Swahili cover image (optional)", name: swahili_cover_image, widget: image, required: false}
       - {label: "Swahili PDF attachment (optional)", name: swahili_pdf_file, widget: file, required: false, hint: "Upload a PDF or paste a URL"}
       - {label: "SEO description", name: description, widget: string, required: false, hint: "Used for search engines and link previews"}
-      - {label: "Body", name: body, widget: markdown}
+      - {label: "Body", name: body, widget: markdown, required: false}
