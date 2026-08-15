@@ -6,47 +6,45 @@ pdf_file: https://medium.com/@sihakwanza/being-rich-could-have-led-to-her-demise
 swahili_cover_image: https://medium.com/@sihakwanza/being-rich-could-have-led-to-her-demise-by-now-1b4dd9391fee
 swahili_pdf_file: /assets/uploads/angekuwa-tajiri-huenda-angeshakufa.pdf
 swahili_link: blog-8-sw.html
-description: Why being rich might have killed her. A true Tanzania story of
-  Rehema, a kidney patient who could not afford dialysis, and an unexpected
-  outcome.
+description: Why being rich might have killed her. A true Tanzania story of Rehema, a kidney patient who could not afford dialysis, and an unexpected outcome.
 ---
 
-## Could Having Money Have Killed Her?
+## Why Being Rich Might Have Killed Her
 
-It was nine in the morning when my phone rang. I answered and said, "Yes!"
+It was 9:00 in the morning when my mobile phone rang. I answered the call and said, "Naam!" In Swahili, "naam" loosely translates to "hello."
 
-"I was given your number by..." the man on the other end mentioned a name, but I've forgotten it now.
+"I was given your phone number by…" the man on the other end mentioned a name, but I had forgotten it.
 
-"Alright. How can I help you?" I replied.
+"Okay. What can I do for you?" I replied.
 
-"We have a kidney patient. She's currently admitted at Muhimbili National Hospital. The hospital says she needs dialysis every week, but we don't have the money, and the patient has no health insurance. The person who gave us your number happened to hear about our financial situation and decided to help us. He told us you're a well-known alternative medicine specialist who could help us!" the man explained eagerly.
+"We have a kidney patient. She is currently admitted at Muhimbili National Hospital. The hospital says she must undergo dialysis weekly, but we don't have the money, and the patient doesn't have medical insurance. The person who gave us your number accidentally learned about our situation and decided to help. He says you are a renowned alternative medicine practitioner who can assist us!" The man explained enthusiastically.
 
-I wanted to tell him he was mistaken, but I couldn't bring myself to do it. From the tone of his voice, it was clear they had placed all their hope in me. I told them to come see me once they got permission to leave the hospital, then gave him my address, secretly hoping they wouldn't actually show up. You see, I had no knowledge at all about treating kidney disease. Although I was — and still am — licensed to practice alternative medicine, this was the first time anyone had asked me to treat a kidney patient.
+I wanted to tell him he was mistaken, but I couldn't bring myself to do it. From his tone, it was clear they were pinning all their hopes on me. I told him to come and see me once they got a hospital discharge and gave him my address, hoping fervently they wouldn't show up. You see, I had no idea how to cure kidney disease. Although I had (and still have) a license to practice alternative medicine, this was the first time I had been asked to treat a kidney patient.
 
-Not knowing what to do about it, I decided to put the matter out of my mind and get on with other things. At three in the afternoon, I looked out through my office door. My office sits behind the main building, and its door faces the road, about thirty or forty meters away. What I saw startled me: four people were coming toward my office — three women and one man. One of the women was being carried on the man's back. I froze.
+Not knowing what else to do, I pushed the issue from my mind and focused on other matters. At 3:00 in the afternoon, I glanced outside my office door. My office is located at the back of a building, with the door facing the street about thirty or forty meters away. The sight that greeted me shocked me: four people were approaching — three women and one man. One of the women was being carried on the man's back. I was speechless!
 
-Slowly, they made their way into my office. The office had very little furniture, just a few ordinary chairs, no couch. The man laid the woman he was carrying down on the floor, then took a seat on one of the chairs, while the other two women sat in the remaining chairs. The woman on the floor was groaning in pain, clearly in serious distress.
+Slowly, they entered my office. It was sparsely furnished, with only a few ordinary chairs and no couch. The man placed the woman on the floor and sat in one of the chairs, while the other two women took their seats. The woman on the floor was whimpering, clearly in severe pain or discomfort.
 
-"Are you Dr. Juma?" the man asked. Without waiting for my answer, he continued, pointing at the woman on the floor. "This is the patient I told you about on the phone. Her name is Rehema. We're all brothers and sisters here. These two are my sisters, but Rehema is the youngest. The doctors at Muhimbili say she needs dialysis. They say her blood has to be cleaned at least once a week, or she won't survive. Our biggest problem is the cost. One session costs 450,000 shillings. Our family is poor, and our sister has no health insurance."
+"You are Doctor Juma?" the man asked. Without waiting for my reply, he continued, pointing at the woman on the floor. "This is the patient I told you about over the phone. Her name is Rehema. We are all siblings here. These two are my sisters, but Rehema is the youngest. The doctors at Muhimbili say she needs dialysis. They say she must have her blood cleansed at least once a week; otherwise, she won't survive. Our biggest problem is the cost. A single session costs 450,000 Tanzanian shillings. Our family is poor, and our sister doesn't have medical insurance."
 
-At the time, 450,000 Tanzanian shillings was roughly equivalent to about 197.60 US dollars.
+At the time, 450,000 Tanzanian shillings was equivalent to about 197.6 US dollars.
 
-"Did you get permission to leave the hospital?" I asked.
+"Did you get a discharge?" I asked.
 
-"No, we smuggled her out!" the man answered.
+"No, we sneaked her out!" the man replied.
 
-My heart began to race. "If this woman dies here, I'll be in serious trouble," I thought. The police could arrest me, I could even be beaten. I knew the media would blow the story out of proportion. My colleagues in alternative medicine would face scorn and blame. If the news spread, even a judge might refuse to grant me bail. In short, I'd be judged and punished before my case was ever heard!
+I started shaking internally. "If this woman dies here, I would be in serious trouble!" I thought. The police might arrest me, and I could end up being beaten! I knew the media would sensationalize the story, distorting the facts. My colleagues in the alternative medicine field would face derogatory scrutiny. As the story spread, the magistrate might even refuse to grant me bail. Essentially, I would be condemned and sentenced before any trial!
 
-The world isn't fair. Every hospital has a special building for storing the bodies of the deceased, called a mortuary. Yet no one ever questions the deaths that happen there. It seems dying in a hospital is simply accepted as normal!
+The world is not fair. All hospitals have a building dedicated to housing the dead, called a mortuary or morgue. Yet, no one questions the deaths that occur there. It seems dying in a hospital is considered a right!
 
-I decided to get the people in front of me out of there as quickly as possible. Even though I had never treated a kidney patient before, I had an idea of how to approach the situation from an alternative medicine perspective. I took four packets of a product we call Haiiba Timam Tea. Four packets would be enough for a month. Among its other benefits, this tea is good for stimulating urination, which matters because kidney patients often struggle to urinate when their kidneys can no longer filter blood properly.
+I decided to get rid of the people in front of me quickly. Although I had never treated a kidney patient before, I had an idea of how to approach the situation from an alternative medicine perspective. I retrieved four packets of a product we call Haiiba Timam Tea. The four packets would be enough for one month. Among other benefits, this tea is excellent for stimulating urination, which is crucial because kidney patients often struggle to pass urine due to their kidneys' inability to filter blood.
 
-I also knew that kidney patients typically need an alkaline diet, since kidney disease is often caused by excess acidity in the body. I wrote down the foods they needed and gave the list to Rehema's brother. After they left, I let out a sigh of relief. "If she dies out there, no one can blame me," I told myself.
+I also knew that kidney patients typically require an alkaline diet because kidney disease is often caused by excessive acidity in the body. I wrote a prescription for dietary items they would need and handed it to Rehema's brother. Once they left, I sighed in relief. If she died out there, no one could pin it on me, I reassured myself.
 
-Do you believe in God? I hope you do, because God is great and can turn around any situation. Three weeks after that day, Rehema's brother called me. My heart nearly stopped; I braced myself for bad news, assuming he was calling to tell me Rehema had died. But that wasn't it at all! Instead, with joy in his voice, he told me Rehema had recovered and wanted to go back to her village. I was stunned! Rehema, recovered? I could hardly believe what I was hearing. But then I remembered God and His limitless power. We will all die and return to the earth, but one day God will raise us again. Surely, the One who can raise us from the dust can heal a kidney, can't He?
+Do you believe in God? I hope you do, because God is truly great and can correct any situation. Three weeks from that day, Rehema's brother called. My heart skipped a beat; I braced myself for bad news, assuming he was calling to tell me she had died. Surprise! Instead, in an excited voice, he told me that Rehema was healed and wanted to return to the village. I was dumbfounded! Rehema was healed? I could hardly believe my ears. But then I remembered God and His unlimited power. We will all die and return to dust, but one day, God will resurrect us. Surely, the one who can resurrect us from mere dust can heal a kidney, right?
 
-I told her brother to thank God for Rehema's healing. This happened several years ago, and to this day, Rehema has never had kidney problems again. Since then, I've had the chance to help a few other kidney patients, using the same approach I used with Rehema. It worked!
+I told her brother to thank God for Rehema's healing. This incident happened seven years ago, and to this day, Rehema remains free of any kidney problems. Since then, I've had the opportunity to treat a few more kidney cases, and I repeated the same approach I used with Rehema. It worked!
 
-One day, out of the blue, Rehema called me and said she had a small gift for me. She insisted I accept it, even though it was small, because it was all she could afford. I told her not to worry about it. A few minutes later, I got a notification on my phone — she had sent 5,000 Tanzanian shillings. At the exchange rate at the time, that was roughly 2.30 US dollars. It really was a small amount, but consider the size of the heart behind that gift.
+Last year, out of the blue, Rehema called me and said she had a small gift for me. She insisted I accept it, even though it was modest, as it was all she could afford. I told her not to worry. A few minutes later, I received a notification on my mobile phone — it was a transfer of 5,000 Tanzanian shillings. At last year's exchange rate, that was equivalent to about 2.30 US dollars. It was indeed a small amount, but just imagine the enormity of the heart that gave it.
 
-This is the program I used to help Rehema recover. For a small investment, you can get it here for your own use: [HAIIBA KIDNEY-CLEANSING PROGRAM](https://payhip.com/b/csxQ2)
+Here is the program I used to heal Rehema. With a small investment you can access it [here](https://payhip.com/b/csxQ2) for your own use.
