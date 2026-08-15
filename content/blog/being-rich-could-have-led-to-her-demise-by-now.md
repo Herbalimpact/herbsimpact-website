@@ -47,4 +47,4 @@ I told her brother to thank God for Rehema's healing. This incident happened sev
 
 Last year, out of the blue, Rehema called me and said she had a small gift for me. She insisted I accept it, even though it was modest, as it was all she could afford. I told her not to worry. A few minutes later, I received a notification on my mobile phone — it was a transfer of 5,000 Tanzanian shillings. At last year's exchange rate, that was equivalent to about 2.30 US dollars. It was indeed a small amount, but just imagine the enormity of the heart that gave it.
 
-Here is the program I used to heal Rehema. With a small investment you can access it [here](https://payhip.com/b/csxQ2) for your own use.
+Here is the program I used to heal Rehema. With a small investment you can access it **[Here](https://payhip.com/b/csxQ2)** for your own use.
