@@ -44,6 +44,9 @@ const BLOG_INDEX_POSTS = {
 'daily-wellness-rituals.md': 'blog-3.html',
 'the-silent-weight-how-excess-body-fat-quietly-undermines-your-health.md': 'blog-4.html',
  'cyclospora-outbreak-2026-what-the-lettuce-linked-parasite-means-for-your-health.md': 'blog-5.html',
+ 'chronic-cough-the-global-problem-thats-surprisingly-hard-to-treat.md': 'blog-6.html',
+ 'why-do-some-people-have-really-bad-breath-heres-what-is-actually-going-on.md': 'blog-7.html',
+ 'being-rich-could-have-led-to-her-demise-by-now.md': 'blog-8.html',
 };
 
 function parseFrontMatter(raw) {
