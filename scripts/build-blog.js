@@ -37,6 +37,7 @@ const OUTPUT_MAP = {
     'kwa-nini-baadhi-ya-watu-wanatoa-pumzi-yenye-harufu-mbaya-sana-hii-ndiyo-sababu-halisi.md': 'blog-7-sw.html',
   'kikohozi-sugu-tatizo-linaloendelea-kusumbua-dunia.md': 'blog-6-sw.html',
   'being-rich-could-have-led-to-her-demise-by-now.md': 'blog-8.html',
+  'angekuwa-tajiri-huenda-angeshakufa.md': 'blog-8-sw.html',
 };
 
 // The health disclaimer and the language-switch link text are the same on
