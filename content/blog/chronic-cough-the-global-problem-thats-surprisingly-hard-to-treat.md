@@ -6,7 +6,7 @@ cover_image: /assets/uploads/chronic-cough-collage.png
 cover_image_alt: Collage of five people of different ages and backgrounds
   coughing into their hands at home, illustrating how widespread chronic cough
   is
-swahili_link: chronic-cough-sw
+swahili_link: blog-6-sw
 description: Chronic cough affects up to 1 in 10 adults worldwide. Learn the
   causes, global prevalence, and medical and natural treatment options for
   chronic cough.
