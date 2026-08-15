@@ -36,6 +36,7 @@ const OUTPUT_MAP = {
     'why-do-some-people-have-really-bad-breath-heres-what-is-actually-going-on.md': 'blog-7.html',
     'kwa-nini-baadhi-ya-watu-wanatoa-pumzi-yenye-harufu-mbaya-sana-hii-ndiyo-sababu-halisi.md': 'blog-7-sw.html',
   'kikohozi-sugu-tatizo-linaloendelea-kusumbua-dunia.md': 'blog-6-sw.html',
+  'being-rich-could-have-led-to-her-demise-by-now.md': 'blog-8.html',
 };
 
 // The health disclaimer and the language-switch link text are the same on
