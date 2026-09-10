@@ -1,6 +1,7 @@
 ---
 title: "Cyclospora Outbreak 2026: What the Lettuce-Linked Parasite Means for
   Your Health"
+seo_title: "Cyclospora Outbreak 2026: What You Need to Know"
 category: FOOD SAFETY
 read_time: 4 MIN READ
 cover_image: /assets/uploads/cyclospora-lettuce-wash.png

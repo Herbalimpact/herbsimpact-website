@@ -1,5 +1,6 @@
 ---
 title: Why Do Some People Have Really Bad Breath? Here's What is Actually Going On
+seo_title: "Why Do Some People Have Really Bad Breath?"
 category: ORAL HEALTH
 read_time: 5 MIN READ
 cover_image: /assets/uploads/bad-breath-bus-couple.png

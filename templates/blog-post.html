@@ -3,12 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{TITLE}} — Herbal Impact</title>
+<title>{{SEO_TITLE}} — Herbal Impact</title>
 <meta name="description" content="{{DESCRIPTION}}">
+<link rel="canonical" href="{{CANONICAL}}">
 <link rel="icon" href="logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
+<script type="application/ld+json">{{JSONLD}}</script>
 </head>
 <body>
 
@@ -48,6 +50,8 @@
     {{BODY}}
 
     <div class="disclaimer">{{DISCLAIMER}}</div>
+
+    {{RELATED_POSTS}}
 
     <p class="mt-40"><a href="blog.html">&larr; {{BOTTOM_LINK_TEXT}}</a></p>
   </div>

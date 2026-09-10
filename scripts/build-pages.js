@@ -21,6 +21,7 @@ const ROOT = path.resolve(__dirname, '..');
 const PAGES_DIR = path.join(ROOT, 'content', 'pages');
 const BLOG_DIR = path.join(ROOT, 'content', 'blog');
 const TEMPLATES_DIR = path.join(ROOT, 'templates');
+const SITE_URL = 'https://herbsimpact.com/';
 
 // Maps each content markdown file to the template used to render it and the
 // static HTML file it produces at the site root.
@@ -106,6 +107,31 @@ for (const [mdFile, pageInfo] of Object.entries(PAGE_MAP)) {
   const data = parseFrontMatter(fs.readFileSync(mdPath, 'utf8'));
   if (mdFile === 'blog-index.md') {
     data.posts = loadBlogIndexPosts();
+  }
+  // Every page gets a self-referencing canonical URL, so search engines
+  // treat the .html address (the one every internal link and the sitemap
+  // use) as the one true URL instead of splitting signals with the
+  // extensionless address GitHub Pages also happens to serve.
+  data.canonical = SITE_URL + output;
+  if (mdFile === 'home.md') {
+    // Basic Organization/WebSite structured data, shown once on the
+    // homepage so the business itself is eligible for rich results.
+    data.jsonld = JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Organization',
+          name: 'Herbal Impact',
+          url: SITE_URL,
+          logo: SITE_URL + 'logo.png',
+        },
+        {
+          '@type': 'WebSite',
+          name: 'Herbal Impact',
+          url: SITE_URL,
+        },
+      ],
+    });
   }
   const templateHtml = fs.readFileSync(templatePath, 'utf8');
   const html = render(templateHtml, data);

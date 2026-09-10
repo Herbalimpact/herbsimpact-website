@@ -1,6 +1,7 @@
 ---
 title: Kwa Nini Baadhi ya Watu Wanatoa Pumzi Yenye Harufu Mbaya Sana? Hii Ndiyo
   Sababu Halisi
+seo_title: "Kwa Nini Baadhi ya Watu Wanatoa Pumzi Mbaya Sana?"
 category: AFYA YA KINYWA
 read_time: DAKIKA 5 ZA KUSOMA
 cover_image: /assets/uploads/bad-breath-bus-couple.png

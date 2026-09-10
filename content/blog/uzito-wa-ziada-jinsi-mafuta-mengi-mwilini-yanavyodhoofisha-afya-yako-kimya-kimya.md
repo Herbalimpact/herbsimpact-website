@@ -1,5 +1,6 @@
 ---
 title: "Uzito wa Ziada: Jinsi Mafuta Mengi Mwilini Yanavyodhoofisha Afya Yako Kimya Kimya"
+seo_title: "Uzito wa Ziada Unavyodhoofisha Afya Yako Kimya Kimya"
 category: HATARI ZA KIAFYA
 read_time: DAKIKA 3 ZA KUSOMA
 cover_image: /assets/uploads/weight-scale.jpg

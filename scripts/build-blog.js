@@ -18,6 +18,7 @@ const path = require('path');
 const ROOT = path.resolve(__dirname, '..');
 const CONTENT_DIR = path.join(ROOT, 'content', 'blog');
 const TEMPLATE_PATH = path.join(ROOT, 'templates', 'blog-post.html');
+const SITE_URL = 'https://herbsimpact.com/';
 
 // Maps a content markdown file to the static HTML file it produces.
 // Add an entry here whenever a new blog post markdown file is created.
@@ -38,6 +39,29 @@ const OUTPUT_MAP = {
   'kikohozi-sugu-tatizo-linaloendelea-kusumbua-dunia.md': 'blog-6-sw.html',
   'being-rich-could-have-led-to-her-demise-by-now.md': 'blog-8.html',
   'angekuwa-tajiri-huenda-angeshakufa.md': 'blog-8-sw.html',
+};
+
+// Hand-curated "related articles" links, grouped by topic and language, so
+// every post links to a couple of others readers (and search engines) can
+// discover it from. Keep language pairs consistent (EN posts link only to
+// other EN posts, SW posts only to other SW posts).
+const RELATED_POSTS = {
+  'blog-1.html': ['blog-2.html', 'blog-3.html'],
+  'blog-2.html': ['blog-1.html', 'blog-3.html'],
+  'blog-3.html': ['blog-1.html', 'blog-2.html'],
+  'blog-1-sw.html': ['blog-2-sw.html', 'blog-3-sw.html'],
+  'blog-2-sw.html': ['blog-1-sw.html', 'blog-3-sw.html'],
+  'blog-3-sw.html': ['blog-1-sw.html', 'blog-2-sw.html'],
+  'blog-4.html': ['blog-6.html', 'blog-7.html'],
+  'blog-5.html': ['blog-6.html', 'blog-7.html'],
+  'blog-6.html': ['blog-4.html', 'blog-7.html'],
+  'blog-7.html': ['blog-4.html', 'blog-6.html'],
+  'blog-4-sw.html': ['blog-6-sw.html', 'blog-7-sw.html'],
+  'blog-5-sw.html': ['blog-6-sw.html', 'blog-7-sw.html'],
+  'blog-6-sw.html': ['blog-4-sw.html', 'blog-7-sw.html'],
+  'blog-7-sw.html': ['blog-4-sw.html', 'blog-6-sw.html'],
+  'blog-8.html': ['blog-4.html', 'blog-6.html'],
+  'blog-8-sw.html': ['blog-4-sw.html', 'blog-6-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
@@ -67,6 +91,16 @@ const BOTTOM_LINK_TEXT = {
   sw: 'Rudi kwenye makala zote / Back to all articles',
 };
 
+const RELATED_HEADING = { en: 'Related articles', sw: 'Makala zinazohusiana' };
+
+// Parses a simple "key: value" front-matter block. Unlike full YAML, a
+// value is allowed to continue on the following line(s) as long as those
+// lines are indented (this is the "folded scalar" style YAML allows, e.g.
+//   title: "A long title that wraps onto
+//     a second line"
+// ) - continuation lines are joined onto the value with a single space.
+// (Earlier versions of this parser silently dropped continuation lines,
+// which is why a few long titles/descriptions used to show up truncated.)
 function parseFrontMatter(raw) {
   const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
   if (!match) {
@@ -74,12 +108,24 @@ function parseFrontMatter(raw) {
   }
   const [, fmBlock, body] = match;
   const data = {};
+  let currentKey = null;
   fmBlock.split(/\r?\n/).forEach((line) => {
     if (!line.trim()) return;
+    // An indented line with no key of its own continues the previous value.
+    if (/^\s/.test(line) && currentKey) {
+      data[currentKey] = data[currentKey] + ' ' + line.trim();
+      return;
+    }
     const idx = line.indexOf(':');
     if (idx === -1) return;
     const key = line.slice(0, idx).trim();
-    let value = line.slice(idx + 1).trim();
+    const value = line.slice(idx + 1).trim();
+    currentKey = key;
+    data[key] = value;
+  });
+  // Strip wrapping quotes now that any multi-line value is fully joined.
+  Object.keys(data).forEach((key) => {
+    let value = data[key];
     if (value.startsWith('"') && value.endsWith('"')) {
       value = value.slice(1, -1).replace(/\\"/g, '"').replace(/\\\\/g, '\\');
     }
@@ -135,7 +181,49 @@ function markdownToHtml(md) {
   return htmlParts.join('\n\n    ');
 }
 
-function buildPost(mdFileName, template) {
+// Builds the small "Related articles" block shown near the end of each
+// post, using the RELATED_POSTS map above and the titles collected from
+// every post in the first pass of main().
+function buildRelatedHtml(outputName, isSwahili, titles) {
+  const related = RELATED_POSTS[outputName] || [];
+  if (!related.length) return '';
+  const items = related
+    .filter((href) => titles[href])
+    .map((href) => '      <li><a href="' + href + '">' + escapeHtml(titles[href]) + '</a></li>')
+    .join('\n');
+  if (!items) return '';
+  const heading = isSwahili ? RELATED_HEADING.sw : RELATED_HEADING.en;
+  return (
+    '<div class="related-articles">\n' +
+    '      <h3>' + escapeHtml(heading) + '</h3>\n' +
+    '      <ul>\n' + items + '\n      </ul>\n' +
+    '    </div>'
+  );
+}
+
+// Builds the Article structured-data block (JSON-LD) for a post's <head>,
+// so the article is eligible for rich results in search.
+function buildJsonLd(data, outputName) {
+  const canonicalUrl = SITE_URL + outputName;
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: data.title || '',
+    description: data.description || '',
+    image: data.cover_image || undefined,
+    url: canonicalUrl,
+    inLanguage: outputName.endsWith('-sw.html') ? 'sw' : 'en',
+    publisher: {
+      '@type': 'Organization',
+      name: 'Herbal Impact',
+      logo: { '@type': 'ImageObject', url: SITE_URL + 'logo.png' },
+    },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalUrl },
+  };
+  return JSON.stringify(jsonLd);
+}
+
+function buildPost(mdFileName, template, titles) {
   const mdPath = path.join(CONTENT_DIR, mdFileName);
   const raw = fs.readFileSync(mdPath, 'utf8');
   const { data, body } = parseFrontMatter(raw);
@@ -155,9 +243,16 @@ function buildPost(mdFileName, template) {
   const bottomLinkText = isSwahili ? BOTTOM_LINK_TEXT.sw : BOTTOM_LINK_TEXT.en;
 
   const bodyHtml = markdownToHtml(body);
+  // A shorter title for the <title> tag / search snippet, when one is set
+  // in front matter; otherwise falls back to the full on-page headline.
+  const seoTitle = data.seo_title || data.title || '';
+  const canonicalUrl = SITE_URL + outputName;
+  const relatedHtml = buildRelatedHtml(outputName, isSwahili, titles);
+  const jsonLd = buildJsonLd(data, outputName);
 
   const html = template
     .split('{{TITLE}}').join(escapeHtml(data.title || ''))
+    .split('{{SEO_TITLE}}').join(escapeHtml(seoTitle))
     .split('{{CATEGORY}}').join(escapeHtml(data.category || ''))
     .split('{{READ_TIME}}').join(escapeHtml(data.read_time || ''))
     .split('{{COVER_IMAGE}}').join(escapeHtml(data.cover_image || ''))
@@ -169,6 +264,9 @@ function buildPost(mdFileName, template) {
     .split('{{TOP_LINK_HREF}}').join(escapeHtml(topLinkHref))
     .split('{{TOP_LINK_TEXT}}').join(escapeHtml(topLinkText))
     .split('{{BOTTOM_LINK_TEXT}}').join(escapeHtml(bottomLinkText))
+    .split('{{CANONICAL}}').join(canonicalUrl)
+    .split('{{RELATED_POSTS}}').join(relatedHtml)
+    .split('{{JSONLD}}').join(jsonLd)
     .split('{{BODY}}').join(bodyHtml);
 
   fs.writeFileSync(path.join(ROOT, outputName), html, 'utf8');
@@ -184,7 +282,18 @@ function main() {
     return;
   }
 
-  files.forEach((file) => buildPost(file, template));
+  // First pass: collect every post's title (needed for the related-articles
+  // links) without writing any files yet.
+  const titles = {};
+  files.forEach((file) => {
+    const outputName = OUTPUT_MAP[file];
+    if (!outputName) return;
+    const { data } = parseFrontMatter(fs.readFileSync(path.join(CONTENT_DIR, file), 'utf8'));
+    titles[outputName] = data.title || '';
+  });
+
+  // Second pass: render and write each post, now that all titles are known.
+  files.forEach((file) => buildPost(file, template, titles));
   console.log('\nDone. Built ' + files.length + ' blog post(s).');
 }
 

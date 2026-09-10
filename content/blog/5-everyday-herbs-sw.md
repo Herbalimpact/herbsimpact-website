@@ -1,5 +1,6 @@
 ---
 title: "Mimea 5 ya Kila Siku Zinazofaa Kuwa Sehemu ya Afya Yako"
+seo_title: "Mimea 5 ya Kila Siku kwa Afya Yako"
 category: "KUANZA"
 read_time: "DAKIKA 6 ZA KUSOMA"
 cover_image: "https://wodkuvykpqnkpmpirjzg.supabase.co/storage/v1/object/public/media/articles/cover-herbs-1784288269.png"

@@ -1,12 +1,13 @@
 ---
 title: "Chronic Cough: The Global Problem That's Surprisingly Hard to Treat"
+seo_title: "Chronic Cough: Why It's So Hard to Treat"
 category: RESPIRATORY HEALTH
 read_time: 8 MIN READ
 cover_image: /assets/uploads/chronic-cough-collage.png
 cover_image_alt: Collage of five people of different ages and backgrounds
   coughing into their hands at home, illustrating how widespread chronic cough
   is
-swahili_link: blog-6-sw
+swahili_link: blog-6-sw.html
 description: Chronic cough affects up to 1 in 10 adults worldwide. Learn the
   causes, global prevalence, and medical and natural treatment options for
   chronic cough.

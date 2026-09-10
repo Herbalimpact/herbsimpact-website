@@ -1,5 +1,6 @@
 ---
 title: "Kujenga Desturi za Kila Siku kwa Afya ya Kudumu"
+seo_title: "Kujenga Desturi za Kila Siku kwa Afya"
 category: "MTINDO WA MAISHA"
 read_time: "DAKIKA 5 ZA KUSOMA"
 cover_image: "https://wodkuvykpqnkpmpirjzg.supabase.co/storage/v1/object/public/media/articles/cover-rituals-1784288269.png"

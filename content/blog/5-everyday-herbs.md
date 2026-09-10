@@ -1,5 +1,6 @@
 ---
 title: "5 Everyday Herbs That Belong in Your Wellness Routine"
+seo_title: "5 Everyday Herbs for Your Wellness Routine"
 category: "GETTING STARTED"
 read_time: "6 MIN READ"
 cover_image: "https://wodkuvykpqnkpmpirjzg.supabase.co/storage/v1/object/public/media/articles/cover-herbs-1784288269.png"
@@ -25,7 +26,7 @@ Ginger is one of the most familiar herbs worldwide. You'll find it in teas, soup
 
 ### Simple ways to use ginger daily
 
-- **Morning ginger tea:** Slice or grate a small piece of fresh ginger, simmer in water for 5â10 minutes, then add lemon and a bit of honey.
+- **Morning ginger tea:** Slice or grate a small piece of fresh ginger, simmer in water for 5–10 minutes, then add lemon and a bit of honey.
 - **Ginger in hot drinks:** Add ginger to your usual tea or herbal infusion for a stronger, more warming drink.
 - **Cooking with ginger:** Use grated or crushed ginger in soups, stir fries, stews, and marinades.
 
@@ -42,7 +43,7 @@ Fresh mint leaves are widely available in produce sections and farmers' markets,
 
 ### Simple ways to use mint daily
 
-- **Mint tea after meals:** Steep fresh or dried mint leaves in hot water for 5â10 minutes, then drink slowly after meals.
+- **Mint tea after meals:** Steep fresh or dried mint leaves in hot water for 5–10 minutes, then drink slowly after meals.
 - **Mint infused water:** Add a handful of mint leaves to your drinking water and let it infuse.
 - **Mint in salads and drinks:** Chop mint into fruit or green salads, or blend into juices and smoothies.
 
@@ -116,4 +117,4 @@ You can adjust this routine to suit your taste, cultural preferences, and schedu
 
 ## Final Thoughts
 
-Ginger, mint, rosemary, cinnamon, and garlic are more than just flavorings in your kitchen â they are everyday wellness tools that can support digestion, immunity, focus, and overall vitality. By turning these familiar herbs into intentional daily habits, you create a simple, affordable wellness routine rooted in both traditional wisdom and modern lifestyle needs, no matter where in the world you live.
+Ginger, mint, rosemary, cinnamon, and garlic are more than just flavorings in your kitchen — they are everyday wellness tools that can support digestion, immunity, focus, and overall vitality. By turning these familiar herbs into intentional daily habits, you create a simple, affordable wellness routine rooted in both traditional wisdom and modern lifestyle needs, no matter where in the world you live.

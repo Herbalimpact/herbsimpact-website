@@ -1,5 +1,6 @@
 ---
 title: "The Silent Weight: How Excess Body Fat Quietly Undermines Your Health"
+seo_title: "The Silent Weight of Excess Body Fat"
 category: HEALTH RISKS
 read_time: 3 MIN READ
 cover_image: /assets/uploads/weight-scale.jpg

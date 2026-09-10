@@ -1,5 +1,6 @@
 ---
 title: "Jinsi ya Kutengeneza Chai Kamili ya Mitishamba kwa Tiba"
+seo_title: "Jinsi ya Kutengeneza Chai Bora ya Mitishamba"
 category: "MAANDALIZI"
 read_time: "DAKIKA 4 ZA KUSOMA"
 cover_image: "https://wodkuvykpqnkpmpirjzg.supabase.co/storage/v1/object/public/media/articles/cover-tea-1784288269.png"

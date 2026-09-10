@@ -2,6 +2,7 @@
 title: Angekuwa Tajiri Huenda Angeshakufa
 category: AFYA NA SIHA
 cover_image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*RSRnJGsaqhQU5XXnVjVrwQ.png
+cover_image_alt: Mchoro wa mwanamke aliyevaa mavazi ya kiasili ya Kiafrika akibeba kuni kichwani na mtoto mgongoni akitembea kijijini
 swahili_link: blog-8.html
 description: Hadithi ya kweli kutoka Tanzania kuhusu Rehema, mgonjwa wa figo ambaye hakuwa na uwezo wa kulipia dialysis, na matokeo yasiyotarajiwa.
 ---
