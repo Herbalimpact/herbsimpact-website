@@ -1,5 +1,5 @@
 /* ===========================================================
-   Herbal Impact â Shared Stylesheet
+   Herbal Impact — Shared Stylesheet
    =========================================================== */
 
 :root{
@@ -355,6 +355,23 @@ article.post ul{ padding-left: 1.2em; }
   color: var(--text-soft);
   margin-top: 32px;
 }
+
+.related-articles{
+  background: var(--blue-light);
+  border-radius: var(--radius);
+  padding: 24px 28px;
+  margin-top: 32px;
+}
+.related-articles h3{
+  margin: 0 0 12px;
+  font-size: 1.1rem;
+}
+.related-articles ul{
+  margin: 0;
+  padding-left: 1.2em;
+}
+.related-articles li{ margin-bottom: 6px; }
+.related-articles a{ font-weight: 700; }
 
 .video-card iframe, .video-card blockquote{ width: 100%; }
 .video-embed{
