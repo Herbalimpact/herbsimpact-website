@@ -75,4 +75,11 @@ downloads:
     sw_title: "Mwani: Kitakasa Matumbo Mwanana cha Asili"
     sw_description: "Mwongozo wa bure wa afya unaoeleza nafasi ya asili ya mwani katika kusaidia mmeng'enyo wa chakula kwa upole na kuboresha kwa kiwango cha juu utoaji wa uchafu matumboni, pamoja na njia rahisi za kuuongeza kwenye ratiba yako ya kila siku."
     sw_file_url: "assets/uploads/mwani-kitakasa-matumbo-mwanana-cha-asili.pdf"
+  - tag: "Guide"
+    title: "Herbal Impact — Products & Services Guide"
+    description: "A full guide to Herbal Impact's herbal products and services, including health conditions addressed, usage instructions, and pricing."
+    file_url: "assets/uploads/herbal-impact-products-services-guide.pdf"
+    sw_title: "Mwongozo wa Bidhaa na Huduma za Herbal Impact"
+    sw_description: "Mwongozo kamili wa bidhaa na huduma za Herbal Impact, ukiwa na hali za kiafya zinazoshughulikiwa, maelekezo ya matumizi, na bei."
+    sw_file_url: "assets/uploads/mwongozo-wa-bidhaa-na-huduma-herbal-impact.pdf"
 ---
