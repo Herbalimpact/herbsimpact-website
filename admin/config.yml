@@ -1,4 +1,9 @@
-backend: {name: git-gateway, branch: main}
+backend:
+  name: github
+  repo: Herbalimpact/herbsimpact-website
+  branch: main
+  base_url: https://herbsimpact-cms-oauth.sihakwanza.workers.dev
+  auth_endpoint: auth
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 collections:
