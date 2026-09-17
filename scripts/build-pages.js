@@ -112,7 +112,7 @@ for (const [mdFile, pageInfo] of Object.entries(PAGE_MAP)) {
   // treat the .html address (the one every internal link and the sitemap
   // use) as the one true URL instead of splitting signals with the
   // extensionless address GitHub Pages also happens to serve.
-  data.canonical = SITE_URL + output;
+  data.canonical = mdFile === 'home.md' ? SITE_URL : SITE_URL + output;
   if (mdFile === 'home.md') {
     // Basic Organization/WebSite structured data, shown once on the
     // homepage so the business itself is eligible for rich results.
