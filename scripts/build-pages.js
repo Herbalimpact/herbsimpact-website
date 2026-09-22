@@ -48,6 +48,7 @@ const BLOG_INDEX_POSTS = {
  'chronic-cough-the-global-problem-thats-surprisingly-hard-to-treat.md': 'blog-6.html',
  'why-do-some-people-have-really-bad-breath-heres-what-is-actually-going-on.md': 'blog-7.html',
  'being-rich-could-have-led-to-her-demise-by-now.md': 'blog-8.html',
+ 'urinary-incontinence-types-causes-and-relief.md': 'blog-9.html',
 };
 
 function parseFrontMatter(raw) {

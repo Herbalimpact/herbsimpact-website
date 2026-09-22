@@ -39,6 +39,8 @@ const OUTPUT_MAP = {
   'kikohozi-sugu-tatizo-linaloendelea-kusumbua-dunia.md': 'blog-6-sw.html',
   'being-rich-could-have-led-to-her-demise-by-now.md': 'blog-8.html',
   'angekuwa-tajiri-huenda-angeshakufa.md': 'blog-8-sw.html',
+  'urinary-incontinence-types-causes-and-relief.md': 'blog-9.html',
+  'kushindwa-kuzuia-mkojo-aina-sababu-na-suluhisho.md': 'blog-9-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -62,6 +64,8 @@ const RELATED_POSTS = {
   'blog-7-sw.html': ['blog-4-sw.html', 'blog-6-sw.html'],
   'blog-8.html': ['blog-4.html', 'blog-6.html'],
   'blog-8-sw.html': ['blog-4-sw.html', 'blog-6-sw.html'],
+  'blog-9.html': ['blog-6.html', 'blog-7.html'],
+  'blog-9-sw.html': ['blog-6-sw.html', 'blog-7-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
