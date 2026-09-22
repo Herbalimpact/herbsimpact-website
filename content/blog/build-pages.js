@@ -1,0 +1,192 @@
+#!/usr/bin/env node
+/**
+  * Build script for Herbal Impact static pages (Home, About, Blog index,
+  * Contact, Downloads, Store, Tools, Videos).
+  *
+  * Reads each page's Markdown + front-matter file in content/pages/, merges
+  * the front-matter fields into the matching template in templates/, and
+  * writes the final static HTML file to the site root so existing URLs never
+  * change (e.g. content/pages/home.md -> index.html).
+  *
+  * Front matter can contain nested lists (e.g. "pillars", "downloads"), so it
+  * is parsed with the "yaml" package (already a declared dependency) rather
+  * than the simple hand-rolled parser used for blog posts.
+  */
+
+const fs = require('fs');
+const path = require('path');
+const YAML = require('yaml');
+
+const ROOT = path.resolve(__dirname, '..');
+const PAGES_DIR = path.join(ROOT, 'content', 'pages');
+const BLOG_DIR = path.join(ROOT, 'content', 'blog');
+const TEMPLATES_DIR = path.join(ROOT, 'templates');
+const SITE_URL = 'https://herbsimpact.com/';
+
+// Maps each content markdown file to the template used to render it and the
+// static HTML file it produces at the site root.
+const PAGE_MAP = {
+  'home.md': { template: 'home.html', output: 'index.html' },
+  'about.md': { template: 'about.html', output: 'about.html' },
+  'blog-index.md': { template: 'blog-index.html', output: 'blog.html' },
+  'contact.md': { template: 'contact.html', output: 'contact.html' },
+  'downloads.md': { template: 'downloads.html', output: 'downloads.html' },
+  'store.md': { template: 'store.html', output: 'store.html' },
+  'tools.md': { template: 'tools.html', output: 'tools.html' },
+  'videos.md': { template: 'videos.html', output: 'videos.html' },
+};
+
+// English blog posts shown as cards on the Blog Index page, in display
+// order, mapped to the static files build-blog.js publishes them as. Keep
+// this in sync with the OUTPUT_MAP in scripts/build-blog.js.
+const BLOG_INDEX_POSTS = {
+'5-everyday-herbs.md': 'blog-1.html',
+'brewing-medicinal-tea.md': 'blog-2.html',
+'daily-wellness-rituals.md': 'blog-3.html',
+'the-silent-weight-how-excess-body-fat-quietly-undermines-your-health.md': 'blog-4.html',
+ 'cyclospora-outbreak-2026-what-the-lettuce-linked-parasite-means-for-your-health.md': 'blog-5.html',
+ 'chronic-cough-the-global-problem-thats-surprisingly-hard-to-treat.md': 'blog-6.html',
+ 'why-do-some-people-have-really-bad-breath-heres-what-is-actually-going-on.md': 'blog-7.html',
+ 'being-rich-could-have-led-to-her-demise-by-now.md': 'blog-8.html',
+ 'urinary-incontinence-types-causes-and-relief.md': 'blog-9.html',
+};
+
+function parseFrontMatter(raw) {
+  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
+  if (!match) {
+    throw new Error('Missing front matter block (file must start with "---").');
+  }
+  return YAML.parse(match[1]) || {};
+}
+
+function escapeHtml(value) {
+  if (value === undefined || value === null) return '';
+  return String(value)
+  .replace(/&/g, '&amp;')
+  .replace(/</g, '&lt;')
+  .replace(/>/g, '&gt;');
+}
+
+// Turns a repo-relative image path (e.g. "/assets/uploads/x.jpg") into an
+// absolute URL, since social previews (Open Graph/Twitter) and structured
+// data require a full URL, not a path. Already-absolute URLs pass through.
+function toAbsoluteUrl(imagePath) {
+  if (!imagePath) return undefined;
+  if (/^https?:\/\//i.test(imagePath)) return imagePath;
+  return SITE_URL.replace(/\/$/, '') + imagePath;
+}
+
+// Renders {{#list}}...{{/list}} blocks by repeating the inner block once per
+// item (substituting {{field}} from that item), then substitutes any
+// remaining top-level {{field}} tokens from `data`.
+function render(template, data) {
+  let out = template.replace(/\{\{#(\w+)\}\}([\s\S]*?)\{\{\/\1\}\}/g, (whole, key, inner) => {
+    const list = Array.isArray(data[key]) ? data[key] : [];
+    return list
+    .map((item) => inner.replace(/\{\{(\w+)\}\}/g, (m, field) => escapeHtml(item[field])))
+    .join('');
+  });
+  out = out.replace(/\{\{(\w+)\}\}/g, (m, field) => escapeHtml(data[field]));
+  return out;
+}
+
+// Builds the "posts" list injected into the Blog Index page: one entry per
+// English blog post, using the same fields as the Blog Posts CMS collection.
+function loadBlogIndexPosts() {
+  return Object.entries(BLOG_INDEX_POSTS).filter(([file]) => fs.existsSync(path.join(BLOG_DIR, file))).map(([file, slug]) => {
+    const raw = fs.readFileSync(path.join(BLOG_DIR, file), 'utf8');
+    const data = parseFrontMatter(raw);
+        return { ...data, slug };
+  });
+}
+
+let builtCount = 0;
+for (const [mdFile, pageInfo] of Object.entries(PAGE_MAP)) {
+  const template = pageInfo.template;
+  const output = pageInfo.output;
+  const mdPath = path.join(PAGES_DIR, mdFile);
+  const templatePath = path.join(TEMPLATES_DIR, template);
+  if (!fs.existsSync(mdPath)) {
+    console.warn('Skipping ' + mdFile + ': content file not found at ' + mdPath);
+    continue;
+  }
+  if (!fs.existsSync(templatePath)) {
+    console.warn('Skipping ' + mdFile + ': template not found at ' + templatePath);
+    continue;
+  }
+  const data = parseFrontMatter(fs.readFileSync(mdPath, 'utf8'));
+  if (mdFile === 'blog-index.md') {
+    data.posts = loadBlogIndexPosts();
+  }
+  // Every page gets a self-referencing canonical URL, so search engines
+  // treat the .html address (the one every internal link and the sitemap
+  // use) as the one true URL instead of splitting signals with the
+  // extensionless address GitHub Pages also happens to serve.
+  data.canonical = mdFile === 'home.md' ? SITE_URL : SITE_URL + output;
+
+  // Open Graph / Twitter Card image: reuse each page's existing hero/intro
+  // image where one exists, fall back to the store's first featured product
+  // image on the store page, and fall back to the logo everywhere else.
+  if (mdFile === 'home.md') {
+    data.og_image = toAbsoluteUrl(data.hero_image) || SITE_URL + 'logo.png';
+  } else if (mdFile === 'about.md') {
+    data.og_image = toAbsoluteUrl(data.intro_image) || SITE_URL + 'logo.png';
+  } else if (mdFile === 'store.md') {
+    const firstProduct = Array.isArray(data.featured_products) ? data.featured_products[0] : null;
+    data.og_image = (firstProduct && toAbsoluteUrl(firstProduct.image)) || SITE_URL + 'logo.png';
+  } else {
+    data.og_image = SITE_URL + 'logo.png';
+  }
+
+  if (mdFile === 'home.md') {
+    // Basic Organization/WebSite structured data, shown once on the
+    // homepage so the business itself is eligible for rich results.
+    data.jsonld = JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Organization',
+          name: 'Herbal Impact',
+          url: SITE_URL,
+          logo: SITE_URL + 'logo.png',
+        },
+        {
+          '@type': 'WebSite',
+          name: 'Herbal Impact',
+          url: SITE_URL,
+        },
+      ],
+    });
+  } else if (mdFile === 'store.md') {
+    // Product structured data for every featured product, so the store
+    // page is eligible for product rich results.
+    const products = Array.isArray(data.featured_products) ? data.featured_products : [];
+    data.jsonld = JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': products.map((p) => {
+        const priceMatch = String(p.price || '').match(/[\d.]+/);
+        return {
+          '@type': 'Product',
+          name: p.name,
+          description: p.description,
+          image: toAbsoluteUrl(p.image),
+          url: p.link_url,
+          offers: {
+            '@type': 'Offer',
+            price: priceMatch ? priceMatch[0] : undefined,
+            priceCurrency: 'USD',
+            url: p.link_url,
+            availability: 'https://schema.org/InStock',
+          },
+        };
+      }),
+    });
+  }
+  const templateHtml = fs.readFileSync(templatePath, 'utf8');
+  const html = render(templateHtml, data);
+  fs.writeFileSync(path.join(ROOT, output), html);
+  console.log('Built ' + output + ' from content/pages/' + mdFile);
+  builtCount++;
+}
+
+console.log('Done. Built ' + builtCount + ' page(s).');
