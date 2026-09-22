@@ -24,8 +24,8 @@
 <a href="index.html">Home</a>
 <a href="about.html">About</a>
 <a href="store.html">Store</a>
-<a href="downloads.html" class="active">Free Downloads</a>
-<a href="blog.html">Blog</a>
+<a href="downloads.html">Free Downloads</a>
+<a href="blog.html" class="active">Blog</a>
 <a href="tools.html">Tools</a>
 <a href="videos.html">Videos</a>
 <a href="contact.html">Contact</a>
@@ -45,17 +45,15 @@
 <div class="container">
 <div class="grid grid-3">
 
-{{#downloads}}
-<div class="card download-card">
-<div>
-<span class="tag">{{tag}}</span>
+{{#posts}}
+<div class="card blog-card">
+<div class="thumb"><img src="{{cover_image}}" alt="{{cover_image_alt}}"></div>
+<div class="meta">{{category}} &middot; {{read_time}}</div>
 <h3>{{title}}</h3>
 <p>{{description}}</p>
-<details class="sw-toggle"><summary>SOMA KWA KISWAHILI HAPA</summary><div class="sw-box"><strong>{{sw_title}}</strong><p style="margin:6px 0 0;">{{sw_description}}</p></div></details>
+<a href="{{slug}}">Read article &rarr;</a> &middot; <a href="{{swahili_link}}" class="sw-link">SOMA KWA KISWAHILI HAPA</a>
 </div>
-<a class="btn btn-primary" href="{{file_url}}" target="_blank" rel="noopener">Download free</a>
-</div>
-{{/downloads}}
+{{/posts}}
 
 </div>
 </div>
