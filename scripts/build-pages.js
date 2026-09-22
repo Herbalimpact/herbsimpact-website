@@ -66,6 +66,15 @@ function escapeHtml(value) {
   .replace(/>/g, '&gt;');
 }
 
+// Turns a repo-relative image path (e.g. "/assets/uploads/x.jpg") into an
+// absolute URL, since social previews (Open Graph/Twitter) and structured
+// data require a full URL, not a path. Already-absolute URLs pass through.
+function toAbsoluteUrl(imagePath) {
+  if (!imagePath) return undefined;
+  if (/^https?:\/\//i.test(imagePath)) return imagePath;
+  return SITE_URL.replace(/\/$/, '') + imagePath;
+}
+
 // Renders {{#list}}...{{/list}} blocks by repeating the inner block once per
 // item (substituting {{field}} from that item), then substitutes any
 // remaining top-level {{field}} tokens from `data`.
@@ -113,6 +122,21 @@ for (const [mdFile, pageInfo] of Object.entries(PAGE_MAP)) {
   // use) as the one true URL instead of splitting signals with the
   // extensionless address GitHub Pages also happens to serve.
   data.canonical = mdFile === 'home.md' ? SITE_URL : SITE_URL + output;
+
+  // Open Graph / Twitter Card image: reuse each page's existing hero/intro
+  // image where one exists, fall back to the store's first featured product
+  // image on the store page, and fall back to the logo everywhere else.
+  if (mdFile === 'home.md') {
+    data.og_image = toAbsoluteUrl(data.hero_image) || SITE_URL + 'logo.png';
+  } else if (mdFile === 'about.md') {
+    data.og_image = toAbsoluteUrl(data.intro_image) || SITE_URL + 'logo.png';
+  } else if (mdFile === 'store.md') {
+    const firstProduct = Array.isArray(data.featured_products) ? data.featured_products[0] : null;
+    data.og_image = (firstProduct && toAbsoluteUrl(firstProduct.image)) || SITE_URL + 'logo.png';
+  } else {
+    data.og_image = SITE_URL + 'logo.png';
+  }
+
   if (mdFile === 'home.md') {
     // Basic Organization/WebSite structured data, shown once on the
     // homepage so the business itself is eligible for rich results.
@@ -131,6 +155,30 @@ for (const [mdFile, pageInfo] of Object.entries(PAGE_MAP)) {
           url: SITE_URL,
         },
       ],
+    });
+  } else if (mdFile === 'store.md') {
+    // Product structured data for every featured product, so the store
+    // page is eligible for product rich results.
+    const products = Array.isArray(data.featured_products) ? data.featured_products : [];
+    data.jsonld = JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': products.map((p) => {
+        const priceMatch = String(p.price || '').match(/[\d.]+/);
+        return {
+          '@type': 'Product',
+          name: p.name,
+          description: p.description,
+          image: toAbsoluteUrl(p.image),
+          url: p.link_url,
+          offers: {
+            '@type': 'Offer',
+            price: priceMatch ? priceMatch[0] : undefined,
+            priceCurrency: 'USD',
+            url: p.link_url,
+            availability: 'https://schema.org/InStock',
+          },
+        };
+      }),
     });
   }
   const templateHtml = fs.readFileSync(templatePath, 'utf8');

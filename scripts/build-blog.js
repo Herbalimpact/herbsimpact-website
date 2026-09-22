@@ -141,6 +141,15 @@ function escapeHtml(str) {
     .replace(/>/g, '&gt;');
 }
 
+// Turns a repo-relative image path (e.g. "/assets/uploads/x.jpg") into an
+// absolute URL, since social previews (Open Graph/Twitter) and structured
+// data require a full URL, not a path. Already-absolute URLs pass through.
+function toAbsoluteUrl(imagePath) {
+  if (!imagePath) return undefined;
+  if (/^https?:\/\//i.test(imagePath)) return imagePath;
+  return SITE_URL.replace(/\/$/, '') + imagePath;
+}
+
 // Converts **bold** inline markdown to HTML on already-escaped text.
 function inline(text) {
   return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>');
@@ -210,7 +219,7 @@ function buildJsonLd(data, outputName) {
     '@type': 'Article',
     headline: data.title || '',
     description: data.description || '',
-    image: data.cover_image || undefined,
+    image: toAbsoluteUrl(data.cover_image),
     url: canonicalUrl,
     inLanguage: outputName.endsWith('-sw.html') ? 'sw' : 'en',
     publisher: {
@@ -249,12 +258,16 @@ function buildPost(mdFileName, template, titles) {
   const canonicalUrl = SITE_URL + outputName;
   const relatedHtml = buildRelatedHtml(outputName, isSwahili, titles);
   const jsonLd = buildJsonLd(data, outputName);
+  // Open Graph / Twitter Card image: the post's cover image, absolutized,
+  // falling back to the site logo if a post has none.
+  const ogImage = toAbsoluteUrl(data.cover_image) || SITE_URL + 'logo.png';
 
   const html = template
     .split('{{TITLE}}').join(escapeHtml(data.title || ''))
     .split('{{SEO_TITLE}}').join(escapeHtml(seoTitle))
     .split('{{CATEGORY}}').join(escapeHtml(data.category || ''))
     .split('{{READ_TIME}}').join(escapeHtml(data.read_time || ''))
+    .split('{{OG_IMAGE}}').join(ogImage)
     .split('{{COVER_IMAGE}}').join(escapeHtml(data.cover_image || ''))
     .split('{{COVER_IMAGE_ALT}}').join(escapeHtml(data.cover_image_alt || ''))
     .split('{{SWAHILI_LINK}}').join(escapeHtml(data.swahili_link || ''))
