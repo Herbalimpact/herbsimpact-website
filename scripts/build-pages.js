@@ -49,6 +49,7 @@ const BLOG_INDEX_POSTS = {
  'why-do-some-people-have-really-bad-breath-heres-what-is-actually-going-on.md': 'blog-7.html',
  'being-rich-could-have-led-to-her-demise-by-now.md': 'blog-8.html',
  'urinary-incontinence-types-causes-and-relief.md': 'blog-9.html',
+ 'not-a-real-stomach-ulcer-you-could-be-suffering-from-acid-burns.md': 'blog-10.html',
 };
 
 function parseFrontMatter(raw) {
