@@ -43,6 +43,8 @@ const OUTPUT_MAP = {
   'kushindwa-kuzuia-mkojo-aina-sababu-na-suluhisho.md': 'blog-9-sw.html',
   'not-a-real-stomach-ulcer-you-could-be-suffering-from-acid-burns.md': 'blog-10.html',
   'huenda-hujapatwa-na-vidonda-halisi-vya-tumbo-umeungua-na-tindikali.md': 'blog-10-sw.html',
+  'stomach-ulcers-are-treatable-h-pylori-symptoms-and-treatment.md': 'blog-11.html',
+  'vidonda-vya-tumbo-vinatibika-h-pylori-dalili-na-tiba.md': 'blog-11-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -68,8 +70,10 @@ const RELATED_POSTS = {
   'blog-8-sw.html': ['blog-4-sw.html', 'blog-6-sw.html'],
   'blog-9.html': ['blog-6.html', 'blog-7.html'],
   'blog-9-sw.html': ['blog-6-sw.html', 'blog-7-sw.html'],
-  'blog-10.html': ['blog-5.html', 'blog-9.html'],
-  'blog-10-sw.html': ['blog-5-sw.html', 'blog-9-sw.html'],
+  'blog-10.html': ['blog-11.html', 'blog-5.html'],
+  'blog-10-sw.html': ['blog-11-sw.html', 'blog-5-sw.html'],
+  'blog-11.html': ['blog-10.html', 'blog-7.html'],
+  'blog-11-sw.html': ['blog-10-sw.html', 'blog-7-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on

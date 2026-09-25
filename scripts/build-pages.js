@@ -50,6 +50,7 @@ const BLOG_INDEX_POSTS = {
  'being-rich-could-have-led-to-her-demise-by-now.md': 'blog-8.html',
  'urinary-incontinence-types-causes-and-relief.md': 'blog-9.html',
  'not-a-real-stomach-ulcer-you-could-be-suffering-from-acid-burns.md': 'blog-10.html',
+ 'stomach-ulcers-are-treatable-h-pylori-symptoms-and-treatment.md': 'blog-11.html',
 };
 
 function parseFrontMatter(raw) {
