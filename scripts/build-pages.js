@@ -51,6 +51,7 @@ const BLOG_INDEX_POSTS = {
  'urinary-incontinence-types-causes-and-relief.md': 'blog-9.html',
  'not-a-real-stomach-ulcer-you-could-be-suffering-from-acid-burns.md': 'blog-10.html',
  'stomach-ulcers-are-treatable-h-pylori-symptoms-and-treatment.md': 'blog-11.html',
+ 'abnormal-vaginal-discharge-and-itching-causes-warning-signs-and-relief.md': 'blog-12.html',
 };
 
 function parseFrontMatter(raw) {

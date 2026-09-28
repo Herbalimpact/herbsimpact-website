@@ -45,6 +45,8 @@ const OUTPUT_MAP = {
   'huenda-hujapatwa-na-vidonda-halisi-vya-tumbo-umeungua-na-tindikali.md': 'blog-10-sw.html',
   'stomach-ulcers-are-treatable-h-pylori-symptoms-and-treatment.md': 'blog-11.html',
   'vidonda-vya-tumbo-vinatibika-h-pylori-dalili-na-tiba.md': 'blog-11-sw.html',
+  'abnormal-vaginal-discharge-and-itching-causes-warning-signs-and-relief.md': 'blog-12.html',
+  'kutokwa-na-uchafu-ukeni-na-kuwashwa-sababu-dalili-na-suluhisho.md': 'blog-12-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -74,6 +76,8 @@ const RELATED_POSTS = {
   'blog-10-sw.html': ['blog-11-sw.html', 'blog-5-sw.html'],
   'blog-11.html': ['blog-10.html', 'blog-7.html'],
   'blog-11-sw.html': ['blog-10-sw.html', 'blog-7-sw.html'],
+  'blog-12.html': ['blog-9.html', 'blog-11.html'],
+  'blog-12-sw.html': ['blog-9-sw.html', 'blog-11-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
