@@ -52,6 +52,7 @@ const BLOG_INDEX_POSTS = {
  'not-a-real-stomach-ulcer-you-could-be-suffering-from-acid-burns.md': 'blog-10.html',
  'stomach-ulcers-are-treatable-h-pylori-symptoms-and-treatment.md': 'blog-11.html',
  'abnormal-vaginal-discharge-and-itching-causes-warning-signs-and-relief.md': 'blog-12.html',
+ 'memory-loss-after-50-warning-signs-and-a-traditional-5-ingredient-recipe.md': 'blog-13.html',
 };
 
 function parseFrontMatter(raw) {
