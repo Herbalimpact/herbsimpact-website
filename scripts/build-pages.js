@@ -53,6 +53,7 @@ const BLOG_INDEX_POSTS = {
  'stomach-ulcers-are-treatable-h-pylori-symptoms-and-treatment.md': 'blog-11.html',
  'abnormal-vaginal-discharge-and-itching-causes-warning-signs-and-relief.md': 'blog-12.html',
  'memory-loss-after-50-warning-signs-and-a-traditional-5-ingredient-recipe.md': 'blog-13.html',
+ 'stress-management-techniques-that-work-7-steps-to-a-calmer-mind.md': 'blog-14.html',
 };
 
 function parseFrontMatter(raw) {

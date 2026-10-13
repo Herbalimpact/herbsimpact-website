@@ -49,6 +49,8 @@ const OUTPUT_MAP = {
   'kutokwa-na-uchafu-ukeni-na-kuwashwa-sababu-dalili-na-suluhisho.md': 'blog-12-sw.html',
   'memory-loss-after-50-warning-signs-and-a-traditional-5-ingredient-recipe.md': 'blog-13.html',
   'kupoteza-kumbukumbu-baada-ya-miaka-50-dalili-na-mchanganyiko-wa-asili-wa-viungo-5.md': 'blog-13-sw.html',
+  'stress-management-techniques-that-work-7-steps-to-a-calmer-mind.md': 'blog-14.html',
+  'msongo-wa-mawazo-dalili-vyanzo-na-jinsi-ya-kuudhibiti.md': 'blog-14-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -82,6 +84,8 @@ const RELATED_POSTS = {
   'blog-12-sw.html': ['blog-9-sw.html', 'blog-11-sw.html'],
   'blog-13.html': ['blog-4.html', 'blog-3.html'],
   'blog-13-sw.html': ['blog-4-sw.html', 'blog-3-sw.html'],
+  'blog-14.html': ['blog-3.html', 'blog-13.html'],
+  'blog-14-sw.html': ['blog-3-sw.html', 'blog-13-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
