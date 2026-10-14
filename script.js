@@ -158,8 +158,10 @@ var counter = document.createElement('div');
 counter.className = 'visitor-counter';
 counter.textContent = 'Visitors: …';
 el.parentElement.insertBefore(counter, el);
-fetch('https://abacus.jasoncameron.dev/hit/herbsimpact.com/visits')
+// Total unique visitors from GoatCounter (pageviews are recorded by the
+// count.js tag at the bottom of each template).
+fetch('https://herbsimpact.goatcounter.com/counter/TOTAL.json')
   .then(function (r) { return r.json(); })
-  .then(function (d) { counter.textContent = 'Visitors: ' + (d.value || 0).toLocaleString(); })
+  .then(function (d) { counter.textContent = 'Visitors: ' + (d.count || 0); })
   .catch(function () { counter.style.display = 'none'; });
 });
