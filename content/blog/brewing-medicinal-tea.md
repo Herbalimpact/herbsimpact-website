@@ -2,7 +2,7 @@
 title: "How to Brew the Perfect Medicinal Herbal Tea"
 category: "PREPARATION"
 read_time: "4 MIN READ"
-cover_image: "https://wodkuvykpqnkpmpirjzg.supabase.co/storage/v1/object/public/media/articles/cover-tea-1784288269.png"
+cover_image: "/assets/uploads/blog-cover-tea.jpg"
 cover_image_alt: "How to Brew the Perfect Medicinal Herbal Tea"
 swahili_link: "blog-2-sw.html"
 description: "The difference between a tasty cup and a therapeutic infusion comes down to temperature, time, and technique."

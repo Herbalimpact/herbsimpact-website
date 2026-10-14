@@ -4,7 +4,7 @@ seo_description: "Herbal Impact brings together carefully formulated herbal prod
 hero_eyebrow: "Traditional & Alternative Medicine"
 hero_title: "Nature-backed wellness, made simple."
 hero_lead: "Herbal Impact brings together carefully formulated herbal products, trusted medicinal recipes, and practical wellness resources — everything you need to live well, naturally."
-hero_image: "https://wodkuvykpqnkpmpirjzg.supabase.co/storage/v1/object/public/media/1784719533422-i9qujc8k.jpg"
+hero_image: "/assets/uploads/home-hero-herbs-tincture.jpg"
 hero_image_alt: "Fresh medicinal herbs and a herbal tincture on linen"
 help_eyebrow: "How we help"
 help_title: "Three ways we support your wellness"

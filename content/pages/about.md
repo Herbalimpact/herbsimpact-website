@@ -6,7 +6,7 @@ hero_title: "Bridging traditional wisdom and modern wellness"
 hero_text: "Herbal Impact was founded on a simple belief: that nature offers powerful, time-tested tools for wellbeing — and that everyone deserves access to them, made safe and simple."
 intro_paragraph_1: "We research and formulate herbal products, craft trustworthy medicinal recipes, and share practical wellness knowledge to help people live healthier, more grounded lives. Everything we make is rooted in traditional knowledge and refined for the way we live today."
 intro_paragraph_2: "Our mission is to make natural, traditional wellness accessible, trustworthy, and genuinely effective — through products people can rely on, resources they can use themselves, and knowledge that empowers them for life."
-intro_image: "https://wodkuvykpqnkpmpirjzg.supabase.co/storage/v1/object/public/media/1784549480525-16vbu700.png"
+intro_image: "/assets/uploads/about-intro.png"
 intro_image_alt: "Botanical herbs and tincture"
 values_title: "What we stand for"
 values:

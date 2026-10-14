@@ -2,7 +2,7 @@
 title: "Building Daily Rituals for Lasting Wellness"
 category: "LIFESTYLE"
 read_time: "5 MIN READ"
-cover_image: "https://wodkuvykpqnkpmpirjzg.supabase.co/storage/v1/object/public/media/articles/cover-rituals-1784288269.png"
+cover_image: "/assets/uploads/blog-cover-rituals.jpg"
 cover_image_alt: "Building Daily Rituals for Lasting Wellness"
 swahili_link: "blog-3-sw.html"
 description: "Sustainable health comes from small, repeatable habits — not dramatic overhauls. Here's how to design rituals that stick."
