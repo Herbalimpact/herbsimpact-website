@@ -51,6 +51,8 @@ const OUTPUT_MAP = {
   'kupoteza-kumbukumbu-baada-ya-miaka-50-dalili-na-mchanganyiko-wa-asili-wa-viungo-5.md': 'blog-13-sw.html',
   'stress-management-techniques-that-work-7-steps-to-a-calmer-mind.md': 'blog-14.html',
   'msongo-wa-mawazo-dalili-vyanzo-na-jinsi-ya-kuudhibiti.md': 'blog-14-sw.html',
+  'miracle-in-a-tea-cup-haiiba-timam-herbal-tea.md': 'blog-15.html',
+  'muujiza-ndani-ya-kikombe-cha-chai-haiiba-timam.md': 'blog-15-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -86,6 +88,8 @@ const RELATED_POSTS = {
   'blog-13-sw.html': ['blog-4-sw.html', 'blog-3-sw.html'],
   'blog-14.html': ['blog-3.html', 'blog-13.html'],
   'blog-14-sw.html': ['blog-3-sw.html', 'blog-13-sw.html'],
+  'blog-15.html': ['blog-9.html', 'blog-2.html'],
+  'blog-15-sw.html': ['blog-9-sw.html', 'blog-2-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
@@ -176,7 +180,10 @@ function toAbsoluteUrl(imagePath) {
 
 // Converts **bold** inline markdown to HTML on already-escaped text.
 function inline(text) {
-  return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>').replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>');
+  return escapeHtml(text)
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g, '$1<em>$2</em>')
+    .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>');
 }
 
 // Minimal Markdown -> HTML converter supporting the subset of Markdown used
@@ -186,11 +193,16 @@ function markdownToHtml(md) {
   const lines = md.replace(/\r\n/g, '\n').split('\n');
   const htmlParts = [];
   let listBuffer = [];
+  let olBuffer = [];
 
   function flushList() {
     if (listBuffer.length) {
       htmlParts.push('<ul>\n' + listBuffer.map((item) => '      <li>' + inline(item) + '</li>').join('\n') + '\n    </ul>');
       listBuffer = [];
+    }
+    if (olBuffer.length) {
+      htmlParts.push('<ol>\n' + olBuffer.map((item) => '      <li>' + inline(item) + '</li>').join('\n') + '\n    </ol>');
+      olBuffer = [];
     }
   }
 
@@ -205,6 +217,14 @@ function markdownToHtml(md) {
       htmlParts.push('<h2>' + inline(line.slice(3)) + '</h2>');
     } else if (line.startsWith('- ')) {
       listBuffer.push(line.slice(2));
+    } else if (/^\d+\.\s/.test(line)) {
+      olBuffer.push(line.replace(/^\d+\.\s+/, ''));
+    } else if (/^!\[[^\]]*\]\([^)]+\)$/.test(line)) {
+      // ![alt](src "caption") -> figure with optional caption
+      flushList();
+      const m = line.match(/^!\[([^\]]*)\]\((\S+)(?:\s+"([^"]*)")?\)$/);
+      const cap = m[3] ? '<figcaption>' + inline(m[3]) + '</figcaption>' : '';
+      htmlParts.push('<figure class="post-figure"><img src="' + escapeHtml(m[2]) + '" alt="' + escapeHtml(m[1]) + '" loading="lazy">' + cap + '</figure>');
     } else {
       flushList();
       htmlParts.push('<p>' + inline(line) + '</p>');

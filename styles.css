@@ -347,6 +347,11 @@ table.schedule td:first-child, table.schedule th:first-child{ text-align: left; 
 article.post h2{ margin-top: 1.2em; }
 article.post h3{ margin-top: 1em; font-size: 1.15rem; }
 article.post ul{ padding-left: 1.2em; }
+article.post ol{ padding-left: 1.4em; }
+article.post ol li{ margin-bottom: .4em; }
+article.post .post-figure{ margin: 1.6em 0; }
+article.post .post-figure img{ width: 100%; height: auto; border-radius: var(--radius); display: block; }
+article.post .post-figure figcaption{ font-size: .85rem; color: var(--text-soft); margin-top: .5em; text-align: center; }
 .disclaimer{
   background: var(--yellow-light);
   border-radius: 10px;
