@@ -276,6 +276,49 @@ function buildJsonLd(data, outputName) {
   return JSON.stringify(jsonLd);
 }
 
+
+// hreflang alternates (+ og:locale) so search engines know the English and
+// Swahili posts are translations of each other. Only emitted when both
+// halves of the pair exist in OUTPUT_MAP.
+function buildHreflang(outputName) {
+  const isSw = outputName.endsWith('-sw.html');
+  const en = isSw ? outputName.replace('-sw.html', '.html') : outputName;
+  const sw = isSw ? outputName : outputName.replace('.html', '-sw.html');
+  const outputs = Object.values(OUTPUT_MAP);
+  const locale = '<meta property="og:locale" content="' + (isSw ? 'sw_TZ' : 'en_US') + '">';
+  if (!outputs.includes(en) || !outputs.includes(sw)) return locale;
+  return [
+    locale,
+    '<link rel="alternate" hreflang="en" href="' + SITE_URL + en + '">',
+    '<link rel="alternate" hreflang="sw" href="' + SITE_URL + sw + '">',
+    '<link rel="alternate" hreflang="x-default" href="' + SITE_URL + en + '">',
+  ].join('\n');
+}
+
+// FAQPage structured data, built from a "Frequently Asked Questions" /
+// "Maswali ..." section whose paragraphs look like "**Question?** Answer".
+// Returns '' when a post has fewer than two such Q&As.
+function buildFaqJsonLd(body) {
+  const lines = body.replace(/\r\n/g, '\n').split('\n');
+  let inFaq = false;
+  const items = [];
+  for (const raw of lines) {
+    const line = raw.trim();
+    if (/^#{2,3}\s/.test(line)) {
+      inFaq = /frequently asked|maswali/i.test(line);
+      continue;
+    }
+    if (!inFaq) continue;
+    const m = line.match(/^\*\*(.+?\?)\*\*\s*(.+)$/);
+    if (m) {
+      const strip = (t) => t.replace(/\*\*?/g, '').replace(/\[(.+?)\]\((.+?)\)/g, '$1');
+      items.push({ '@type': 'Question', name: strip(m[1]), acceptedAnswer: { '@type': 'Answer', text: strip(m[2]) } });
+    }
+  }
+  if (items.length < 2) return '';
+  return '<script type="application/ld+json">' + JSON.stringify({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: items }) + '</script>';
+}
+
 function buildPost(mdFileName, template, titles) {
   const mdPath = path.join(CONTENT_DIR, mdFileName);
   const raw = fs.readFileSync(mdPath, 'utf8');
@@ -324,6 +367,8 @@ function buildPost(mdFileName, template, titles) {
     .split('{{CANONICAL}}').join(canonicalUrl)
     .split('{{RELATED_POSTS}}').join(relatedHtml)
     .split('{{JSONLD}}').join(jsonLd)
+    .split('{{HREFLANG}}').join(buildHreflang(outputName))
+    .split('{{FAQ_JSONLD}}').join(buildFaqJsonLd(body))
     .split('{{BODY}}').join(bodyHtml);
 
   fs.writeFileSync(path.join(ROOT, outputName), html, 'utf8');
