@@ -76,6 +76,6 @@ Kunywa **mara mbili kwa siku**, asubuhi na jioni. Ya asubuhi inywe kabla ya kula
 
 ## Jipatie Chai ya Haiiba Timam Leo
 
-- **Agiza mtandaoni:** [Chai ya Haiiba Timam kwenye Payhip](https://payhip.com/b/x7da9) au [Gumroad](GUMROAD_TEA). Kifurushi kimoja cha gramu 200 ni **TZS 20,000 (US$7.55)**.
-- **Unataka mwongozo kamili?** *Kitabu cha Chai ya Ajabu* kinakuelekeza wiki kwa wiki namna ya kuitumia chai hii, pamoja na jedwali la kufuatilia maendeleo yako kwa wiki 5. [Kipate Payhip](PAYHIP_GUIDE_SW) au [Gumroad](GUMROAD_GUIDE_SW).
+- **Agiza mtandaoni:** [Chai ya Haiiba Timam kwenye duka letu la mtandaoni](https://payhip.com/b/x7da9). Kifurushi kimoja cha gramu 200 ni **TZS 20,000 (US$7.55)**.
+- **Unataka mwongozo kamili?** *Kitabu cha Chai ya Ajabu* kinakuelekeza wiki kwa wiki namna ya kuitumia chai hii, pamoja na jedwali la kufuatilia maendeleo yako kwa wiki 5. [Kipate Payhip](https://payhip.com/b/IRzTb) au [Gumroad](https://wellbiz8.gumroad.com/l/kitabu-cha-chai-ya-ajabu).
 - **Tutembelee au tupigie:** Herbal Impact, Mtaa wa Msikiti Na. 1574/144, Kitumbini, Dar es Salaam. Simu/WhatsApp: +255 754 281 131 / +255 655 281 131.

@@ -76,6 +76,6 @@ Prepare and drink it **twice a day**, morning and evening. Take the morning cup 
 
 ## Get Your Haiiba Timam Tea
 
-- **Order the tea online:** [Haiiba Timam Tea on Payhip](https://payhip.com/b/x7da9) or [on Gumroad](GUMROAD_TEA). One 200 g packet costs **TZS 20,000 (US$7.55)**.
-- **Want the full guide?** *The Wonder Tea Handbook* explains how to use the tea week by week, with a 5-week tracker. [Get it on Payhip](PAYHIP_GUIDE_EN) or [on Gumroad](GUMROAD_GUIDE_EN).
+- **Order the tea online:** [Haiiba Timam Tea in our online shop](https://payhip.com/b/x7da9). One 200 g packet costs **TZS 20,000 (US$7.55)**.
+- **Want the full guide?** *The Wonder Tea Handbook* explains how to use the tea week by week, with a 5-week tracker. [Get it on Payhip](https://payhip.com/b/nerxD) or [on Gumroad](https://wellbiz8.gumroad.com/l/wonder-tea-handbook).
 - **Visit or call us:** Herbal Impact, Mosque Street No. 1574/144, Kitumbini, Dar es Salaam. Phone/WhatsApp: +255 754 281 131 / +255 655 281 131.
