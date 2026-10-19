@@ -4,7 +4,7 @@ seo_title: "A Cup of Hope for Mothers: Haiiba Timam Herbal Tea for Women's Repro
 category: WOMEN'S HEALTH
 read_time: 7 MIN READ
 cover_image: /assets/uploads/a-cup-of-hope-for-mothers-en.jpg
-cover_image_alt: Haiiba Timam herbal tea packet and a steaming cup of tea, for women's reproductive health, Herbal Impact Dar es Salaam
+cover_image_alt: Woman drinking herbal tea from a white cup beside a packet of Haiiba Timam Tea, Herbal Impact Dar es Salaam
 swahili_link: blog-16-sw.html
 description: Trying to conceive, losing pregnancies or living with ovarian cysts? Read what mothers at Herbal Impact, Dar es Salaam, report after using Haiiba Timam Tea.
 ---

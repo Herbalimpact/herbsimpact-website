@@ -4,7 +4,7 @@ seo_title: "Kikombe cha Matumaini kwa Akina Mama: Chai ya Haiiba Timam na Afya y
 category: AFYA YA WANAWAKE
 read_time: DAKIKA 7 ZA KUSOMA
 cover_image: /assets/uploads/a-cup-of-hope-for-mothers-sw.jpg
-cover_image_alt: Kifurushi cha Chai ya Haiiba Timam na kikombe cha chai kinachofuka moshi, kwa afya ya uzazi ya akina mama, Herbal Impact Dar es Salaam
+cover_image_alt: Mwanamke akinywa chai ya mitishamba kwenye kikombe cheupe karibu na kifurushi cha Chai ya Haiiba Timam, Herbal Impact Dar es Salaam
 swahili_link: blog-16.html
 description: Unatafuta mtoto, mimba haikai au una uvimbe kwenye kizazi? Soma akina mama wa Herbal Impact, Dar es Salaam, wanasema nini kuhusu Chai ya Haiiba Timam.
 ---
