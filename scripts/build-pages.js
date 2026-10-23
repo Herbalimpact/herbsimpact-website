@@ -56,6 +56,7 @@ const BLOG_INDEX_POSTS = {
  'stress-management-techniques-that-work-7-steps-to-a-calmer-mind.md': 'blog-14.html',
  'miracle-in-a-tea-cup-haiiba-timam-herbal-tea.md': 'blog-15.html',
  'a-cup-of-hope-for-mothers-haiiba-timam-tea-fertility.md': 'blog-16.html',
+ 'back-at-work-in-one-week-urinary-incontinence-herbal-tea.md': 'blog-17.html',
 };
 
 function parseFrontMatter(raw) {

@@ -55,6 +55,8 @@ const OUTPUT_MAP = {
   'muujiza-ndani-ya-kikombe-cha-chai-haiiba-timam.md': 'blog-15-sw.html',
   'a-cup-of-hope-for-mothers-haiiba-timam-tea-fertility.md': 'blog-16.html',
   'kikombe-cha-matumaini-kwa-akina-mama-chai-ya-haiiba-timam.md': 'blog-16-sw.html',
+  'back-at-work-in-one-week-urinary-incontinence-herbal-tea.md': 'blog-17.html',
+  'alirudi-kazini-ndani-ya-wiki-moja-kushindwa-kuzuia-mkojo.md': 'blog-17-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -94,6 +96,8 @@ const RELATED_POSTS = {
   'blog-15-sw.html': ['blog-9-sw.html', 'blog-2-sw.html'],
   'blog-16.html': ['blog-15.html', 'blog-12.html'],
   'blog-16-sw.html': ['blog-15-sw.html', 'blog-12-sw.html'],
+  'blog-17.html': ['blog-9.html', 'blog-15.html'],
+  'blog-17-sw.html': ['blog-9-sw.html', 'blog-15-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
