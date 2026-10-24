@@ -82,4 +82,11 @@ downloads:
     sw_title: "Mwongozo wa Bidhaa na Huduma za Herbal Impact"
     sw_description: "Mwongozo kamili wa bidhaa na huduma za Herbal Impact, ukiwa na hali za kiafya zinazoshughulikiwa, maelekezo ya matumizi, na bei."
     sw_file_url: "assets/uploads/mwongozo-wa-bidhaa-na-huduma-herbal-impact.pdf"
+  - tag: "Self-Test"
+    title: "The Metabolic Typing Test"
+    description: "A free 10-minute self-assessment to find out whether your body leans towards the Protein, Carbohydrate or Mixed type, with a food guide for each type and a 14-day journal."
+    file_url: "assets/uploads/metabolic-typing-test.pdf"
+    sw_title: "Kipimo cha Aina ya Umetaboli"
+    sw_description: "Kipimo cha bure cha dakika 10 cha kutambua kama mwili wako unaelekea Aina ya Protini, Aina ya Wanga au Aina Mchanganyiko, pamoja na mwongozo wa vyakula na daftari la siku 14."
+    sw_file_url: "assets/uploads/kipimo-cha-aina-ya-umetaboli.pdf"
 ---
