@@ -57,6 +57,8 @@ const OUTPUT_MAP = {
   'kikombe-cha-matumaini-kwa-akina-mama-chai-ya-haiiba-timam.md': 'blog-16-sw.html',
   'back-at-work-in-one-week-urinary-incontinence-herbal-tea.md': 'blog-17.html',
   'alirudi-kazini-ndani-ya-wiki-moja-kushindwa-kuzuia-mkojo.md': 'blog-17-sw.html',
+  'boost-your-immunity-8-ways-to-strengthen-your-bodys-natural-defences.md': 'blog-18.html',
+  'paisha-kinga-zako-za-mwili-hatua-8-za-kuimarisha-siha-na-afya.md': 'blog-18-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -98,6 +100,8 @@ const RELATED_POSTS = {
   'blog-16-sw.html': ['blog-15-sw.html', 'blog-12-sw.html'],
   'blog-17.html': ['blog-9.html', 'blog-15.html'],
   'blog-17-sw.html': ['blog-9-sw.html', 'blog-15-sw.html'],
+  'blog-18.html': ['blog-15.html', 'blog-3.html'],
+  'blog-18-sw.html': ['blog-15-sw.html', 'blog-3-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
