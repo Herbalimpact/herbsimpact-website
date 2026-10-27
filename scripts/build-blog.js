@@ -380,6 +380,7 @@ function buildPost(mdFileName, template, titles) {
     .split('{{RELATED_POSTS}}').join(relatedHtml)
     .split('{{JSONLD}}').join(jsonLd)
     .split('{{HREFLANG}}').join(buildHreflang(outputName))
+    .split('{{LANG}}').join(outputName.endsWith('-sw.html') ? 'sw' : 'en')
     .split('{{FAQ_JSONLD}}').join(buildFaqJsonLd(body))
     .split('{{BODY}}').join(bodyHtml);
 

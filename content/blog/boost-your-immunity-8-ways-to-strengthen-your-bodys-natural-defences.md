@@ -1,6 +1,6 @@
 ---
 title: "For Better Health and Wellbeing: Boost Your Body's Immune System"
-seo_title: "Boost Your Immune System: 8 Steps to Better Health and Wellbeing"
+seo_title: "Boost Your Immune System: 8 Natural Steps"
 category: IMMUNITY
 read_time: 3 MIN READ
 cover_image: /assets/uploads/immune-boosting-foods-citrus-ginger.jpg

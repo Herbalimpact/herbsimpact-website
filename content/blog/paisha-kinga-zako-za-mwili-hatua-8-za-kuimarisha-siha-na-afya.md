@@ -1,6 +1,6 @@
 ---
 title: "Ili Kuimarisha Siha na Afya: Paisha Kinga Zako za Mwili"
-seo_title: "Paisha Kinga Zako za Mwili: Hatua 8 za Kuimarisha Siha na Afya"
+seo_title: "Paisha Kinga za Mwili: Hatua 8 za Asili"
 category: KINGA YA MWILI
 read_time: DAKIKA 3 ZA KUSOMA
 cover_image: /assets/uploads/immune-boosting-foods-citrus-ginger.jpg
