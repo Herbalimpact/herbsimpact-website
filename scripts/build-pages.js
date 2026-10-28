@@ -58,6 +58,7 @@ const BLOG_INDEX_POSTS = {
  'a-cup-of-hope-for-mothers-haiiba-timam-tea-fertility.md': 'blog-16.html',
  'back-at-work-in-one-week-urinary-incontinence-herbal-tea.md': 'blog-17.html',
  'boost-your-immunity-8-ways-to-strengthen-your-bodys-natural-defences.md': 'blog-18.html',
+ 'how-to-care-for-your-oral-health-healthy-teeth-and-gums.md': 'blog-19.html',
 };
 
 function parseFrontMatter(raw) {

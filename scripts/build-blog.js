@@ -59,6 +59,8 @@ const OUTPUT_MAP = {
   'alirudi-kazini-ndani-ya-wiki-moja-kushindwa-kuzuia-mkojo.md': 'blog-17-sw.html',
   'boost-your-immunity-8-ways-to-strengthen-your-bodys-natural-defences.md': 'blog-18.html',
   'paisha-kinga-zako-za-mwili-hatua-8-za-kuimarisha-siha-na-afya.md': 'blog-18-sw.html',
+  'how-to-care-for-your-oral-health-healthy-teeth-and-gums.md': 'blog-19.html',
+  'jinsi-ya-kutunza-afya-ya-kinywa-meno-na-fizi.md': 'blog-19-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -102,6 +104,8 @@ const RELATED_POSTS = {
   'blog-17-sw.html': ['blog-9-sw.html', 'blog-15-sw.html'],
   'blog-18.html': ['blog-15.html', 'blog-3.html'],
   'blog-18-sw.html': ['blog-15-sw.html', 'blog-3-sw.html'],
+  'blog-19.html': ['blog-7.html', 'blog-10.html'],
+  'blog-19-sw.html': ['blog-7-sw.html', 'blog-10-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
