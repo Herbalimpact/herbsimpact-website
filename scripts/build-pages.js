@@ -59,6 +59,7 @@ const BLOG_INDEX_POSTS = {
  'back-at-work-in-one-week-urinary-incontinence-herbal-tea.md': 'blog-17.html',
  'boost-your-immunity-8-ways-to-strengthen-your-bodys-natural-defences.md': 'blog-18.html',
  'how-to-care-for-your-oral-health-healthy-teeth-and-gums.md': 'blog-19.html',
+ 'how-to-lose-weight-the-calorie-rule-and-80-20-plate.md': 'blog-20.html',
 };
 
 function parseFrontMatter(raw) {

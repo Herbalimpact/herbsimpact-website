@@ -61,6 +61,8 @@ const OUTPUT_MAP = {
   'paisha-kinga-zako-za-mwili-hatua-8-za-kuimarisha-siha-na-afya.md': 'blog-18-sw.html',
   'how-to-care-for-your-oral-health-healthy-teeth-and-gums.md': 'blog-19.html',
   'jinsi-ya-kutunza-afya-ya-kinywa-meno-na-fizi.md': 'blog-19-sw.html',
+  'how-to-lose-weight-the-calorie-rule-and-80-20-plate.md': 'blog-20.html',
+  'njia-ya-uhakika-ya-kupunguza-uzito-uliozidi.md': 'blog-20-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -106,6 +108,8 @@ const RELATED_POSTS = {
   'blog-18-sw.html': ['blog-15-sw.html', 'blog-3-sw.html'],
   'blog-19.html': ['blog-7.html', 'blog-10.html'],
   'blog-19-sw.html': ['blog-7-sw.html', 'blog-10-sw.html'],
+  'blog-20.html': ['blog-4.html', 'blog-10.html'],
+  'blog-20-sw.html': ['blog-4-sw.html', 'blog-10-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
