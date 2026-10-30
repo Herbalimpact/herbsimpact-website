@@ -44,6 +44,10 @@ The first thing needed to prevent large weight gain is to make sure we do not ta
 
 Whatever kind of food we eat, we should not forget the 80/20 rule. This rule says that 80% of the food on your plate should be a mix of different vegetables, and if possible 75% of those should be vegetables that can be eaten raw.
 
+## Check Your BMI for Free
+
+Before you start, find out where you stand. Use our **[free BMI calculator](https://herbsimpact.com/tools.html)** to check your Body Mass Index in seconds. Enter your height and weight and it is calculated privately in your browser, so you can track your progress as you lose weight.
+
 ## Would You Like More Advice?
 
 For more information, call/WhatsApp **+255 754 281 131 / +255 655 281 131**

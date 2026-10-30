@@ -44,6 +44,10 @@ Kitu cha kwanza kinachohitajika katika kuzuia ongezeko kubwa la uzito wa mwili n
 
 Tunapokula vyakula vya aina yoyote tusisahau kanuni ya 80/20. Hii ni kanuni inayoelekeza kuwa 80% ya chakula chako kwenye sahani kinapaswa kuwa mchanganyiko wa mbogamboga mbalimbali, na katika hizo ikiwezekana 75% yake iwe ni zile mbogamboga zinazofaa kuliwa zikiwa ghafi.
 
+## Pima BMI Yako Bure
+
+Kabla ya kuanza, fahamu uzito wako uko wapi. Tumia **[kikokotoo chetu cha BMI bure](https://herbsimpact.com/tools.html)** kupima Uwiano wa Uzito na Urefu wako (BMI) ndani ya sekunde chache. Weka urefu na uzito wako, na hesabu hufanyika kwenye kifaa chako pekee, hivyo unaweza kufuatilia maendeleo yako unapopunguza uzito.
+
 ## Unahitaji Ushauri Zaidi?
 
 Kwa maelezo zaidi wasiliana nasi kwa simu/WhatsApp **0754 281 131 / 0655 281 131**
