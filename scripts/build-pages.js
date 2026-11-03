@@ -60,6 +60,7 @@ const BLOG_INDEX_POSTS = {
  'boost-your-immunity-8-ways-to-strengthen-your-bodys-natural-defences.md': 'blog-18.html',
  'how-to-care-for-your-oral-health-healthy-teeth-and-gums.md': 'blog-19.html',
  'how-to-lose-weight-the-sure-calorie-rule.md': 'blog-20.html',
+ 'what-causes-heartburn-and-why-severe-heartburn-is-dangerous.md': 'blog-21.html',
 };
 
 function parseFrontMatter(raw) {

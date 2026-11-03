@@ -63,6 +63,8 @@ const OUTPUT_MAP = {
   'jinsi-ya-kutunza-afya-ya-kinywa-meno-na-fizi.md': 'blog-19-sw.html',
   'how-to-lose-weight-the-sure-calorie-rule.md': 'blog-20.html',
   'njia-ya-uhakika-ya-kupunguza-uzito-uliozidi.md': 'blog-20-sw.html',
+  'what-causes-heartburn-and-why-severe-heartburn-is-dangerous.md': 'blog-21.html',
+  'chimbuko-la-kiungulia-kikali-na-madhara-yake.md': 'blog-21-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -110,6 +112,8 @@ const RELATED_POSTS = {
   'blog-19-sw.html': ['blog-7-sw.html', 'blog-10-sw.html'],
   'blog-20.html': ['blog-4.html', 'blog-18.html'],
   'blog-20-sw.html': ['blog-4-sw.html', 'blog-18-sw.html'],
+  'blog-21.html': ['blog-10.html', 'blog-11.html'],
+  'blog-21-sw.html': ['blog-10-sw.html', 'blog-11-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
