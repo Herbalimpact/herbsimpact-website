@@ -61,6 +61,7 @@ const BLOG_INDEX_POSTS = {
  'how-to-care-for-your-oral-health-healthy-teeth-and-gums.md': 'blog-19.html',
  'how-to-lose-weight-the-sure-calorie-rule.md': 'blog-20.html',
  'what-causes-heartburn-the-root-of-severe-heartburn-and-its-dangers.md': 'blog-21.html',
+ 'how-to-prevent-non-communicable-diseases-blood-circulation.md': 'blog-22.html',
 };
 
 function parseFrontMatter(raw) {

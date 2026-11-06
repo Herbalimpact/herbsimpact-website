@@ -65,6 +65,8 @@ const OUTPUT_MAP = {
   'njia-ya-uhakika-ya-kupunguza-uzito-uliozidi.md': 'blog-20-sw.html',
   'what-causes-heartburn-the-root-of-severe-heartburn-and-its-dangers.md': 'blog-21.html',
   'chimbuko-la-kiungulia-kikali-na-madhara-yake.md': 'blog-21-sw.html',
+  'how-to-prevent-non-communicable-diseases-blood-circulation.md': 'blog-22.html',
+  'magonjwa-yasiyoambukiza-jinsi-ya-kuyakwepa.md': 'blog-22-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -114,6 +116,8 @@ const RELATED_POSTS = {
   'blog-20-sw.html': ['blog-4-sw.html', 'blog-18-sw.html'],
   'blog-21.html': ['blog-10.html', 'blog-11.html'],
   'blog-21-sw.html': ['blog-10-sw.html', 'blog-11-sw.html'],
+  'blog-22.html': ['blog-4.html', 'blog-18.html'],
+  'blog-22-sw.html': ['blog-4-sw.html', 'blog-18-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
