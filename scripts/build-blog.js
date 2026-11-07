@@ -67,6 +67,8 @@ const OUTPUT_MAP = {
   'chimbuko-la-kiungulia-kikali-na-madhara-yake.md': 'blog-21-sw.html',
   'how-to-prevent-non-communicable-diseases-blood-circulation.md': 'blog-22.html',
   'magonjwa-yasiyoambukiza-jinsi-ya-kuyakwepa.md': 'blog-22-sw.html',
+  'causes-of-non-communicable-diseases-leading-cause-of-death.md': 'blog-23.html',
+  'magonjwa-yasiyoambukiza-yanaongoza-kwa-kuua-visababishi-vyake.md': 'blog-23-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -118,6 +120,8 @@ const RELATED_POSTS = {
   'blog-21-sw.html': ['blog-10-sw.html', 'blog-11-sw.html'],
   'blog-22.html': ['blog-4.html', 'blog-18.html'],
   'blog-22-sw.html': ['blog-4-sw.html', 'blog-18-sw.html'],
+  'blog-23.html': ['blog-22.html', 'blog-14.html'],
+  'blog-23-sw.html': ['blog-22-sw.html', 'blog-14-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
