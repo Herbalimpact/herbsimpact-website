@@ -59,6 +59,13 @@ featured_products:
       mafanikio makubwa tangu 2018 na imewaokoa wengi.
     link_url: https://payhip.com/b/bR3rJ
     image: /assets/uploads/tiba-nyepesi-moyo-presha.jpg
+  - image: /assets/uploads/haiiba-cp-support-jar-green-2000.jpg
+    name: Haiiba C & P Support — 200 g
+    price: $11.00
+    description: A proprietary seven-plant powder blend from Herbal Impact,
+      Dar es Salaam. View the product listing for the clinic's reported uses,
+      evidence limitations, precautions, and delivery arrangements.
+    link_url: https://payhip.com/b/ak2AY
 highlights:
   - icon: 🫙
     title: Herbal Products
