@@ -62,6 +62,7 @@ const BLOG_INDEX_POSTS = {
  'how-to-lose-weight-the-sure-calorie-rule.md': 'blog-20.html',
  'what-causes-heartburn-the-root-of-severe-heartburn-and-its-dangers.md': 'blog-21.html',
  'how-to-prevent-non-communicable-diseases-blood-circulation.md': 'blog-22.html',
+ 'measles-what-it-is-how-it-spreads-how-to-prevent-it-lessons-from-bangladesh.md': 'blog-24.html',
 };
 
 function parseFrontMatter(raw) {
