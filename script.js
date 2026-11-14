@@ -165,3 +165,12 @@ fetch('https://herbsimpact.goatcounter.com/counter/TOTAL.json')
   .then(function (d) { counter.textContent = 'Visitors: ' + (d.count || 0); })
   .catch(function () { counter.style.display = 'none'; });
 });
+
+
+/* Our own ads (products & services) from /assets/data/products.json - see /ads.js */
+(function () {
+  var s = document.createElement('script');
+  s.src = '/ads.js';
+  s.defer = true;
+  document.head.appendChild(s);
+})();
