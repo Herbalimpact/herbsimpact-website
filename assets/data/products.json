@@ -1,0 +1,474 @@
+{
+ "_note": "Edit this file to change the ads shown across herbsimpact.com. type=product links to the shop; type=service opens WhatsApp. lang=en shows on English pages, sw on Kiswahili pages. tags decide which blog posts an item appears on. Set \"active\": false to hide an item. homepageRotation lists the items shown one at a time on the home page; each stays for rotationHours, changing at 11:00 AM Dar es Salaam time. Pages in noAdsOnPages get no article ads (public-health articles such as measles). Items marked general:true are the only ones used to fill an article's strip when nothing else matches.",
+ "whatsappDefault": "255754281131",
+ "rotationHours": 48,
+ "homepageRotation": [
+  "timam-tea",
+  "svc-consult",
+  "wonder-handbook",
+  "power-tea",
+  "dental-guard",
+  "svc-acid-burn",
+  "skel-gel",
+  "ig-gel",
+  "cough-guide",
+  "golden-mind",
+  "stress-guide",
+  "bad-breath",
+  "cp-support",
+  "svc-delivery"
+ ],
+ "noAdsOnPages": [
+  "blog-24.html",
+  "blog-24-sw.html"
+ ],
+ "items": [
+  {
+   "id": "timam-tea",
+   "type": "product",
+   "lang": "en",
+   "title": "Haiiba Timam Tea – The Wonder Tea, 200 g",
+   "price": "$7.55",
+   "url": "https://payhip.com/b/x7da9",
+   "image": "/assets/uploads/HAIIBA%20TIMAM%20TEA%20FOR%20LOADING%20ON%20GITHUB.jpg",
+   "tags": [
+    "urine",
+    "urinary",
+    "incontinence",
+    "bladder",
+    "mothers",
+    "conceiv",
+    "miscarriage",
+    "pregnan",
+    "immun",
+    "herbal tea",
+    "wonder tea",
+    "miracle"
+   ],
+   "text": "A herbal tea made from several edible plants, used by Herbal Impact clients since 2012. One 200 g packet lasts about a week. Delivered worldwide.",
+   "general": true
+  },
+  {
+   "id": "timam-tea-sw",
+   "type": "product",
+   "lang": "sw",
+   "title": "Chai ya Haiiba Timam – Chai ya Ajabu, gramu 200",
+   "price": "$7.55",
+   "url": "https://payhip.com/b/x7da9",
+   "image": "/assets/uploads/HAIIBA%20TIMAM%20TEA%20FOR%20LOADING%20ON%20GITHUB.jpg",
+   "tags": [
+    "mkojo",
+    "akina mama",
+    "mimba",
+    "ujauzito",
+    "kinga",
+    "chai ya ajabu",
+    "muujiza",
+    "kazini"
+   ],
+   "general": true
+  },
+  {
+   "id": "wonder-handbook",
+   "type": "product",
+   "lang": "en",
+   "title": "The Wonder Tea Handbook: Your 5-Week Guide to Haiiba Timam Tea",
+   "price": "$7.55",
+   "url": "https://payhip.com/b/nerxD",
+   "image": "/assets/uploads/miracle-in-a-tea-cup-en.jpg",
+   "tags": [
+    "urine",
+    "urinary",
+    "incontinence",
+    "bladder",
+    "mothers",
+    "conceiv",
+    "miscarriage",
+    "pregnan",
+    "immun",
+    "herbal tea",
+    "wonder tea",
+    "miracle"
+   ],
+   "text": "How to use Haiiba Timam Tea week by week, with a 5-week tracker to follow your progress."
+  },
+  {
+   "id": "kitabu-chai",
+   "type": "product",
+   "lang": "sw",
+   "title": "Kitabu cha Chai ya Ajabu: Mwongozo wa Wiki 5 wa Kutumia Chai ya Haiiba Timam",
+   "price": "$7.55",
+   "url": "https://payhip.com/b/IRzTb",
+   "image": "/assets/uploads/miracle-in-a-tea-cup-sw.jpg",
+   "tags": [
+    "mkojo",
+    "akina mama",
+    "mimba",
+    "ujauzito",
+    "kinga",
+    "chai ya ajabu",
+    "muujiza",
+    "kazini"
+   ]
+  },
+  {
+   "id": "power-tea",
+   "type": "product",
+   "lang": "en",
+   "title": "Haiiba Power Tea",
+   "price": "$10.90",
+   "url": "https://payhip.com/b/qCQO5",
+   "image": "/assets/uploads/HAIIBAPOWER%20TEA%20FOR%20LOADING%20ON%20GITHUB.jpg",
+   "tags": [
+    "brew",
+    "everyday herbs",
+    "rituals",
+    "non-communicable",
+    "wellness routine"
+   ],
+   "text": "A herbal tea blended from several edible plants, made by Herbal Impact in Dar es Salaam.",
+   "general": true
+  },
+  {
+   "id": "power-tea-sw",
+   "type": "product",
+   "lang": "sw",
+   "title": "Chai ya Haiiba Power",
+   "price": "$10.90",
+   "url": "https://payhip.com/b/qCQO5",
+   "image": "/assets/uploads/HAIIBAPOWER%20TEA%20FOR%20LOADING%20ON%20GITHUB.jpg",
+   "tags": [
+    "chai kamili",
+    "mimea 5",
+    "desturi",
+    "yasiyoambukiza"
+   ],
+   "general": true
+  },
+  {
+   "id": "dental-guard",
+   "type": "product",
+   "lang": "en",
+   "title": "Haiiba Dental Guard",
+   "price": "$4.75",
+   "url": "https://payhip.com/b/hxvAR",
+   "image": "/assets/uploads/HAIIBA%20DENTAL%20GUARD%20FOR%20LOADING%20ON%20GITHUB.jpg",
+   "tags": [
+    "oral health",
+    "teeth and gums",
+    "gums",
+    "bad breath"
+   ],
+   "text": "A herbal mouth disinfectant for teeth and gums, from Herbal Impact."
+  },
+  {
+   "id": "dental-guard-sw",
+   "type": "product",
+   "lang": "sw",
+   "title": "Haiiba Dental Guard",
+   "price": "$4.75",
+   "url": "https://payhip.com/b/hxvAR",
+   "image": "/assets/uploads/HAIIBA%20DENTAL%20GUARD%20FOR%20LOADING%20ON%20GITHUB.jpg",
+   "tags": [
+    "kinywa",
+    "meno",
+    "fizi",
+    "pumzi"
+   ]
+  },
+  {
+   "id": "skel-gel",
+   "type": "product",
+   "lang": "en",
+   "title": "Haiiba Skel Gel",
+   "price": "$9.50",
+   "url": "https://payhip.com/b/P2izb",
+   "image": "/assets/uploads/HAIIBA%20SKEL%20GEL%20FOR%20LOADING%20ON%20GITHUB.jpg",
+   "tags": [
+    "joint",
+    "stiff",
+    "mobility",
+    "weight",
+    "body fat"
+   ],
+   "text": "An oral gel formulated to support joint comfort, flexibility and everyday mobility."
+  },
+  {
+   "id": "skel-gel-sw",
+   "type": "product",
+   "lang": "sw",
+   "title": "Haiiba Skel Gel",
+   "price": "$9.50",
+   "url": "https://payhip.com/b/P2izb",
+   "image": "/assets/uploads/HAIIBA%20SKEL%20GEL%20FOR%20LOADING%20ON%20GITHUB.jpg",
+   "tags": [
+    "maumivu ya viungo",
+    "viungo vya mwili",
+    "uzito uliozidi",
+    "mafuta mengi"
+   ]
+  },
+  {
+   "id": "ig-gel",
+   "type": "product",
+   "lang": "en",
+   "title": "Haiiba IG Gel",
+   "price": "$46.00",
+   "url": "https://payhip.com/b/1bJcs",
+   "image": "/assets/uploads/haiiba-ig-gel-uchafu-ukeni-mwasho.jpg",
+   "tags": [
+    "discharge",
+    "itching",
+    "stomach ulcer",
+    "h. pylori",
+    "h pylori",
+    "ulcers"
+   ],
+   "text": "A herbal gel from Herbal Impact. See the product listing for how it is used and the precautions."
+  },
+  {
+   "id": "ig-gel-sw",
+   "type": "product",
+   "lang": "sw",
+   "title": "Haiiba IG Gel",
+   "price": "$46.00",
+   "url": "https://payhip.com/b/1bJcs",
+   "image": "/assets/uploads/haiiba-ig-gel-uchafu-ukeni-mwasho.jpg",
+   "tags": [
+    "uchafu",
+    "ukeni",
+    "kuwashwa",
+    "vidonda vya tumbo",
+    "h. pylori"
+   ]
+  },
+  {
+   "id": "cough-guide",
+   "type": "product",
+   "lang": "en",
+   "title": "The Potent Elixir for Chronic Cough",
+   "price": "$5.00",
+   "url": "https://payhip.com/b/g6l1f",
+   "image": "/assets/uploads/chronic-cough-elixir-new.jpg",
+   "tags": [
+    "cough"
+   ],
+   "text": "A step-by-step recipe guide to making a herbal elixir for persistent coughs at home."
+  },
+  {
+   "id": "cough-guide-sw",
+   "type": "product",
+   "lang": "sw",
+   "title": "Tiba Mujarabu ya Kikohozi Sugu",
+   "price": "$5.00",
+   "url": "https://payhip.com/b/sdOAX",
+   "image": "/assets/uploads/chronic-cough-elixir-new.jpg",
+   "tags": [
+    "kikohozi"
+   ]
+  },
+  {
+   "id": "golden-mind",
+   "type": "product",
+   "lang": "en",
+   "title": "The Golden Mind Paste: A Traditional 5-Ingredient Recipe Guide",
+   "price": "$17.00",
+   "url": "https://payhip.com/b/KoaRk",
+   "image": "/assets/uploads/golden-mind-paste.jpg",
+   "tags": [
+    "memory",
+    "brain",
+    "after 50"
+   ],
+   "text": "A traditional 5-ingredient recipe guide for everyday brain support."
+  },
+  {
+   "id": "golden-mind-sw",
+   "type": "product",
+   "lang": "sw",
+   "title": "Mchanganyiko wa Dhahabu kwa ajili ya Afya ya Akili",
+   "price": "$17.00",
+   "url": "https://payhip.com/b/brc5G",
+   "image": "/assets/uploads/golden-mind-paste.jpg",
+   "tags": [
+    "kumbukumbu",
+    "akili",
+    "miaka 50"
+   ]
+  },
+  {
+   "id": "stress-guide",
+   "type": "product",
+   "lang": "en",
+   "title": "The Bolts and Nuts of Stress Management and Mindfulness (Guide + 7 Tools)",
+   "price": "$12.00",
+   "url": "https://payhip.com/b/eYhJn",
+   "image": "/assets/uploads/stress-management-man-at-desk.jpg",
+   "tags": [
+    "stress",
+    "mindful",
+    "calm",
+    "sleep",
+    "rituals"
+   ],
+   "text": "Practical techniques to manage stress and build mindfulness at work and at home. Guide plus 7 tools."
+  },
+  {
+   "id": "stress-guide-sw",
+   "type": "product",
+   "lang": "sw",
+   "title": "Misingi na Mbinu za Kudhibiti Msongo wa Mawazo (Mwongozo + Zana 7)",
+   "price": "$12.00",
+   "url": "https://payhip.com/b/PhDkr",
+   "image": "/assets/uploads/stress-management-man-at-desk.jpg",
+   "tags": [
+    "msongo",
+    "mawazo",
+    "utulivu",
+    "desturi"
+   ]
+  },
+  {
+   "id": "bad-breath",
+   "type": "product",
+   "lang": "en",
+   "title": "Why Do Some People Have Extremely Bad-Smelling Breath?",
+   "price": "$5.00",
+   "url": "https://payhip.com/b/GO6sJ",
+   "image": "/assets/uploads/bad-breath-bus-couple.png",
+   "tags": [
+    "bad breath",
+    "oral health",
+    "gums"
+   ],
+   "text": "A short guide to the real causes of very bad breath and what you can do about it."
+  },
+  {
+   "id": "bad-breath-sw",
+   "type": "product",
+   "lang": "sw",
+   "title": "Kwa Nini Baadhi ya Watu Wanatoa Pumzi Yenye Harufu Mbaya Sana?",
+   "price": "$5.00",
+   "url": "https://payhip.com/b/8YE0h",
+   "image": "/assets/uploads/bad-breath-bus-couple.png",
+   "tags": [
+    "pumzi",
+    "kinywa",
+    "meno"
+   ]
+  },
+  {
+   "id": "cp-support",
+   "type": "product",
+   "lang": "en",
+   "title": "Haiiba C & P Support, 200 g",
+   "price": "$11.00",
+   "url": "https://payhip.com/b/ak2AY",
+   "image": "/assets/uploads/haiiba-cp-support-jar-green-2000.jpg",
+   "tags": [],
+   "text": "A seven-plant powder blend from Herbal Impact. See the product listing for the reported uses, precautions and delivery."
+  },
+  {
+   "id": "svc-consult",
+   "type": "service",
+   "lang": "en",
+   "title": "Talk to a licensed traditional medicine practitioner",
+   "text": "Herbal Impact is licensed by Tanzania's Ministry of Health through the Traditional and Alternative Health Practice Council. Consult us in Dar es Salaam or on WhatsApp.",
+   "image": "/assets/uploads/home-hero-herbs-tincture.jpg",
+   "whatsapp": "255754281131",
+   "tags": [
+    "symptom",
+    "diagnos",
+    "treatment",
+    "dalili",
+    "tiba"
+   ],
+   "general": true
+  },
+  {
+   "id": "svc-consult-sw",
+   "type": "service",
+   "lang": "sw",
+   "title": "Ongea na daktari wa tiba asili aliyesajiliwa",
+   "text": "Herbal Impact imesajiliwa na Wizara ya Afya kupitia Baraza la Tiba Asili na Tiba Mbadala. Pata ushauri Dar es Salaam au kupitia WhatsApp.",
+   "image": "/assets/uploads/home-hero-herbs-tincture.jpg",
+   "whatsapp": "255754281131",
+   "tags": [
+    "symptom",
+    "diagnos",
+    "treatment",
+    "dalili",
+    "tiba"
+   ],
+   "general": true
+  },
+  {
+   "id": "svc-acid-burn",
+   "type": "service",
+   "lang": "en",
+   "title": "Acid-Burn Stomach Ulcer Program",
+   "text": "Our programme for stomach pain caused by excess acidity, sent to you by WhatsApp or email after payment.",
+   "image": "/assets/uploads/acid-burn-stomach-digestive-tract.jpg",
+   "whatsapp": "255754281131",
+   "tags": [
+    "acid",
+    "heartburn",
+    "ulcer",
+    "tindikali",
+    "kiungulia",
+    "vidonda"
+   ],
+   "price": "TZS 45,000"
+  },
+  {
+   "id": "svc-acid-burn-sw",
+   "type": "service",
+   "lang": "sw",
+   "title": "Programu ya Vidonda vya Tumbo vya Tindikali",
+   "text": "Programu yetu kwa maumivu ya tumbo yanayotokana na tindikali nyingi, inatumwa kwa WhatsApp au barua pepe baada ya malipo.",
+   "image": "/assets/uploads/acid-burn-stomach-digestive-tract.jpg",
+   "whatsapp": "255754281131",
+   "tags": [
+    "acid",
+    "heartburn",
+    "ulcer",
+    "tindikali",
+    "kiungulia",
+    "vidonda"
+   ],
+   "price": "TZS 45,000"
+  },
+  {
+   "id": "svc-delivery",
+   "type": "service",
+   "lang": "en",
+   "title": "Order on WhatsApp, delivered anywhere",
+   "text": "Order our herbal products on WhatsApp. We deliver anywhere in the world; you choose the courier and pay the freight.",
+   "image": "/assets/uploads/herbal-tea-zanzibar-elder.jpg",
+   "whatsapp": "255754281131",
+   "tags": [
+    "herbal tea",
+    "order",
+    "chai",
+    "agiza"
+   ],
+   "general": true
+  },
+  {
+   "id": "svc-delivery-sw",
+   "type": "service",
+   "lang": "sw",
+   "title": "Agiza kwa WhatsApp, tunakuletea popote",
+   "text": "Agiza bidhaa zetu za mitishamba kwa WhatsApp. Tunatuma popote duniani; unachagua njia ya usafirishaji na kulipia gharama zake.",
+   "image": "/assets/uploads/herbal-tea-zanzibar-elder.jpg",
+   "whatsapp": "255754281131",
+   "tags": [
+    "herbal tea",
+    "order",
+    "chai",
+    "agiza"
+   ],
+   "general": true
+  }
+ ]
+}
