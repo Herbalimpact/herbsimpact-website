@@ -53,6 +53,16 @@ We are confident in this remedy because we have used it for a very long time wit
 
 You do not need to wait for symptoms to show up before you start taking action.
 
+## Frequently Asked Questions
+
+**What are non-communicable diseases?** Diseases that are not passed from person to person, such as heart disease, high blood pressure, stroke, cancers, adult-onset diabetes, kidney disease and some lung, liver and mental illnesses.
+
+**How many people do non-communicable diseases kill?** They are the leading cause of death worldwide. According to the World Health Organization, they kill about 41 million people every year.
+
+**What is arterial plaque?** A waxy coating that builds up inside the blood vessels and stops blood from flowing as well as it should, so cells get less oxygen and fewer nutrients.
+
+**Should I wait for symptoms before taking action?** No. Many of these diseases develop quietly. Have your blood pressure, blood sugar and cholesterol checked regularly, and keep taking any treatment your doctor has prescribed.
+
 ## Get Haiiba C and P Support
 
 To get Haiiba C and P Support, or for advice on cleansing your blood circulation, contact us:

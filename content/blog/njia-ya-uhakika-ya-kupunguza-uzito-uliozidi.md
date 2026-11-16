@@ -48,6 +48,16 @@ Tunapokula vyakula vya aina yoyote tusisahau kanuni ya 80/20. Hii ni kanuni inay
 
 Kabla ya kuanza, fahamu uzito wako uko wapi. Tumia **[kikokotoo chetu cha BMI bure](https://herbsimpact.com/tools.html)** kupima Uwiano wa Uzito na Urefu wako (BMI) ndani ya sekunde chache. Weka urefu na uzito wako, na hesabu hufanyika kwenye kifaa chako pekee, hivyo unaweza kufuatilia maendeleo yako unapopunguza uzito.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Kanuni ya msingi ya kupunguza uzito ni ipi?** Kalori zinazoingia mwilini zikiwa chache kuliko zinazotumika, uzito hupungua. Zikiwa nyingi kuliko zinazotumika, uzito huongezeka. Kalori za ziada huhifadhiwa kama mafuta.
+
+**Ni vyakula gani nile kwa tahadhari?** Vyakula vyenye sukari na wanga kwa wingi, kwa sababu kwa kawaida huingiza mwilini kalori nyingi kuliko mahitaji.
+
+**Kanuni ya 80/20 ni ipi?** Asilimia 80 ya chakula kwenye sahani yako iwe mchanganyiko wa mboga za aina mbalimbali, na ule nyingi kati yake zikiwa mbichi kadiri inavyowezekana.
+
+**Nitajuaje kama nahitaji kupunguza uzito?** Pima Uwiano wako wa Uzito na Urefu (BMI) kwa kifaa chetu cha bure cha BMI kwenye ukurasa wa Tools. Weka urefu na uzito wako na kitakupa jibu kwa sekunde chache.
+
 ## Unahitaji Ushauri Zaidi?
 
 Kwa maelezo zaidi wasiliana nasi kwa simu/WhatsApp **0754 281 131 / 0655 281 131**
