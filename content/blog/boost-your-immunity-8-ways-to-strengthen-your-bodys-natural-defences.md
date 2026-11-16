@@ -49,6 +49,14 @@ As proof of what Haiiba Timam Tea can do here, there are AIDS patients who were 
 
 Many users also report that since they started drinking this tea, they no longer fall sick with malaria the way they used to.
 
+## Frequently Asked Questions
+
+**What does the immune system do?** It protects the body from disease-causing organisms such as bacteria, fungi, viruses and parasitic worms, and from harmful substances in our food and environment.
+
+**What are the eight steps to a stronger immune system?** Eat the right diet, sleep enough, manage stress, stay well hydrated, get daily sunlight, stay active every day, clear toxins from the body and support the repair of worn-out cells.
+
+**Can I drink Haiiba Timam Tea while on medical treatment?** Yes, many of our clients do. Keep taking your treatment and tell your doctor you are drinking the tea.
+
 ## Would You Like to Try This Tea?
 
 Order Haiiba Timam Tea online: [payhip.com/b/x7da9](https://payhip.com/b/x7da9)

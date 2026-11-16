@@ -36,6 +36,16 @@ Carrying home a bag of fresh salad greens is supposed to be one of the easiest w
 
 Seek medical care if diarrhea lasts longer than a few days, if you notice blood, or if you become dehydrated. Cyclosporiasis is treatable with prescription antibiotics, but it is frequently missed without specific lab testing, so mention any recent salad or produce consumption to your doctor.
 
+## Frequently Asked Questions
+
+**What is cyclospora?** A microscopic parasite, Cyclospora cayetanensis, that contaminates soil, water or fresh produce and causes a long-lasting intestinal infection called cyclosporiasis.
+
+**What are the symptoms of cyclosporiasis?** Watery diarrhoea, loss of appetite, weight loss, cramps, bloating, tiredness and a low fever. Symptoms usually appear one to two weeks after eating contaminated food.
+
+**Does washing lettuce remove cyclospora?** Rinsing leafy greens under running water lowers the risk, but it does not remove it completely, because the parasite resists many common cleaning products.
+
+**When should I see a doctor?** If diarrhoea lasts more than a few days, if you see blood, or if you become dehydrated. Cyclosporiasis is treated with prescription antibiotics, but it needs a specific lab test to be found.
+
 ## Bringing It All Together
 
 Fresh produce remains one of the healthiest choices you can make, but outbreaks like this year's cyclospora surge are a reminder to stay informed about recalls, wash your food carefully, and listen to your body when something feels off. A little caution today can spare you weeks of digestive misery tomorrow.

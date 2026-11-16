@@ -72,6 +72,16 @@ Mwili una mifumo miwili inayofanya kazi kama pedali za gari. Mmoja ni wa kuongez
 
 Muone daktari au mtaalamu wa afya ya akili ikiwa dalili zimeendelea kwa wiki kadhaa, zinakuzuia kufanya kazi au kulala, unatumia pombe au dawa ili kustahimili, au unapata mawazo ya kujidhuru. Kuomba msaada ni hatua ya busara.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Dalili za msongo wa mawazo ni zipi?** Kichwa kuuma mara kwa mara, mabega na shingo kukaza, tumbo kusumbua, uchovu usioisha, kukosa usingizi, hasira za haraka, wasiwasi usioisha, kusahausahau na kujitenga na watu.
+
+**Je, msongo wa mawazo na sonona ni kitu kimoja?** Hapana. Msongo ni mwitikio wa mwili kwa shinikizo na kwa kawaida hupungua shinikizo likiondoka. Sonona ni ugonjwa wa afya ya akili wenye huzuni nzito kwa wiki mbili au zaidi. Msongo wa muda mrefu huongeza hatari ya sonona.
+
+**Njia ya haraka ya kutuliza msongo ni ipi?** Kupumua taratibu. Vuta pumzi kupitia pua ukihesabu hadi nne, itoe kupitia mdomo ukihesabu hadi sita, na urudie mara kumi.
+
+**Nimwone mtaalamu lini?** Dalili zikiendelea kwa wiki kadhaa, zikikuzuia kufanya kazi au kulala, ukitumia pombe au dawa ili kustahimili, au ukipata mawazo ya kujidhuru. Kuomba msaada ni hatua ya busara.
+
 ## Jifunze zaidi kwa mwongozo kamili
 
 Hatua hizi tano ni mwanzo. Mwongozo wa **Misingi na Mbinu za Kudhibiti Msongo wa Mawazo na Kukuza Mazingatio** unakupeleka hatua kwa hatua katika kila mbinu. Una mazoezi ya kila sura na zana saba za kuchapisha, ikiwemo kipimo cha msongo, daftari la fikra na mpango wa kuanzia wa siku saba.

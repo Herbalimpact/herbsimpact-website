@@ -69,6 +69,16 @@ Choose one technique and attach it to something you already do every day, such a
 
 If stress, low mood or anxiety has lasted for weeks and is affecting your work, sleep or relationships, speak to a doctor or mental health professional. Self-help techniques support professional care. They do not replace it.
 
+## Frequently Asked Questions
+
+**What are the signs of chronic stress?** Trouble sleeping, frequent headaches or stomach upsets, irritability, difficulty concentrating, constant worry, losing interest in things you enjoy, and reaching for food, alcohol or your phone to escape.
+
+**What is the fastest way to calm down?** Slow breathing. Breathe in through your nose for a count of four and out through your mouth for a count of six, ten times.
+
+**How much time do these techniques take?** About ten minutes a day. Start with one technique, attach it to something you already do every day, and begin with five minutes.
+
+**When should I get professional help?** If stress, low mood or anxiety has lasted for weeks and is affecting your work, sleep or relationships, speak to a doctor or mental health professional.
+
 ## Go deeper with the full guide
 
 These seven steps are a starting point. **The Bolts and Nuts of Stress Management and Mindfulness Cultivation** takes you through each one in detail, with step-by-step exercises and seven printable tools, including a stress self-check, a thought journal, a ten-minute body scan script and a seven-day starter plan.

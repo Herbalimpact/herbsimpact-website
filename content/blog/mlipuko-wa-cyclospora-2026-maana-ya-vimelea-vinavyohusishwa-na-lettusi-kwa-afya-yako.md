@@ -36,6 +36,16 @@ Kubeba mfuko wa lettusi safi na saladi nyumbani mara nyingi huchukuliwa kuwa nji
 
 Tafuta huduma za kiafya iwapo kuhara kunadumu zaidi ya siku chache, ukiona damu, au ukipungukiwa na maji mwilini. Cyclosporiasis inatibika kwa dawa maalum za viua vijasumu, lakini mara nyingi hukosekana bila vipimo maalum vya maabara, hivyo taja kwa daktari wako kama umekula saladi au mazao hivi karibuni.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Cyclospora ni nini?** Ni kimelea kidogo sana, Cyclospora cayetanensis, kinachochafua udongo, maji au mboga mbichi na kusababisha maambukizi ya muda mrefu ya utumbo yanayoitwa cyclosporiasis.
+
+**Dalili za cyclosporiasis ni zipi?** Kuharisha majimaji, kukosa hamu ya kula, kupungua uzito, kuumwa tumbo, tumbo kujaa gesi, uchovu na homa ya kiwango cha chini. Dalili kwa kawaida huanza wiki moja hadi mbili baada ya kula chakula kilichochafuliwa.
+
+**Je, kuosha lettusi kunaondoa cyclospora?** Kuosha mboga za majani kwa maji yanayotiririka kunapunguza hatari, lakini hakuiondoi kabisa, kwa sababu kimelea hiki hustahimili dawa nyingi za kawaida za kusafishia.
+
+**Nimwone daktari lini?** Ukiharisha kwa zaidi ya siku chache, ukiona damu, au ukipungukiwa maji mwilini. Cyclosporiasis hutibiwa kwa dawa za antibiotiki za kuandikiwa na daktari, lakini inahitaji kipimo maalum cha maabara ili kugundulika.
+
 ## Kuunganisha Yote Pamoja
 
 Mazao mapya yanabaki kuwa moja ya chaguo bora zaidi za afya unaloweza kufanya, lakini milipuko kama huu wa cyclospora wa mwaka huu ni ukumbusho wa kubaki na taarifa kuhusu kuondolewa kwa bidhaa, kuosha chakula chako kwa makini, na kusikiliza mwili wako pale kitu kinapohisi tofauti. Tahadhari kidogo leo inaweza kukuepusha na wiki za usumbufu wa tumbo kesho.

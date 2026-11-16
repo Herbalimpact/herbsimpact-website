@@ -49,6 +49,14 @@ Kudhihirisha uwezo wa Haiiba Timam Tea katika jukumu hili wako wagonjwa wa UKIMW
 
 Aidha, watumiaji wengi wanadai kuwa baada ya kuanza kutumia chai hii sasa hawaugui tena ugonjwa wa malaria, tofauti na ilivyokuwa huko nyuma.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Kinga za mwili zina kazi gani?** Hulinda mwili dhidi ya vimelea vya magonjwa kama bakteria, fangasi, virusi na minyoo, pamoja na sumu zinazotufikia kupitia chakula na mazingira.
+
+**Hatua nane za kuimarisha kinga za mwili ni zipi?** Kula lishe sahihi, kupata usingizi wa kutosha, kukabiliana na msongo wa mawazo, kunywa maji ya kutosha, kupata mwanga wa jua kila siku, kuushughulisha mwili kila siku, kuondosha sumu mwilini na kukarabati seli chakavu.
+
+**Je, naweza kunywa Haiiba Timam Tea nikiwa natumia dawa za hospitali?** Ndiyo, wateja wetu wengi hufanya hivyo. Endelea na tiba yako na mjulishe daktari wako kuwa unakunywa chai hii.
+
 ## Je, Ungependa Kuijaribu Chai Hii?
 
 Tupigie/WhatsApp **0754 281 131 / 0655 281 131**

@@ -48,6 +48,16 @@ Habari njema ni kwamba matibabu mara nyingi huanza kwa njia rahisi. Daktari wa m
 
 Na bila shaka, tabia za kila siku zina umuhimu mkubwa kuliko watu wanavyodhani: kupiga mswaki na kutumia uzi wa meno kwa uthabiti, kusafisha ulimi, kunywa maji ya kutosha, kupunguza matumizi ya tumbaku, na kufanya uchunguzi wa meno mara kwa mara.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Harufu mbaya ya pumzi husababishwa na nini?** Katika asilimia 80 hadi 90 ya visa, chanzo ni mdomoni: utando na mabaki ya chakula, magonjwa ya fizi, meno kuoza, ulimi wenye utando, mdomo mkavu na uvutaji sigara. Vingine hutokana na matatizo ya sinasi, mawe ya tonsili, tindikali kupanda kooni au hali kama kisukari kisichodhibitiwa.
+
+**Je, harufu mbaya ya pumzi ni tatizo la kawaida?** Ndiyo. Zaidi ya nusu ya watu wazima duniani hulipata wakati fulani wa maisha yao. Ni tatizo la kiafya lenye vyanzo halisi, si kasoro ya mtu.
+
+**Nimwone nani kwanza?** Daktari wa meno, kwa sababu visa vingi huanzia mdomoni. Chanzo kikiwa nje ya mdomo, daktari wa meno au daktari wako atakuelekeza kwa mtaalamu sahihi.
+
+**Ni tabia gani za kila siku zinazosaidia?** Piga mswaki na safisha kati ya meno kila siku, safisha ulimi, kunywa maji ya kutosha, punguza tumbaku na fanya uchunguzi wa meno mara kwa mara.
+
 ## Kuna Pia Njia Nyororo Zaidi, ya Asili
 
 Mbali na matibabu ya kihospitali, watu wengi wamepata ufumbuzi wa kweli kupitia njia za asili na za mimeatiba — tiba zinazofanya kazi pamoja na mwili kupunguza bakteria na kusaidia kuwa na mdomo wenye afya zaidi, bila kuhitaji kitu kikali.

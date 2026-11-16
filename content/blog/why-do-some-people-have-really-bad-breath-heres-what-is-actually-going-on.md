@@ -46,6 +46,16 @@ The good news is that treatment usually starts simple. A dentist is almost alway
 
 And of course, the everyday habits matter more than people give them credit for: brushing and flossing consistently, cleaning your tongue, drinking enough water, cutting back on tobacco, and getting regular dental checkups.
 
+## Frequently Asked Questions
+
+**What causes bad breath?** In 80 to 90% of cases it starts in the mouth: plaque and food debris, gum disease, tooth decay, a coated tongue, dry mouth and smoking. The rest can come from sinus problems, tonsil stones, acid reflux or conditions such as uncontrolled diabetes.
+
+**Is bad breath common?** Yes. More than half of adults worldwide have it at some point in their lives. It is a health issue with real causes, not a personal failing.
+
+**Who should I see first about bad breath?** A dentist, because most cases start in the mouth. If the cause is outside the mouth, the dentist or your doctor can refer you to the right specialist.
+
+**What daily habits help?** Brush and floss every day, clean your tongue, drink enough water, cut back on tobacco and have regular dental check-ups.
+
 ## There's Also a Gentler, Natural Path
 
 Alongside medical treatment, many people find real relief through herbal and natural approaches — remedies that work with the body to reduce the bacteria and support a healthier mouth, without needing anything harsh.

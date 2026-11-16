@@ -83,6 +83,16 @@ Dawa hii huua mamilioni ya gram positive bakteria kwa kugusana tu. Matumizi ya d
 
 Dawa hii pia hutibu magonjwa ya fizi yanayotokana na maambukizi na hivyo kuwa tiba bora kwa kinywa kinachotoa harufu mbaya kutokana na uharibifu wa tishu za fizi.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Vyanzo vikuu vya matatizo ya meno na fizi ni vipi?** Vyanzo vikuu vinne: Gram positive bakteria, mwili kuelemewa na tindikali, kisukari kisichodhibitiwa, na upungufu wa vitamin C.
+
+**Nipige mswaki mara ngapi?** Kwa kweli, baada ya kila mlo na kinywaji. Angalau, piga mswaki mara mbili kwa siku: asubuhi na usiku kabla ya kulala.
+
+**Kwa nini fizi zangu zinatoa damu?** Fizi kutoa damu kunaweza kuwa dalili ya upungufu wa vitamin C, unaodhoofisha fizi, au maambukizi kwenye fizi. Matunda jamii ya machungwa kama ndimu na malimau ni chanzo rahisi cha vitamin C. Damu ikiendelea, mwone daktari wa meno.
+
+**Kanuni ya 80/20 kwa afya ya meno ni ipi?** Asilimia 80 ya sahani yako iwe mboga mchanganyiko, nyingi zikiwa mbichi kama inawezekana. Kula matunda peke yake, angalau nusu saa kabla ya mlo wa kawaida.
+
 ## Je, Ungependa Kupata Haiiba Dental Guard?
 
 Agiza mtandaoni: [payhip.com/b/hxvAR](https://payhip.com/b/hxvAR)
