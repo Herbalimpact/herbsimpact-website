@@ -13,15 +13,55 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  /* Generic "coming soon" form handler (contact + newsletter) */
-  document.querySelectorAll('form[data-static-form]').forEach(function (form) {
+  /* Form helpers */
+  function showMsg(form, text, ok) {
+    let msg = form.querySelector('.form-message');
+    if (!msg) { msg = document.createElement('p'); msg.className = 'form-message small'; form.appendChild(msg); }
+    if (msg.dataset.okColor === undefined) msg.dataset.okColor = msg.style.color || '';
+    msg.textContent = text;
+    msg.style.display = 'block';
+    msg.style.color = ok ? msg.dataset.okColor : (form.closest('footer') ? '#ffb3a7' : '#c0392b');
+  }
+  const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+
+  /* Newsletter forms -> Brevo list "Herbal Impact - Newsletter" */
+  const BREVO_URL = 'https://3333f3b8.sibforms.com/serve/MUIFAFoKnJLz-YB5MKEbMUc4M6rzSATL1OJMxBYypOCzICZZQKIYg6HdqOuT3R44o8Rape7N-Zwq9hM3w2phLTK6L8eeIiZPd3-YG7mMNFWb2RLM0shqgtui_Ezo-ePBP0mVMPajlYci_KeGngxEo8FAtvLTbJ7A2TVuklbB-5IIqfJ1nA6K8uUzAwSbjBNBHvT3Do9eU88pZuMijA==';
+  document.querySelectorAll('form[data-brevo-form]').forEach(function (form) {
     form.addEventListener('submit', function (e) {
       e.preventDefault();
-      const msg = form.querySelector('.form-message');
-      if (msg) {
-        msg.textContent = form.dataset.successMessage || 'Thank you! We will be in touch soon.';
-        msg.style.display = 'block';
-      }
+      const email = (form.querySelector('input[name="EMAIL"]').value || '').trim();
+      if (!EMAIL_RE.test(email)) { showMsg(form, 'Please enter a valid email address.', false); return; }
+      const btn = form.querySelector('button[type="submit"]');
+      if (btn) btn.disabled = true;
+      const data = new FormData(form);
+      data.append('locale', 'en');
+      data.append('html_type', 'simple');
+      fetch(BREVO_URL, { method: 'POST', mode: 'no-cors', body: data })
+        .then(function () {
+          showMsg(form, form.dataset.successMessage || 'Thanks for subscribing!', true);
+          form.reset();
+        })
+        .catch(function () { showMsg(form, 'Sorry, something went wrong. Please try again.', false); })
+        .finally(function () { if (btn) btn.disabled = false; });
+    });
+  });
+
+  /* Contact form -> opens WhatsApp chat with Herbal Impact, message pre-filled */
+  const WA_NUMBER = '255754281131';
+  document.querySelectorAll('form[data-wa-form]').forEach(function (form) {
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      const d = Object.fromEntries(new FormData(form));
+      if (d.botcheck) return;
+      const text = 'Hello Herbal Impact,\n\n' + (d.message || '').trim() +
+        '\n\nName: ' + (d.name || '').trim() +
+        (d.email ? '\nEmail: ' + d.email.trim() : '') +
+        (d.subject ? '\nSubject: ' + d.subject.trim() : '') +
+        '\n(Sent from herbsimpact.com)';
+      const url = 'https://wa.me/' + WA_NUMBER + '?text=' + encodeURIComponent(text);
+      const w = window.open(url, '_blank');
+      if (!w) window.location.href = url;
+      showMsg(form, form.dataset.successMessage, true);
       form.reset();
     });
   });
