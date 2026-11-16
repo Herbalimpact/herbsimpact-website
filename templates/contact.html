@@ -56,15 +56,16 @@
 <div class="grid grid-2">
 <div class="card">
 <h3>{{form_title}}</h3>
-<form data-static-form data-success-message="{{form_success_message}}">
+<form data-wa-form data-success-message="WhatsApp is opening with your message. Just press Send in WhatsApp to reach us.">
+<input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none;">
 <div class="form-grid">
 <div class="field">
 <label for="c-name">Name</label>
 <input type="text" id="c-name" name="name" required>
 </div>
 <div class="field">
-<label for="c-email">Email</label>
-<input type="email" id="c-email" name="email" required>
+<label for="c-email">Email (optional)</label>
+<input type="email" id="c-email" name="email">
 </div>
 <div class="field full">
 <label for="c-subject">Subject</label>
@@ -75,7 +76,7 @@
 <textarea id="c-message" name="message" required></textarea>
 </div>
 </div>
-<button type="submit" class="btn btn-primary">Send message</button>
+<button type="submit" class="btn btn-primary">Send via WhatsApp</button>
 <p class="form-message small" style="display:none;color:var(--green-dark);font-weight:700;margin-top:12px;"></p>
 </form>
 </div>
@@ -127,9 +128,9 @@
 </div>
 <div>
 <h4>Stay in touch</h4>
-<form data-static-form data-success-message="Thanks for subscribing!">
+<form data-brevo-form data-success-message="Thanks for subscribing!">
 <div class="field">
-<input type="email" placeholder="Your email" required>
+<input type="email" name="EMAIL" placeholder="Your email" autocomplete="email" aria-label="Email address" required><input type="text" name="email_address_check" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;">
 </div>
 <button class="btn btn-primary" type="submit">Subscribe</button>
 <p class="form-message small" style="display:none;color:#fff"></p>

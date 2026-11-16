@@ -162,9 +162,9 @@ document.getElementById('bmi-result').style.display = 'block';
 </div>
 <div>
 <h4>Stay in touch</h4>
-<form data-static-form data-success-message="Thanks for subscribing!">
+<form data-brevo-form data-success-message="Thanks for subscribing!">
 <div class="field">
-<input type="email" placeholder="Your email" required>
+<input type="email" name="EMAIL" placeholder="Your email" autocomplete="email" aria-label="Email address" required><input type="text" name="email_address_check" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;">
 </div>
 <button class="btn btn-primary" type="submit">Subscribe</button>
 <p class="form-message small" style="display:none;color:#fff"></p>

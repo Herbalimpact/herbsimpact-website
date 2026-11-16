@@ -155,6 +155,36 @@ const BOTTOM_LINK_TEXT = {
   sw: 'Rudi kwenye makala zote / Back to all articles',
 };
 
+// Author box shown under every article (Swahili posts get the Swahili text).
+const AUTHOR = {
+  name: 'Juma Killaghai',
+  image: '/assets/uploads/juma-killaghai.jpg',
+  en: {
+    label: 'Written by',
+    bio: 'Licensed traditional and alternative medicine doctor and authorised health and wellness trainer. Herbal Impact is a licensed clinic in Dar es Salaam, Tanzania.',
+    link: 'About Herbal Impact',
+  },
+  sw: {
+    label: 'Imeandikwa na',
+    bio: 'Daktari wa tiba asili na tiba mbadala mwenye leseni na mkufunzi wa afya na ustawi aliyeidhinishwa. Herbal Impact ni kliniki yenye leseni, Dar es Salaam, Tanzania.',
+    link: 'Kuhusu Herbal Impact',
+  },
+};
+
+function buildAuthorBox(isSwahili) {
+  const t = isSwahili ? AUTHOR.sw : AUTHOR.en;
+  return (
+    '<div class="author-box">\n' +
+    '      <img src="' + AUTHOR.image + '" alt="' + AUTHOR.name + '" width="72" height="72" loading="lazy">\n' +
+    '      <div>\n' +
+    '        <p class="author-label">' + t.label + '</p>\n' +
+    '        <p class="author-name">' + AUTHOR.name + '</p>\n' +
+    '        <p class="author-bio">' + t.bio + ' <a href="about.html">' + t.link + ' &rarr;</a></p>\n' +
+    '      </div>\n' +
+    '    </div>'
+  );
+}
+
 const RELATED_HEADING = { en: 'Related articles', sw: 'Makala zinazohusiana' };
 
 // Parses a simple "key: value" front-matter block. Unlike full YAML, a
@@ -302,6 +332,13 @@ function buildJsonLd(data, outputName) {
     image: toAbsoluteUrl(data.cover_image),
     url: canonicalUrl,
     inLanguage: outputName.endsWith('-sw.html') ? 'sw' : 'en',
+    author: {
+      '@type': 'Person',
+      name: AUTHOR.name,
+      jobTitle: 'Licensed traditional and alternative medicine doctor; authorised health and wellness trainer',
+      image: SITE_URL + AUTHOR.image.replace(/^\//, ''),
+      worksFor: { '@type': 'MedicalClinic', name: 'Herbal Impact', url: SITE_URL },
+    },
     publisher: {
       '@type': 'Organization',
       name: 'Herbal Impact',
@@ -396,6 +433,7 @@ function buildPost(mdFileName, template, titles) {
     .split('{{SWAHILI_LINK}}').join(escapeHtml(data.swahili_link || ''))
     .split('{{SWAHILI_LINK_TEXT}}').join(swahiliLinkText)
     .split('{{DESCRIPTION}}').join(escapeHtml(data.description || ''))
+    .split('{{AUTHOR_BOX}}').join(buildAuthorBox(isSwahili))
     .split('{{DISCLAIMER}}').join(escapeHtml(disclaimer))
     .split('{{TOP_LINK_HREF}}').join(escapeHtml(topLinkHref))
     .split('{{TOP_LINK_TEXT}}').join(escapeHtml(topLinkText))

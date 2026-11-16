@@ -119,9 +119,10 @@
 <div class="newsletter" style="background:var(--green);">
 <h3>{{newsletter_title}}</h3>
 <p>{{newsletter_text}}</p>
-<form data-static-form data-success-message="Thanks for subscribing! You're on the list.">
-<input type="email" placeholder="Enter your email" required>
+<form data-brevo-form data-success-message="Thanks for subscribing! You're on the list.">
+<input type="email" name="EMAIL" placeholder="Enter your email" autocomplete="email" aria-label="Email address" required><input type="text" name="email_address_check" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;">
 <button type="submit" class="btn btn-primary">Subscribe</button>
+<p class="form-message small" style="display:none;margin-top:10px;font-weight:700;"></p>
 </form>
 <p class="form-message" style="display:none;color:#fff;font-weight:700;margin-top:12px;"></p>
 <p class="note">No spam, ever. Unsubscribe anytime.</p>
@@ -155,9 +156,9 @@
 </div>
 <div>
 <h4>Stay in touch</h4>
-<form data-static-form data-success-message="Thanks for subscribing!">
+<form data-brevo-form data-success-message="Thanks for subscribing!">
 <div class="field">
-<input type="email" placeholder="Your email" required>
+<input type="email" name="EMAIL" placeholder="Your email" autocomplete="email" aria-label="Email address" required><input type="text" name="email_address_check" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;">
 </div>
 <button class="btn btn-primary" type="submit">Subscribe</button>
 <p class="form-message small" style="display:none;color:#fff"></p>
