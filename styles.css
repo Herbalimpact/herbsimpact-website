@@ -501,3 +501,12 @@ article.post .post-figure figcaption{ font-size: .85rem; color: var(--text-soft)
   .wb-wa-float{padding:12px;}
 }
 @media print{.wb-ad,.wb-ad-rec,.wb-wa-float,.wb-featured-section{display:none !important;}}
+
+/* Author box under blog articles */
+.author-box{display:flex;gap:16px;align-items:flex-start;border:1px solid #dfe7e1;border-left:4px solid var(--green);border-radius:10px;padding:18px 20px;margin-top:36px;background:#fff;}
+.author-box img{width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0;}
+.author-box p{margin:0;}
+.author-box .author-label{font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--text-soft);}
+.author-box .author-name{font-weight:700;color:var(--green-darker);font-size:1.05rem;margin:2px 0 6px;}
+.author-box .author-bio{font-size:.92rem;color:var(--text-soft);line-height:1.55;}
+.author-box .author-bio a{color:var(--green);font-weight:600;}
