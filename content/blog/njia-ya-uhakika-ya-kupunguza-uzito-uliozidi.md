@@ -32,7 +32,7 @@ Kalori zilizozidi huhifadhiwa mwilini kama mafuta kwa ajili ya matumizi ya baada
 Kitu cha kwanza kinachohitajika katika kuzuia ongezeko kubwa la uzito wa mwili ni kuhakikisha kwamba hatuingizi mwilini kalori nyingi kuliko mahitaji ya mwili. Ili kufanikisha hili kuna umuhimu mkubwa wa kuchagua chakula.
 
 1. Vyakula vyenye sukari na wanga kwa kawaida huingiza mwilini kiasi kikubwa mno cha kalori kuliko mahitaji na kupelekea ongezeko la uzito, hivyo tunapaswa kuvila kwa tahadhari.
-2. Vyakula vya protini huhitaji kiasi kikubwa sana cha kalori kuchakatwa, kuliko kalori zitakazotokana na vyakula hivyo. Hii ina maana kuwa ulaji wa vyakula hivi husaidia sana kupunguza uzito wa mwili.
+2. Vyakula vya protini hutumia nishati zaidi kuchakatwa kuliko vyakula vya sukari au wanga, na humfanya mtu ashibe kwa muda mrefu, hivyo hula kidogo. Hii ndiyo sababu vinasaidia sana mtu anayetaka kupunguza uzito.
 
 ## Uzito wa Mwili ni Zao la Hisabati
 

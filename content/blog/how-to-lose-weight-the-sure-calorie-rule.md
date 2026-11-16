@@ -32,7 +32,7 @@ Any calories beyond what the body needs are stored as fat, to be used later when
 The first thing needed to prevent large weight gain is to make sure we do not take in more calories than the body needs. To achieve this, choosing what we eat matters a great deal.
 
 1. Foods rich in sugar and starch usually bring far more calories into the body than it needs, leading to weight gain, so we should eat them with caution.
-2. Protein foods need a great many calories to be processed, more than the calories they themselves provide. This means eating them helps a lot in reducing body weight.
+2. Protein foods use more energy to digest than sugar or starch, and they keep you full for longer, so you tend to eat less. This makes them a good friend when you are trying to lose weight.
 
 ## Body Weight Is a Matter of Maths
 
