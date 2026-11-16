@@ -46,6 +46,16 @@ Tulimpatia Haiiba Timam Tea ya kutumia kwa siku 35. Dalili zake zilimalizika baa
 
 Hili halikuwa bahati tu. Kabla ya George, tulimtibu mstaafu mmoja kwa dawa hiyo hiyo, ambaye baadaye alituambia: "Nilikuwa siwezi kutoka nyumbani! Nilikuwa napata hamu ya kukojoa kila baada ya dakika chache, na iwapo nilikuwa mbali na chooni basi ni lazima niharibikiwe!"
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Kuna aina gani za tatizo la kushindwa kuzuia mkojo?** Kuna aina nne: mkojo kuvuja unapokohoa, kucheka au kubeba kitu kizito; hamu ya ghafla na kali ya kukojoa; kibofu kutojitoa kikamilifu; na kibofu kushindwa kabisa kuhifadhi mkojo.
+
+**Nianze na nini?** Mazoezi ya misuli ya nyonga. Kaza misuli unayotumia kukatisha mkojo katikati, shikilia kwa sekunde chache, achia, na rudia kwa dakika kadhaa angalau mara tatu kwa siku.
+
+**Nimwone daktari lini?** Kama mazoezi hayajaleta nafuu baada ya siku chache za kufanya kwa bidii. Nenda hospitali siku hiyo hiyo ukiona damu kwenye mkojo, ukiwa na maumivu au homa, au ukishindwa kabisa kukojoa.
+
+**Je, Haiiba Timam Tea inaweza kusaidia pale tiba ya hospitali haijasaidia?** Wateja wetu wengi ambao tatizo liliendelea baada ya tiba ya hospitali wameripoti nafuu baada ya kuitumia. Endelea kutumia dawa ulizoandikiwa na daktari na mjulishe kuwa unatumia chai hii.
+
 ## Kupata Haiiba Timam Tea
 
 Uko tayari kujaribu? [Pata Haiiba Timam Tea katika duka letu la mtandaoni](https://payhip.com/b/x7da9) — kifurushi cha gramu 200 cha tiba yetu ya mitishamba.

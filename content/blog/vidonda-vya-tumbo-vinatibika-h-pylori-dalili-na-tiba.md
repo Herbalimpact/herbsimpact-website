@@ -76,6 +76,18 @@ Ili vidonda vipone kabisa, matibabu lazima pia yadhibiti tindikali tumboni pamoj
 
 Matibabu haya huchukua wiki kadhaa na yanahusisha kumeza vidonge vingi kila siku. Huenda hii ndiyo sababu kubwa inayofanya wengi wasipone: **tulio wengi hukatiza dozi mara tunapohisi nafuu.** Kama umeanzishiwa dozi, imalize yote kama ulivyoelekezwa na daktari.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Vidonda vingi vya tumbo husababishwa na nini?** Bakteria H. pylori. Matumizi ya mara kwa mara ya dawa za maumivu aina ya NSAIDs, kama ibuprofen, diclofenac na aspirin, nayo yanaweza kusababisha vidonda.
+
+**Je, vidonda vya tumbo vinatibika?** Ndiyo, chanzo kikitambuliwa kwa vipimo na dozi nzima ya tiba ikimalizwa.
+
+**Ni dalili zipi zinahitaji hospitali mara moja?** Maumivu makali ya tumbo, kutapika damu, haja kubwa yenye damu au nyeusi kama lami, kizunguzungu au shida ya kupumua.
+
+**Kwa nini vidonda hurudi baada ya tiba?** Mara nyingi ni kwa sababu watu huacha kumeza dawa mara wanapojisikia nafuu. Maliza dozi yote kama daktari alivyoelekeza.
+
+**Je, naweza kutumia HAIIBA IG pamoja na tiba ya hospitali?** Tunashauri uitumie pamoja na ushauri wa daktari wako, si badala yake.
+
 ## Vidonda Vimekataa Kupona? Tembelea Herbal Impact
 
 Kama una vidonda vya tumbo ambavyo unahisi vimeshindikana kupona kwa sababu yoyote ile, karibu **Herbal Impact**. Dawa lishe yetu ya mimea, **HAIIBA IG**, imekuwa msaada mkubwa kwa wateja wetu wengi wenye vidonda vya tumbo — wengi wao wakiwa wamehangaika kwa muda mrefu kabla ya kuanza kuitumia. Tunashauri kuitumia sambamba na ushauri wa daktari wako.

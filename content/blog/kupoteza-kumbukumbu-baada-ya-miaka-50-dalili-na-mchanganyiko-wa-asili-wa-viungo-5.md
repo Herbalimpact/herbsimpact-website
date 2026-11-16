@@ -69,6 +69,18 @@ Tunapenda kuwa wazi kuhusu maana ya hili. Haya ni mambo tuliyoyaona katika kituo
 
 Mchanganyiko huu umetengenezwa kwa vyakula, lakini kwa viwango tunavyotumia unaweza kuingiliana na dawa. Zungumza na daktari wako kwanza kama unatumia dawa za kuyeyusha damu au kuzuia damu kuganda, kama umewahi kupata kiharusi au kuvuja damu kwenye ubongo, kama una kisukari, shinikizo la damu, tatizo la nyongo au ini, kama una mimba, au kama unatarajia kufanyiwa upasuaji. Usiache kamwe dawa uliyoandikiwa ili kuutumia.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Je, kusahau baada ya miaka 50 ni kawaida?** Kupungua kidogo kwa kumbukumbu ni kawaida, kama kuchukua muda kukumbuka jina. Kusahau mara kwa mara mambo ya karibuni, kupotea mahali unapopafahamu au kuchanganyikiwa kuhusu tarehe kunahitaji uchunguzi wa daktari.
+
+**Je, kupoteza kumbukumbu kunatibika?** Visababishi vingi vinatibika, vikiwemo matatizo ya tezi, upungufu wa vitamini B12, sonona, usingizi mbaya, maambukizi na madhara ya dawa. Ndiyo maana uchunguzi sahihi ni muhimu.
+
+**Ni dalili zipi ni za dharura?** Udhaifu au ganzi ya ghafla upande mmoja wa mwili, uso kulegea, shida ya ghafla ya kuongea, maumivu makali ya ghafla ya kichwa, degedege au kuchanganyikiwa ghafla. Nenda hospitali mara moja.
+
+**Nini huulinda ubongo?** Kudhibiti shinikizo la damu, sukari na lehemu, kutembea kwa kasi siku nyingi, kulala saa saba hadi nane, kula mboga, maharage na samaki zaidi, na kuendelea kushirikiana na watu.
+
+**Je, Golden Mind Paste ni salama pamoja na dawa zangu?** Ongea na daktari wako kwanza, hasa kama unatumia dawa za kuyeyusha damu, umewahi kupata kiharusi au kuvuja damu kwenye ubongo, au una kisukari, shinikizo la damu, au matatizo ya nyongo au ini.
+
 ## Pata Mwongozo Kamili wa Mchanganyiko
 
 Tumeandika maandalizi yote katika mwongozo wa kuchapisha, **Mchanganyiko wa Dhahabu kwa ajili ya Afya ya Akili**. Unataja viungo vyote vitano, unaeleza sababu ya kila kimoja, na unatoa vipimo kamili vya kiasi cha mwezi mmoja, hatua kwa hatua za kutengeneza, utaratibu wa kuanza na kiasi kidogo, sura nzima ya usalama, na jedwali la kumbukumbu la wiki nne.

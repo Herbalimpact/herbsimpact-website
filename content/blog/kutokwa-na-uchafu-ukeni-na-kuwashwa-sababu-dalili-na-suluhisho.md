@@ -87,6 +87,18 @@ Wapo watumiaji wengine wengi ambao wameripoti matokeo chanya kwa matatizo mengin
 
 Kama una maambukizi ambayo ni sugu usisite kuwasiliana nasi. Ukiondoa kero kubwa unayoipata kutokana na hayo maambukizi, ni muhimu ukajua kuwa baadhi ya haya maambukizi yanaweza kuathiri hata **uwezo wako wa kupata watoto**, au kuathiri utimamu wa watoto wanaozaliwa. Aidha yanaweza pia kuharibu uhusiano na mwenza wako, iwapo maambukizi hayo yamefikia kiwango cha kushindwa kujamiiana.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Je, kutokwa na majimaji ukeni ni kawaida?** Ndiyo. Majimaji meupe, angavu au ya njano hafifu ni ya kawaida. Kiasi chake hubadilika kufuata mzunguko wa hedhi na huongezeka yai linapopevuka, wakati wa ujauzito na wakati wa hamu ya kujamiiana.
+
+**Dalili za uchafu usio wa kawaida ni zipi?** Rangi isiyo ya kawaida (kahawia, kijivu, kijani, mawingu au damu), harufu mbaya, au mwasho. Mara nyingi huashiria maambukizi au mzio.
+
+**Uchafu wa kijivu wenye harufu ya samaki husababishwa na nini?** Mara nyingi ni kuzaliana kupita kiasi kwa bakteria ambao kwa kawaida huishi ukeni (bacterial vaginosis).
+
+**Nijitunze vipi nyumbani?** Osha kwa maji ya uvuguvugu tu bila sabuni, jikaushe kwa kugusa taratibu kwa taulo, vaa nguo za ndani za pamba zisizobana, epuka manukato na jifute kutoka mbele kwenda nyuma.
+
+**Nimwone daktari lini?** Kila uchafu unapobadilika rangi au harufu, au mwasho usipoisha, ili upimwe maambukizi, yakiwemo magonjwa ya zinaa.
+
 ## Pata Haiiba IG Gel Sasa
 
 - **Nunua mtandaoni:** [Agiza Haiiba IG Gel kwenye duka letu la mtandaoni](https://payhip.com/b/1bJcs) — malipo salama kwa kadi au PayPal.

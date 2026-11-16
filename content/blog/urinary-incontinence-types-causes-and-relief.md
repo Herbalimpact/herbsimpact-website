@@ -44,6 +44,16 @@ We gave him a 35-day course of Haiiba Timam Tea. His symptoms cleared up in just
 
 This wasn't a one-off. Before George, we treated a retiree with the same tea, who later told us: "I couldn't leave the house! I needed to urinate every few minutes, and if I wasn't near a bathroom, I'd have an accident."
 
+## Frequently Asked Questions
+
+**What are the main types of urinary incontinence?** There are four: stress incontinence (leaks when you cough, laugh or lift), urge incontinence (a sudden strong need to urinate), overflow incontinence (the bladder does not empty fully) and total incontinence (the bladder cannot store urine at all).
+
+**What should I try first?** Pelvic floor exercises. Tighten the muscles you use to stop urine mid-stream, hold for a few seconds, release, and repeat for a few minutes at least three times a day.
+
+**When should I see a doctor?** If exercises bring no improvement after a few days of steady practice. Go to a hospital the same day if you see blood in your urine, have pain or fever, or cannot pass urine at all.
+
+**Can Haiiba Timam Tea help when hospital treatment has not?** Many of our clients whose incontinence continued after hospital treatment report improvement with it. Keep taking any medicine your doctor prescribed and tell your doctor you are using the tea.
+
 ## Getting Haiiba Timam Tea
 
 Ready to try it? [Get Haiiba Timam Tea from our online shop](https://payhip.com/b/x7da9) — a 200g pack of our herbal tonic.

@@ -31,6 +31,16 @@ Acid-burn injuries like these can't be treated with medication. The only real fi
 
 To help people clear excess acidity from their body quickly, Herbal Impact has put together a dedicated program that can resolve the problem within just a few days when followed correctly. We call it the **Acid-Burn Stomach Ulcer Program** — a step-by-step set of instructions for clearing excess acid from the body and healing the burns it causes.
 
+## Frequently Asked Questions
+
+**What are acid burns in the stomach?** Injuries to the lining of the small intestine caused by excess acidity in the body. They can feel just like stomach ulcers.
+
+**How do I know whether I have an ulcer or acid burns?** Only tests can tell. See a doctor first, because H. pylori ulcers, painkiller damage and other conditions cause very similar symptoms.
+
+**How much water should I drink?** About one litre for every 25 kg of body weight per day. If you have kidney or heart problems, ask your doctor how much is safe for you.
+
+**How do I get the Acid-Burn Stomach Ulcer Program?** It costs TZS 45,000 and is sent to you by WhatsApp or email once payment is received. Call or WhatsApp +255 754 281 131 / +255 655 281 131.
+
 ## Get the Program
 
 The program is available for TZS 45,000. Once payment is received, it's sent to you right away via WhatsApp or email, whichever you prefer. For more details, contact us by phone/WhatsApp at 0754 281 131 / 0655 281 131.

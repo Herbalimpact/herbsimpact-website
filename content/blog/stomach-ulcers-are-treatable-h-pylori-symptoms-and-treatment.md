@@ -76,6 +76,18 @@ To heal the ulcers completely, treatment also has to control stomach acid and ca
 
 This treatment lasts several weeks and means swallowing a lot of tablets every day. That may be the biggest reason so many people never fully recover: **most of us stop taking the medicine as soon as we start to feel better.** If you've been given a course of treatment, finish all of it as your doctor directs.
 
+## Frequently Asked Questions
+
+**What causes most stomach ulcers?** The bacterium H. pylori. Regular use of painkillers called NSAIDs, such as ibuprofen, diclofenac and aspirin, can also cause them.
+
+**Can stomach ulcers be cured?** Yes, when the cause is identified through tests and the full course of treatment is completed.
+
+**Which symptoms need a hospital right away?** Severe stomach pain, vomiting blood, blood in the stool or black tar-like stool, dizziness or difficulty breathing.
+
+**Why do ulcers keep coming back after treatment?** Often because people stop taking their medicine as soon as they feel better. Finish the whole course exactly as your doctor directs.
+
+**Can I use HAIIBA IG with my hospital treatment?** We recommend using it alongside your doctor's advice, not in place of it.
+
 ## Ulcers That Won't Heal? Visit Herbal Impact
 
 If your stomach ulcers just don't seem to heal, whatever the reason, come and see us at **Herbal Impact** in Dar es Salaam. Our herbal food supplement, **HAIIBA IG**, has helped many of our clients with stomach ulcers — many of whom had struggled for a long time before they started using it. We recommend using it alongside your doctor's advice.

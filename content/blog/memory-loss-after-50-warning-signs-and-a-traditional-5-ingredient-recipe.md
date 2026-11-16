@@ -69,6 +69,18 @@ We want to be clear about what this means. These are observations from one pract
 
 The paste is made from foods, but in the amounts we use it can interact with medicines. Speak to your doctor first if you take blood thinners or anti-clotting medicine, if you have ever had a stroke or bleeding in the brain, if you have diabetes, high blood pressure, gallbladder or liver problems, if you are pregnant, or if you are due for surgery. Never stop a prescribed medicine in order to take it.
 
+## Frequently Asked Questions
+
+**Is memory loss after 50 normal?** Some slowing is normal, such as taking longer to recall a name. Repeatedly forgetting recent events, getting lost in familiar places or confusion about the date need a medical check-up.
+
+**Can memory loss be treated?** Many causes can, including thyroid problems, low vitamin B12, depression, poor sleep, infections and the side effects of medicines. That is why a proper assessment matters.
+
+**Which signs are an emergency?** Sudden weakness or numbness on one side, a drooping face, sudden difficulty speaking, a sudden severe headache, a seizure or sudden confusion. Go to a hospital immediately.
+
+**What protects the brain?** Controlling blood pressure, blood sugar and cholesterol, walking briskly most days, sleeping seven to eight hours, eating more vegetables, beans and fish, and staying socially active.
+
+**Is the Golden Mind Paste safe with my medicines?** Speak to your doctor first, especially if you take blood thinners, have had a stroke or bleeding in the brain, or have diabetes, high blood pressure, or gallbladder or liver problems.
+
 ## Get the Full Recipe Guide
 
 We have written the complete preparation into a printable guide, **The Golden Mind Paste**. It names the five ingredients, explains why each one is there, and gives the exact amounts for a one-month batch, the step-by-step method, a start-low serving routine, a full safety chapter and a four-week record sheet.

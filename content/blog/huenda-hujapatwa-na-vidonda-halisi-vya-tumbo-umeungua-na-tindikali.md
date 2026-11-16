@@ -31,6 +31,16 @@ Vidonda vinavyotokana na acid haviwezi kutibiwa kwa dawa. Tiba pekee ni kufanya 
 
 Kama njia ya haraka ya kuwasaidia wahanga wa tatizo hili kuondoa tindikali iliyozidi mwilini, **HERBAL IMPACT** imeandaa program maalum ambayo mhanga akiifuata ataweza kutatua tatizo lake ndani ya siku chache. Program hii tumeipa jina la **"Program ya Kutibu Vidonda vya Tumbo Vinavyotokana na Tindikali"** — ni seti ya maelekezo ya nini unatakiwa kufanya kuondoa mzigo wa tindikali mwilini na kujitibu majeraha yanayotokana na kuunguzwa na tindikali.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Kuungua kwa tindikali tumboni ni nini?** Ni majeraha kwenye ukuta wa utumbo mdogo yanayosababishwa na tindikali iliyozidi mwilini. Dalili zake hufanana kabisa na za vidonda vya tumbo.
+
+**Nitajuaje kama nina vidonda au nimeungua na tindikali?** Ni vipimo pekee vinavyoweza kuonyesha. Mwone daktari kwanza, kwa sababu vidonda vya H. pylori, madhara ya dawa za maumivu na matatizo mengine huleta dalili zinazofanana sana.
+
+**Ninywe maji kiasi gani?** Takriban lita moja kwa kila kilo 25 za uzito wa mwili kwa siku. Kama una matatizo ya figo au moyo, muulize daktari kiasi kinachokufaa.
+
+**Nitapataje Program ya Kutibu Vidonda vya Tumbo Vinavyotokana na Tindikali?** Inapatikana kwa Tsh 45,000 na hutumwa kwa WhatsApp au barua pepe mara malipo yanapopokelewa. Piga simu au WhatsApp +255 754 281 131 / +255 655 281 131.
+
 ## Kupata Program Hii
 
 Program hii inapatikana kwa shilingi 45,000 tu. Mhitaji baada ya kuilipia atatumiwa bila kupoteza muda kwa njia ya WhatsApp au barua pepe, kutegemeana na chaguo lake. Kwa maelezo zaidi wasiliana nasi kwa simu/WhatsApp 0754 281 131 au 0655 281 131.
