@@ -64,6 +64,16 @@ These treatments can work well, but pinpointing the right "type" of cough often 
 
 Remedies like these don't replace medical treatment when it's needed — but they can be a valuable complement, especially for people looking for symptom relief while they pursue or wait on treatment for the underlying cause.
 
+## Frequently Asked Questions
+
+**When is a cough called chronic?** When it lasts eight weeks or more in adults.
+
+**What causes chronic cough?** Common causes include asthma, acid reflux, allergies and postnasal drip, smoking, dust or pollution at work, COPD and certain blood pressure medicines (ACE inhibitors). Many people have more than one cause.
+
+**Why is chronic cough so hard to treat?** It rarely has a single cause, and in many people the nerves lining the airways become oversensitive. Doctors often need time to find the right treatment.
+
+**Can natural remedies replace medical treatment?** No. They can ease symptoms alongside medical care, but see a doctor to find and treat the underlying cause.
+
 ## One Proven Way to Get Started
 
 If you're looking for a safe, simple, natural way to start easing your chronic cough today, our complete guide — **The Potent Elixir for Chronic Cough** — walks you through a proven steam-based remedy step by step, with exact ingredient quantities, safety precautions, and tips to keep the cough from coming back.

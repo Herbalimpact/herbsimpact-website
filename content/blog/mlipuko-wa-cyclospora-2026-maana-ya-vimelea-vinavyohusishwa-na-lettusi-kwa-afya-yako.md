@@ -30,7 +30,7 @@ Kubeba mfuko wa lettusi safi na saladi nyumbani mara nyingi huchukuliwa kuwa nji
 - **Nunua kwa busara**: chagua mazao kutoka vyanzo vinavyoaminika na vinavyoweza kufuatiliwa, na angalia arifa za kuondolewa kwa bidhaa kabla ya kula saladi zilizofungashwa.
 - **Osha vizuri**: suuza mboga za majani chini ya maji yanayotiririka, ingawa kumbuka hii hupunguza badala ya kuondoa kabisa hatari wakati wa mlipuko unaoendelea.
 - **Angalia dalili**: kuhara kwa maji mengi kunakodumu zaidi ya siku chache kunahitaji matibabu na vipimo.
-- **Saidia mfumo wako wa mmeng'enyo kwa asili**: kunywa maji ya kutosha, kurudi taratibu kwenye vyakula vyepesi, na kutumia mitishamba ya jadi ya kutuliza kama tangawizi au chai ya peremende kunaweza kusaidia kupunguza usumbufu wa tumbo wakati mwili wako unapopona.
+- **Saidia mfumo wako wa mmeng'enyo kwa asili**: kunywa maji ya kutosha, kurudi taratibu kwenye vyakula vyepesi, na kutumia mimeatiba ya jadi ya kutuliza kama tangawizi au chai ya peremende kunaweza kusaidia kupunguza usumbufu wa tumbo wakati mwili wako unapopona.
 
 ## Ni Lini Uonane na Daktari
 

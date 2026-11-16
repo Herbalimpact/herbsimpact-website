@@ -98,6 +98,16 @@ Lasting wellness comes from patience, not pressure. Missing a ritual is not fail
 
 This is not a strict schedule; it's a template you can adjust according to your culture, work rhythm, and personal preferences.
 
+## Frequently Asked Questions
+
+**What is a wellness ritual?** A small, meaningful habit you repeat every day until it becomes automatic, such as a morning glass of water, a short walk or a few deep breaths before bed.
+
+**Why do rituals work better than motivation?** Motivation comes and goes. Rituals stay in place: they cut down daily decisions, give your day a rhythm and slowly make healthy living part of who you are.
+
+**How do I start a new ritual?** Attach it to something you already do every day, like brushing your teeth or lunch, and keep it small and specific, for example "walk 10 minutes after dinner".
+
+**What if I miss a day?** Do the smallest version that still counts, such as a 5-minute walk instead of 20. Missing a day is information, not failure. Adjust and continue.
+
 ## Daily Rituals as a Long Term Investment
 
 Building daily rituals for lasting wellness is like planting seeds. At first, the changes look small and almost invisible: one glass of water, one short walk, one deep breath before replying, one message sent with care. But over weeks and months, these small acts reshape your energy, mood, resilience, and even how you see yourself.

@@ -93,7 +93,7 @@ Unaweza pia kusoma makala yetu kuhusu [kuimarisha kinga za mwili](/blog-18-sw.ht
 
 ## Je, Dawa za Asili Zinasaidia?
 
-Kama kliniki ya tiba asili na tiba mbadala iliyosajiliwa, mara nyingi tunaulizwa kama mitishamba inaweza kuzuia au kutibu surua. Jibu letu la kweli ni hili: **hakuna dawa ya mitishamba iliyothibitishwa kuzuia surua, na hakuna tiba ya asili ya surua.** Chanjo ndiyo kinga pekee iliyothibitishwa.
+Kama kliniki ya tiba asili na tiba mbadala iliyosajiliwa, mara nyingi tunaulizwa kama mimeatiba inaweza kuzuia au kutibu surua. Jibu letu la kweli ni hili: **hakuna dawa ya mimeatiba iliyothibitishwa kuzuia surua, na hakuna tiba ya asili ya surua.** Chanjo ndiyo kinga pekee iliyothibitishwa.
 
 Njia za asili zinaweza kusaidia pembeni, kama lishe bora, maji ya kutosha, mapumziko na vinywaji laini vya kutuliza koo, lakini kamwe zisichelewesha safari ya kwenda kituo cha afya wala zisichukue nafasi ya chanjo.
 

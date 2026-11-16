@@ -96,7 +96,7 @@ Kama una vidonda vya tumbo ambavyo unahisi vimeshindikana kupona kwa sababu yoyo
 
 - Simu: **+255 754 281 131**
 - WhatsApp: **+255 655 281 131**
-- Barua pepe: info@wellbizsolutions.co.site
+- Barua pepe: info@herbsimpact.com
 - Tupo: Mosque Street, Kitumbini, Dar es Salaam (mkabala na msikiti wa Sunni). Ukifika utaona bango lenye maandishi **HERBAL IMPACT**.
 
 Unataka kujua bidhaa zetu nyingine? Pakua bure [Mwongozo wa Bidhaa na Huduma za Herbal Impact](downloads.html).

@@ -4,7 +4,7 @@ seo_title: "Kushindwa Kuzuia Mkojo: Sababu na Tiba"
 category: AFYA YA MFUMO WA MKOJO
 read_time: DAKIKA 6 ZA KUSOMA
 cover_image: /assets/uploads/HAIIBA%20TIMAM%20TEA%20FOR%20LOADING%20ON%20GITHUB.jpg
-cover_image_alt: Kifurushi cha Haiiba Timam Tea, tiba asilia ya mitishamba,
+cover_image_alt: Kifurushi cha Haiiba Timam Tea, tiba asilia ya mimeatiba,
   gramu 200, kutoka Herbal Impact
 swahili_link: blog-9.html
 description: Jifunze aina za tatizo la kushindwa kuzuia mkojo, sababu zake, na
@@ -36,7 +36,7 @@ Kama hutaona mabadiliko baada ya siku mbili za mazoezi ya mara kwa mara, ni waka
 
 ## Matibabu ya Hospitali Yasipotosha
 
-Kwa wengi, matibabu ya kitabibu hulimaliza tatizo kabisa. Lakini kwa wengine — na hili hutokea mara kwa mara zaidi ya unavyofikiri — tatizo huendelea hata baada ya kuonana na madaktari bingwa na kujaribu matibabu ya kawaida. Kama hiyo ndiyo hali yako, inafaa kufikiria **Haiiba Timam Tea**, tiba yetu ya mitishamba ambayo imekuwa ikiwasaidia watu kudhibiti tatizo hili tangu mwaka 2014.
+Kwa wengi, matibabu ya kitabibu hulimaliza tatizo kabisa. Lakini kwa wengine — na hili hutokea mara kwa mara zaidi ya unavyofikiri — tatizo huendelea hata baada ya kuonana na madaktari bingwa na kujaribu matibabu ya kawaida. Kama hiyo ndiyo hali yako, inafaa kufikiria **Haiiba Timam Tea**, tiba yetu ya mimeatiba ambayo imekuwa ikiwasaidia watu kudhibiti tatizo hili tangu mwaka 2014.
 
 ## Matokeo Halisi
 
@@ -58,6 +58,6 @@ Hili halikuwa bahati tu. Kabla ya George, tulimtibu mstaafu mmoja kwa dawa hiyo 
 
 ## Kupata Haiiba Timam Tea
 
-Uko tayari kujaribu? [Pata Haiiba Timam Tea katika duka letu la mtandaoni](https://payhip.com/b/x7da9) — kifurushi cha gramu 200 cha tiba yetu ya mitishamba.
+Uko tayari kujaribu? [Pata Haiiba Timam Tea katika duka letu la mtandaoni](https://payhip.com/b/x7da9) — kifurushi cha gramu 200 cha tiba yetu ya mimeatiba.
 
 Unaweza pia kututembelea ofisini kwetu Mosque Street, Kitumbini, Dar es Salaam (mkabala na msikiti wa Sunni), au kuwasiliana nasi moja kwa moja kwa simu/WhatsApp 0754 281 131 / 0655 281 131.

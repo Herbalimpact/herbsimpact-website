@@ -63,6 +63,16 @@ Tiba hizi zinaweza kufanya kazi vizuri, lakini mara nyingi huchukua muda mrefu k
 
 Tiba za asili kama hizi hazichukui nafasi ya matibabu ya kitabibu yanapohitajika — lakini zinaweza kuwa msaada mzuri wa ziada, hasa kwa watu wanaotafuta nafuu ya haraka ya dalili wakati wakiendelea kutafuta au kusubiri matibabu ya chanzo halisi.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Kikohozi huitwa sugu lini?** Kinapoendelea kwa wiki nane au zaidi kwa watu wazima.
+
+**Kikohozi sugu husababishwa na nini?** Visababishi vya kawaida ni pumu, tindikali kupanda kooni, mizio na makamasi yanayoshuka kooni, uvutaji sigara, vumbi au uchafuzi wa hewa kazini, COPD na baadhi ya dawa za shinikizo la damu (ACE inhibitors). Watu wengi huwa na kisababishi zaidi ya kimoja.
+
+**Kwa nini kikohozi sugu ni kigumu kutibu?** Mara chache huwa na chanzo kimoja, na kwa watu wengi mishipa ya fahamu inayotanda njia ya hewa huwa nyeti kupita kiasi. Madaktari mara nyingi huhitaji muda kupata tiba sahihi.
+
+**Je, tiba za asili zinaweza kuchukua nafasi ya tiba ya hospitali?** Hapana. Zinaweza kupunguza dalili pamoja na tiba ya daktari, lakini mwone daktari ili chanzo halisi kitambuliwe na kutibiwa.
+
 ## Njia Moja Iliyothibitishwa ya Kuanza
 
 Kama unatafuta njia salama, rahisi, na ya asili ya kuanza kupunguza kikohozi chako sugu leo, mwongozo wetu kamili — **Tiba Mujarabu ya Kiasili kwa Kikohozi Sugu** — unakupa hatua kwa hatua tiba ya mvuke iliyothibitishwa, ikiwa na kiasi sahihi cha viambata, tahadhari za usalama, na vidokezo vya kuzuia kikohozi kisirudi.

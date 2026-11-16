@@ -93,6 +93,16 @@ The "perfect" medicinal herbal tea isn't just about one cup—it's about how you
 - **Sweeten wisely:** small amounts of honey rather than lots of sugar.
 - **Respect your body:** check with a qualified practitioner if pregnant, on medication, or managing a condition.
 
+## Frequently Asked Questions
+
+**What is the difference between an infusion and a decoction?** An infusion is for soft parts like leaves and flowers: pour hot water over them and steep. A decoction is for hard parts like roots, bark and seeds: simmer them in water for longer.
+
+**How long should I steep medicinal herbal tea?** At least 15 to 20 minutes, with the cup or pot covered, for a medicinal-strength infusion. Roots and bark need a gentle simmer of 20 to 60 minutes.
+
+**How much herb should I use?** About 1 tablespoon of dried herb per mug (about 250 ml) for an infusion, or 1 to 2 teaspoons of dried roots or bark per cup of water for a decoction.
+
+**How many cups a day should I drink?** For general wellness, 1 to 3 cups a day. Check with a qualified practitioner first if you are pregnant, on medication or managing a health condition.
+
 ## Bringing It All Together
 
 Brewing the perfect medicinal herbal tea is a rhythm, not a rigid rule. Choose herbs that match your intention, use the right method for their plant part, steep or simmer long enough, and drink them consistently. Over time, your herbal teas stop being "just hot drinks" and become a quiet daily practice of self care—supporting digestion, calming your nervous system, strengthening your immunity, and reconnecting you with the healing power of plants.

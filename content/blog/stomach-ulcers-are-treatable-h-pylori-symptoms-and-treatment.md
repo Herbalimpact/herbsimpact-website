@@ -96,7 +96,7 @@ If your stomach ulcers just don't seem to heal, whatever the reason, come and se
 
 - Phone: **+255 754 281 131**
 - WhatsApp: **+255 655 281 131**
-- Email: info@wellbizsolutions.co.site
+- Email: info@herbsimpact.com
 - Visit: Mosque Street, Kitumbini, Dar es Salaam (opposite the Sunni mosque) — look for the **HERBAL IMPACT** sign.
 
 Want to see everything we offer? Download our free [Herbal Impact Products & Services Guide](downloads.html).
