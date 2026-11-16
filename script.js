@@ -27,6 +27,11 @@ document.addEventListener('DOMContentLoaded', function () {
   /* Newsletter forms -> Brevo list "Herbal Impact - Newsletter" */
   const BREVO_URL = 'https://3333f3b8.sibforms.com/serve/MUIFAFoKnJLz-YB5MKEbMUc4M6rzSATL1OJMxBYypOCzICZZQKIYg6HdqOuT3R44o8Rape7N-Zwq9hM3w2phLTK6L8eeIiZPd3-YG7mMNFWb2RLM0shqgtui_Ezo-ePBP0mVMPajlYci_KeGngxEo8FAtvLTbJ7A2TVuklbB-5IIqfJ1nA6K8uUzAwSbjBNBHvT3Do9eU88pZuMijA==';
   document.querySelectorAll('form[data-brevo-form]').forEach(function (form) {
+    const offer = document.createElement('p');
+    offer.className = 'small';
+    offer.style.cssText = 'margin:0 0 10px;color:#eef5ef;';
+    offer.textContent = 'Subscribe and get our free Products & Services Guide (English & Kiswahili).';
+    form.parentNode.insertBefore(offer, form);
     form.addEventListener('submit', function (e) {
       e.preventDefault();
       const email = (form.querySelector('input[name="EMAIL"]').value || '').trim();
@@ -39,6 +44,12 @@ document.addEventListener('DOMContentLoaded', function () {
       fetch(BREVO_URL, { method: 'POST', mode: 'no-cors', body: data })
         .then(function () {
           showMsg(form, form.dataset.successMessage || 'Thanks for subscribing!', true);
+          const m = form.querySelector('.form-message');
+          if (m) {
+            m.innerHTML += '<br>Your free guide / Mwongozo wako wa bure: ' +
+              '<a href="/assets/uploads/herbal-impact-products-services-guide.pdf" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;">English</a> · ' +
+              '<a href="/assets/uploads/mwongozo-wa-bidhaa-na-huduma-herbal-impact.pdf" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;">Kiswahili</a>';
+          }
           form.reset();
         })
         .catch(function () { showMsg(form, 'Sorry, something went wrong. Please try again.', false); })
