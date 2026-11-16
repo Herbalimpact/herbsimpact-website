@@ -6,7 +6,7 @@ read_time: 3 MIN READ
 cover_image: /assets/uploads/how-to-lose-weight-kupunguza-uzito-celery-measuring-tape.jpg
 cover_image_alt: Fresh celery wrapped in a measuring tape, a symbol of how to lose weight by eating more vegetables
 swahili_link: blog-20-sw.html
-description: "How to lose weight comes down to simple calorie maths. Learn the rule behind body weight, which foods to choose and the 80/20 plate that protects your health."
+description: "How to lose weight comes down to simple calorie maths. Learn the rule behind body weight, which foods to choose and the 80/20 plate."
 ---
 Excess body weight is linked to many health problems, so learning how to lose weight is about far more than looks. These problems include:
 

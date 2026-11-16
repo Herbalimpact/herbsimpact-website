@@ -6,7 +6,7 @@ read_time: DAKIKA 3 ZA KUSOMA
 cover_image: /assets/uploads/immune-boosting-foods-citrus-ginger.jpg
 cover_image_alt: Machungwa, malimau, tangawizi, mboga za majani, korosho na matunda mekundu juu ya meza ya mbao, vyakula vinavyosaidia kinga ya mwili
 swahili_link: blog-18.html
-description: Tumezungukwa na vimelea na sumu. Fahamu hatua 8 za kuimarisha mfumo wa kinga ya mwili wako, na jinsi Chai ya Haiiba Timam inavyosaidia kuondoa sumu mwilini.
+description: "Tumezungukwa na vimelea na sumu. Fahamu hatua 8 za kuimarisha kinga ya mwili, na jinsi Chai ya Haiiba Timam inavyosaidia kuondoa sumu mwilini."
 ---
 Tumezungukwa na vitu vingi vyenye uwezo wa kudhuru na kuathiri afya zetu.
 

@@ -7,9 +7,7 @@ cover_image: /assets/uploads/HAIIBA%20TIMAM%20TEA%20FOR%20LOADING%20ON%20GITHUB.
 cover_image_alt: Pack of Haiiba Timam Tea herbal tonic, 200g, from Herbal
   Impact
 swahili_link: blog-9-sw.html
-description: Learn the types and causes of urinary incontinence, why pelvic
-  floor exercises are the first step, and how Haiiba Timam Tea has helped many
-  people when hospital treatment alone wasn't enough.
+description: "Learn the types and causes of urinary incontinence, why pelvic floor exercises come first, and how Haiiba Timam Tea has helped many people."
 ---
 Struggling to control your bladder — whether it's a small leak when you laugh, or something more constant — can feel isolating and even embarrassing to talk about. But if this describes you, take a breath: urinary incontinence is an extremely common condition affecting millions of people worldwide, at every age, and it's nothing to be ashamed of.
 

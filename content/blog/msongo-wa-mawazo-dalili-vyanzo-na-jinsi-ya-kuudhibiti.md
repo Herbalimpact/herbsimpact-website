@@ -1,6 +1,6 @@
 ---
 title: "Msongo wa Mawazo: Dalili, Vyanzo na Jinsi ya Kuudhibiti"
-seo_title: "Msongo wa Mawazo: Dalili, Vyanzo na Jinsi ya Kuudhibiti"
+seo_title: "Msongo wa Mawazo: Dalili na Udhibiti"
 category: AFYA YA AKILI
 read_time: DAKIKA 7 ZA KUSOMA
 cover_image: /assets/uploads/stress-management-man-at-desk.jpg

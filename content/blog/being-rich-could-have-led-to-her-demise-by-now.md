@@ -1,5 +1,6 @@
 ---
 title: Being Rich Could Have Led to Her Demise by Now
+seo_title: "Being Rich Could Have Led to Her Demise"
 category: Health and Wellness
 cover_image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*RSRnJGsaqhQU5XXnVjVrwQ.png
 cover_image_alt: Illustration of a woman in traditional African dress carrying firewood on her head and a baby on her back while walking through a rural village

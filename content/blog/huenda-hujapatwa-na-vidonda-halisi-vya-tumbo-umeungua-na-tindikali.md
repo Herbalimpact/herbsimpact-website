@@ -1,15 +1,13 @@
 ---
 title: "Huenda Hujapatwa na Vidonda Halisi vya Tumbo — Umeungua na Tindikali!"
-seo_title: "Si Vidonda vya Tumbo, Bali Kuungua na Tindikali"
+seo_title: "Si Vidonda: Ni Kuungua kwa Tindikali"
 category: AFYA YA MMENG'ENYO WA CHAKULA
 read_time: DAKIKA 4 ZA KUSOMA
 cover_image: /assets/uploads/acid-burn-stomach-digestive-tract.jpg
 cover_image_alt: Mtu akishikilia tumbo lake, mchoro wa mfumo wa mmeng'enyo wa
   chakula ukionesha eneo linaloathiriwa na kuungua kwa tindikali
 swahili_link: blog-10.html
-description: Baadhi ya dalili za "vidonda vya tumbo" si vidonda halisi -
-  ni majeraha ya kuungua kwa tindikali. Jifunze kwa nini hutokea na jinsi
-  Program ya Herbal Impact inavyoweza kusaidia.
+description: "Baadhi ya dalili za vidonda vya tumbo si vidonda halisi, ni majeraha ya kuungua kwa tindikali. Jifunze chanzo chake na jinsi Herbal Impact inavyosaidia."
 ---
 Kuna watu ambao wanapata dalili zote za ugonjwa wa vidonda vya tumbo, lakini kiuhalisia tatizo walilokuwa nalo ni lingine kabisa. Hawa ni wale ambao wanapata majeraha ya kuungua kwa tindikali, kwenye maeneo ya utumbo mwembamba.
 

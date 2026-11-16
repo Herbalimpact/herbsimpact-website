@@ -1,15 +1,13 @@
 ---
 title: "Stress Management Techniques That Work: 7 Steps to a Calmer Mind"
-seo_title: "Stress Management Techniques That Work: 7 Steps"
+seo_title: "Stress Management: 7 Techniques That Work"
 category: MENTAL WELLNESS
 read_time: 6 MIN READ
 cover_image: /assets/uploads/stress-management-man-at-desk.jpg
 cover_image_alt: Man at his desk holding his head, showing signs of work
   stress
 swahili_link: blog-14-sw.html
-description: Stress costing you sleep and focus? Learn 7 practical stress
-  management techniques, from slow breathing to mindfulness, that you can
-  start in ten minutes a day.
+description: "Is stress costing you sleep and focus? Learn 7 practical stress management techniques, from slow breathing to mindfulness, in ten minutes a day."
 ---
 You lie down tired, but your mind keeps running through tomorrow's bills, the unfinished report and the argument you had last week. In the morning you wake up as tired as when you went to bed. If this sounds familiar, you are dealing with stress that has stopped being useful.
 

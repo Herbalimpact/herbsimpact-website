@@ -1,6 +1,6 @@
 ---
 title: "Muujiza Ndani ya Kikombe cha Chai"
-seo_title: "Muujiza Ndani ya Kikombe cha Chai: Chai ya Mitishamba ya Haiiba Timam"
+seo_title: "Chai ya Haiiba Timam: Muujiza Kikombeni"
 category: CHAI YA MITISHAMBA
 read_time: DAKIKA 6 ZA KUSOMA
 cover_image: /assets/uploads/miracle-in-a-tea-cup-sw.jpg

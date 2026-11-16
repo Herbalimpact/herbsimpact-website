@@ -6,7 +6,7 @@ read_time: 4 MIN READ
 cover_image: /assets/uploads/healthy-teeth-gums-oral-health-brushing.jpg
 cover_image_alt: Smiling man brushing his teeth, a daily habit for healthy teeth and gums and good oral health
 swahili_link: blog-19-sw.html
-description: "Tooth decay and gum disease have four main causes. Learn how bacteria, body acidity, diabetes and low vitamin C affect healthy teeth and gums, and what to do."
+description: "Tooth decay and gum disease have four main causes. Learn how bacteria, acidity, diabetes and low vitamin C harm teeth and gums, and what to do."
 ---
 Oral health covers many areas, but here we focus on healthy teeth and gums, because the problems that affect them are the most common.
 

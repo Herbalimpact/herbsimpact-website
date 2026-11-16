@@ -1,15 +1,13 @@
 ---
 title: "Contrary to Popular Belief, Stomach Ulcers Can Be Cured"
-seo_title: "Stomach Ulcers & H. Pylori: Symptoms and Treatment"
+seo_title: "H. Pylori Stomach Ulcers: Signs & Treatment"
 category: DIGESTIVE HEALTH
 read_time: 6 MIN READ
 cover_image: /assets/uploads/haiiba-ig-gel-vidonda-vya-tumbo.jpg
 cover_image_alt: Jar of HAIIBA IG Gel, a Herbal Impact herbal supplement for
   people with stomach ulcers
 swahili_link: blog-11-sw.html
-description: Most stomach ulcers are caused by H. pylori bacteria. Learn the
-  symptoms of stomach ulcers, the warning signs, how they are treated and why
-  so many people never fully heal.
+description: "Most stomach ulcers are caused by H. pylori. Learn the symptoms, warning signs, how ulcers are treated and why many people never fully heal."
 ---
 Many people believe that once you have stomach ulcers, you live with them for life. The truth is that **stomach ulcers can be cured** — as long as the cause is identified and the treatment is followed all the way through.
 

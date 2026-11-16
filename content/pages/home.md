@@ -1,6 +1,6 @@
 ---
 seo_title: "Herbal Impact — Nature-Backed Wellness, Recipes & Coaching"
-seo_description: "Herbal Impact brings together carefully formulated herbal products, trusted medicinal recipes, free wellness resources and practical tools rooted in tradition."
+seo_description: "Herbal products, trusted medicinal recipes, free wellness guides and practical tools from Herbal Impact, a licensed clinic in Dar es Salaam."
 hero_eyebrow: "Traditional & Alternative Medicine"
 hero_title: "Nature-backed wellness, made simple."
 hero_lead: "Herbal Impact brings together carefully formulated herbal products, trusted medicinal recipes, and practical wellness resources — everything you need to live well, naturally."

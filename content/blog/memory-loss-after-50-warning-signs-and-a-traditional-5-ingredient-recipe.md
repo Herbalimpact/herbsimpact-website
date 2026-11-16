@@ -7,9 +7,7 @@ cover_image: /assets/uploads/golden-mind-paste.jpg
 cover_image_alt: Elderly hands grinding ingredients in a metal mortar and
   pestle
 swahili_link: blog-13-sw.html
-description: Forgetfulness after 50 is common, but some signs need a doctor
-  fast. Learn the warning signs, what protects the brain, and the traditional
-  5-ingredient paste we prepare in our practice.
+description: "Forgetfulness after 50 is common, but some signs need a doctor fast. Learn the warning signs, what protects the brain and a traditional 5-ingredient paste."
 ---
 You walk into a room and forget why. A familiar name will not come. You repeat a story and your children exchange a look. After the age of fifty, moments like these make many people ask the same quiet question: is this normal, or is something wrong?
 

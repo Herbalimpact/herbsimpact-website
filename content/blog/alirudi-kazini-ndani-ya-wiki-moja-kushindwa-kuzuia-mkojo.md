@@ -1,6 +1,6 @@
 ---
 title: "Alirudi Kazini Ndani ya Wiki Moja: Hadithi ya Tatizo la Kushindwa Kuzuia Mkojo"
-seo_title: "Kushindwa Kuzuia Mkojo kwa Wanaume: Hadithi ya Chai ya Haiiba Timam"
+seo_title: "Mkojo Kuvuja kwa Wanaume: Hadithi ya Kweli"
 category: AFYA YA KIBOFU
 read_time: DAKIKA 5 ZA KUSOMA
 cover_image: /assets/uploads/back-at-work-in-one-week-sw.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Measles Is Back: What Bangladesh's Deadliest Outbreak Teaches Every Parent About Protecting Their Child"
-seo_title: "Measles: Symptoms, Spread and Prevention (Bangladesh 2026)"
+seo_title: "Measles: Symptoms, Spread and Prevention"
 category: CHILD HEALTH
 read_time: 6 MIN READ
 cover_image: /assets/uploads/measles-prevention-child-vaccination.jpg

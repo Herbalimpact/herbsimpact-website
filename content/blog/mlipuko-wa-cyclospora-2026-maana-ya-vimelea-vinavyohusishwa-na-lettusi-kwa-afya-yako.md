@@ -1,7 +1,7 @@
 ---
 title: "Mlipuko wa Cyclospora 2026: Maana ya Vimelea Vinavyohusishwa na Lettusi
   kwa Afya Yako"
-seo_title: "Mlipuko wa Cyclospora 2026: Unachopaswa Kujua"
+seo_title: "Mlipuko wa Cyclospora 2026: Ujue Haya"
 category: USALAMA WA CHAKULA
 read_time: DAKIKA 4 ZA KUSOMA
 cover_image: /assets/uploads/cyclospora-lettuce-wash-sw.png

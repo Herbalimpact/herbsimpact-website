@@ -1,6 +1,6 @@
 ---
 title: "Kikombe cha Matumaini kwa Akina Mama"
-seo_title: "Kikombe cha Matumaini kwa Akina Mama: Chai ya Haiiba Timam na Afya ya Uzazi"
+seo_title: "Chai ya Haiiba Timam na Afya ya Uzazi"
 category: AFYA YA WANAWAKE
 read_time: DAKIKA 7 ZA KUSOMA
 cover_image: /assets/uploads/a-cup-of-hope-for-mothers-sw.jpg

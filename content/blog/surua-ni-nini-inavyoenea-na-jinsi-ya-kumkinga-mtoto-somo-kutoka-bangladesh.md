@@ -1,6 +1,6 @@
 ---
 title: "Surua Imerudi kwa Kasi: Somo Zito Kutoka Bangladesh kwa Kila Mzazi"
-seo_title: "Surua: Dalili, Inavyoenea na Jinsi ya Kujikinga"
+seo_title: "Surua: Dalili, Kuenea na Kujikinga"
 category: AFYA YA MTOTO
 read_time: DAKIKA 6 ZA KUSOMA
 cover_image: /assets/uploads/measles-prevention-child-vaccination.jpg

@@ -1,15 +1,13 @@
 ---
 title: "Tofauti na Inavyodhaniwa na Wengi, Vidonda vya Tumbo Vinatibika!"
-seo_title: "Vidonda vya Tumbo na H. Pylori: Dalili na Tiba"
+seo_title: "Vidonda vya Tumbo na H. Pylori: Dalili, Tiba"
 category: AFYA YA MMENG'ENYO WA CHAKULA
 read_time: DAKIKA 6 ZA KUSOMA
 cover_image: /assets/uploads/haiiba-ig-gel-vidonda-vya-tumbo.jpg
 cover_image_alt: Kopo la dawa lishe ya mimea HAIIBA IG Gel kutoka Herbal Impact kwa
   ajili ya vidonda vya tumbo
 swahili_link: blog-11.html
-description: Vidonda vya tumbo husababishwa mara nyingi na bakteria H. pylori.
-  Jifunze dalili za vidonda vya tumbo, dalili za hatari, tiba ya hospitali na
-  kwa nini wengi hushindwa kupona.
+description: "Vidonda vya tumbo mara nyingi husababishwa na bakteria H. pylori. Jifunze dalili, dalili za hatari, tiba ya hospitali na kwa nini wengi hawaponi."
 ---
 Watu wengi wanaamini kuwa vidonda vya tumbo ni ugonjwa wa kudumu usiopona. Ukweli ni kwamba **vidonda vya tumbo vinatibika** — kama chanzo chake kitajulikana na matibabu yatafuatwa kikamilifu.
 

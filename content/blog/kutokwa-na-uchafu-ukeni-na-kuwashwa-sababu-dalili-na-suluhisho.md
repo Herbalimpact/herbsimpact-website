@@ -1,15 +1,13 @@
 ---
 title: "Tatizo la Kutokwa na Majimaji (Uchafu) Ukeni Pamoja na Kuwashwa"
-seo_title: "Uchafu Ukeni na Kuwashwa: Sababu, Dalili na Suluhisho"
+seo_title: "Uchafu Ukeni na Kuwashwa: Sababu, Suluhisho"
 category: AFYA YA MWANAMKE
 read_time: DAKIKA 8 ZA KUSOMA
 cover_image: /assets/uploads/haiiba-ig-gel-uchafu-ukeni-mwasho.jpg
 cover_image_alt: Mwanamke mwenye tabasamu akiwa ameshika kopo la Haiiba IG Gel,
   dawa ya mimea kutoka Herbal Impact kwa tatizo la kuwashwa na uchafu ukeni
 swahili_link: blog-12.html
-description: Je, uchafu unaotoka ukeni ni wa kawaida? Jifunze sababu za kutokwa
-  na uchafu ukeni, kuwashwa na harufu mbaya — fangasi, bakteria, magonjwa ya
-  zinaa na mzio — pamoja na namna ya kujisaidia.
+description: "Je, uchafu unaotoka ukeni ni wa kawaida? Jifunze sababu za uchafu, kuwashwa na harufu mbaya ukeni, na namna ya kupata nafuu."
 ---
 Kwa wanawake wenye umri wa kuzaa ni jambo la kawaida kutokwa na majimaji kikeni. Kwa kawaida tezi mbalimbali zilizopo katika shingo ya kizazi na katika kuta za uke huzalisha majimaji yasiyokuwa na rangi yoyote. Hata hivyo majimaji yanayotoka yanaweza kubadilika rangi na kuwa **meupe au ya njano** pale yanapogusana na hewa.
 

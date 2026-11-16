@@ -1,15 +1,13 @@
 ---
 title: "Abnormal Vaginal Discharge and Itching: What Your Body Is Telling You"
-seo_title: "Abnormal Vaginal Discharge & Itching: Causes and Relief"
+seo_title: "Vaginal Discharge & Itching: Causes, Relief"
 category: WOMEN'S HEALTH
 read_time: 8 MIN READ
 cover_image: /assets/uploads/haiiba-ig-gel-uchafu-ukeni-mwasho.jpg
 cover_image_alt: Smiling woman holding a jar of Haiiba IG Gel, a Herbal Impact
   herbal remedy for vaginal itching and abnormal discharge
 swahili_link: blog-12-sw.html
-description: Is your vaginal discharge normal? Learn what causes abnormal
-  vaginal discharge, itching and a fishy odour — yeast, bacterial vaginosis,
-  STIs, allergies — and how to find relief from stubborn infections.
+description: "Is your vaginal discharge normal? Learn what causes abnormal discharge, itching and odour, from yeast to bacterial vaginosis, and how to find relief."
 ---
 If you're a woman of childbearing age, some vaginal discharge is completely normal. Glands in the cervix and the walls of the vagina constantly produce a clear fluid. Once it meets the air, that fluid can turn **white or pale yellow** — and that's normal too.
 

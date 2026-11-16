@@ -1,15 +1,13 @@
 ---
 title: "Kupoteza Kumbukumbu Baada ya Miaka 50: Dalili za Hatari, Kinachosaidia Kweli, na Mchanganyiko wa Asili wa Viungo 5"
-seo_title: "Kupoteza Kumbukumbu Baada ya Miaka 50: Dalili"
+seo_title: "Kupoteza Kumbukumbu Baada ya Miaka 50"
 category: AFYA YA UBONGO
 read_time: DAKIKA 7 ZA KUSOMA
 cover_image: /assets/uploads/golden-mind-paste.jpg
 cover_image_alt: Mikono ya mzee ikitwanga viungo ndani ya kinu kidogo cha
   chuma
 swahili_link: blog-13.html
-description: Kusahau baada ya miaka 50 ni jambo la kawaida, lakini dalili
-  nyingine zinahitaji daktari haraka. Jifunze dalili za hatari, kinachoulinda
-  ubongo, na mchanganyiko wa asili wa viungo 5 tunaouandaa.
+description: "Kusahau baada ya miaka 50 ni kawaida, lakini baadhi ya dalili zinahitaji daktari haraka. Jifunze dalili za hatari na kinachoulinda ubongo."
 ---
 Unaingia chumbani na kusahau ulichokifuata. Jina unalolijua vizuri linakataa kuja. Unarudia hadithi na watoto wako wanatazamana. Baada ya miaka hamsini, nyakati kama hizi huwafanya wengi wajiulize swali lilelile kimoyomoyo: hili ni jambo la kawaida, au kuna tatizo?
 
