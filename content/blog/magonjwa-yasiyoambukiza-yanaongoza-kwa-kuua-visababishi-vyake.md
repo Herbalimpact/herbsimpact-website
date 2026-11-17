@@ -43,6 +43,16 @@ Kwa bahati nzuri visababishi vyote vya NCDs viko ndani ya uwezo wetu kuvidhibiti
 
 Kuchukua hatua za makusudi kujenga uelewa ndiyo salama yetu. Ni muhimu kuhudhuria mafunzo mbalimbali yanayohusu afya na siha na kusoma maandiko ya kitaalamu na matokeo ya tafiti mbalimbali.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Visababishi vikuu vya magonjwa yasiyoambukiza ni vipi?** Kwa mujibu wa WHO, visababishi vikuu ni matumizi ya tumbaku, maisha ya kubweteka, matumizi hovyo ya pombe, lishe isiyofaa na hewa chafu. Msongo wa mawazo wa muda mrefu nao huchangia kwa watu wengi.
+
+**Je, magonjwa yasiyoambukiza yanaweza kuzuilika?** Visa vingi vinaweza kuzuiliwa au kucheleweshwa kwa kutovuta sigara, kushughulisha mwili, kula lishe bora, kupunguza pombe na kudhibiti msongo. Kupima afya mara kwa mara husaidia kugundua mapema shinikizo la juu la damu au kisukari.
+
+**Msongo wa mawazo unachangiaje magonjwa yasiyoambukiza?** Msongo wa muda mrefu unaweza kupandisha shinikizo la damu na mara nyingi huleta usingizi duni, ulaji mbaya, uvutaji sigara au unywaji pombe, mambo yanayoongeza hatari ya magonjwa ya moyo na kisukari. Kujifunza kudhibiti msongo ni sehemu ya kujikinga.
+
+**Ni lini nimwone daktari?** Mwone daktari ukiwa na maumivu ya kifua, kushindwa kupumua vizuri, kiu na kukojoa mara kwa mara, kupungua uzito bila sababu au dalili yoyote inayodumu. Kama tayari unatumia dawa za ugonjwa usioambukiza, endelea nazo; wajawazito, wanaonyonyesha na watoto washauriane na mtaalamu kabla ya kutumia dawa za mimeatiba.
+
 ## Jifunze Mbinu za Kukabiliana na Msongo
 
 Unaweza kupata uelewa wa kutosha wa mbinu mbalimbali za kukabiliana na msongo kupitia andiko letu la *The Nuts and Bolts of Stress Management and Mindfulness Cultivation* kwa gharama ya dola 15 tu. [Bofya hapa](https://wellbizsolutions.org/online-store/ols/products/the-nuts--bolts-of-stress-management-and-mindfulness-cultivation).

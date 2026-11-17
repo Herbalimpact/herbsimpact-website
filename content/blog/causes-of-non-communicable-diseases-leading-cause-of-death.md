@@ -43,6 +43,16 @@ Fortunately, all the causes of NCDs are within our power to control. What causes
 
 Taking deliberate steps to build understanding is our protection. It is important to attend various trainings on health and wellness, and to read expert writings and the results of various studies.
 
+## Frequently Asked Questions
+
+**What are the main causes of non-communicable diseases?** According to WHO, the main risk factors are tobacco use, physical inactivity, harmful use of alcohol, an unhealthy diet and air pollution. Long-term stress also plays a part for many people.
+
+**Can non-communicable diseases be prevented?** Many cases can be prevented or delayed by not smoking, staying active, eating a healthy diet, limiting alcohol and managing stress. Regular check-ups help to catch high blood pressure or diabetes early.
+
+**How does stress contribute to non-communicable diseases?** Long-lasting stress can raise blood pressure and often leads to poor sleep, unhealthy eating, smoking or drinking, which all raise the risk of heart disease and diabetes. Learning to manage stress is part of prevention.
+
+**When should I see a doctor?** See a doctor for chest pain, shortness of breath, constant thirst and frequent urination, unexplained weight loss or any symptom that lasts. If you already take medicine for an NCD, keep taking it; pregnant or breastfeeding women and children should ask a practitioner before using herbal products.
+
 ## Learn Practical Ways to Manage Stress
 
 You can gain a good understanding of various techniques for coping with stress through our guide *The Nuts and Bolts of Stress Management and Mindfulness Cultivation*, for only US$15. [Click here](https://wellbizsolutions.org/online-store/ols/products/the-nuts--bolts-of-stress-management-and-mindfulness-cultivation).
