@@ -7,9 +7,7 @@ cover_image: /assets/uploads/acid-burn-stomach-digestive-tract.jpg
 cover_image_alt: Person holding their stomach, illustration of the digestive
   tract overlaid to show the area affected by acid burns
 swahili_link: blog-10-sw.html
-description: Some stomach-ulcer-like symptoms aren't ulcers at all - they're
-  acid burns caused by excess bodily acidity. Learn why they happen and how
-  Herbal Impact's Acid-Burn Program can help.
+description: "Some ulcer-like stomach pain isn't an ulcer at all but acid burns from excess body acidity. Learn why they happen and how Herbal Impact can help."
 ---
 Some people experience every symptom associated with stomach ulcers, but what they're actually dealing with is something different entirely — acid burns, injuries caused by excess acidity affecting the walls of the small intestine.
 
@@ -32,6 +30,16 @@ Acid-burn injuries like these can't be treated with medication. The only real fi
 ## A Faster Path to Relief
 
 To help people clear excess acidity from their body quickly, Herbal Impact has put together a dedicated program that can resolve the problem within just a few days when followed correctly. We call it the **Acid-Burn Stomach Ulcer Program** — a step-by-step set of instructions for clearing excess acid from the body and healing the burns it causes.
+
+## Frequently Asked Questions
+
+**What are acid burns in the stomach?** Injuries to the lining of the small intestine caused by excess acidity in the body. They can feel just like stomach ulcers.
+
+**How do I know whether I have an ulcer or acid burns?** Only tests can tell. See a doctor first, because H. pylori ulcers, painkiller damage and other conditions cause very similar symptoms.
+
+**How much water should I drink?** About one litre for every 25 kg of body weight per day. If you have kidney or heart problems, ask your doctor how much is safe for you.
+
+**How do I get the Acid-Burn Stomach Ulcer Program?** It costs TZS 45,000 and is sent to you by WhatsApp or email once payment is received. Call or WhatsApp +255 754 281 131 / +255 655 281 131.
 
 ## Get the Program
 

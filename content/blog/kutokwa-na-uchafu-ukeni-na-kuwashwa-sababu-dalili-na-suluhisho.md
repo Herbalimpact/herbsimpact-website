@@ -1,15 +1,13 @@
 ---
 title: "Tatizo la Kutokwa na Majimaji (Uchafu) Ukeni Pamoja na Kuwashwa"
-seo_title: "Uchafu Ukeni na Kuwashwa: Sababu, Dalili na Suluhisho"
+seo_title: "Uchafu Ukeni na Kuwashwa: Sababu, Suluhisho"
 category: AFYA YA MWANAMKE
 read_time: DAKIKA 8 ZA KUSOMA
 cover_image: /assets/uploads/haiiba-ig-gel-uchafu-ukeni-mwasho.jpg
 cover_image_alt: Mwanamke mwenye tabasamu akiwa ameshika kopo la Haiiba IG Gel,
   dawa ya mimea kutoka Herbal Impact kwa tatizo la kuwashwa na uchafu ukeni
 swahili_link: blog-12.html
-description: Je, uchafu unaotoka ukeni ni wa kawaida? Jifunze sababu za kutokwa
-  na uchafu ukeni, kuwashwa na harufu mbaya — fangasi, bakteria, magonjwa ya
-  zinaa na mzio — pamoja na namna ya kujisaidia.
+description: "Je, uchafu unaotoka ukeni ni wa kawaida? Jifunze sababu za uchafu, kuwashwa na harufu mbaya ukeni, na namna ya kupata nafuu."
 ---
 Kwa wanawake wenye umri wa kuzaa ni jambo la kawaida kutokwa na majimaji kikeni. Kwa kawaida tezi mbalimbali zilizopo katika shingo ya kizazi na katika kuta za uke huzalisha majimaji yasiyokuwa na rangi yoyote. Hata hivyo majimaji yanayotoka yanaweza kubadilika rangi na kuwa **meupe au ya njano** pale yanapogusana na hewa.
 
@@ -88,6 +86,18 @@ Wapo watumiaji wengine wengi ambao wameripoti matokeo chanya kwa matatizo mengin
 ## Usisubiri: Maambukizi Sugu Yana Madhara
 
 Kama una maambukizi ambayo ni sugu usisite kuwasiliana nasi. Ukiondoa kero kubwa unayoipata kutokana na hayo maambukizi, ni muhimu ukajua kuwa baadhi ya haya maambukizi yanaweza kuathiri hata **uwezo wako wa kupata watoto**, au kuathiri utimamu wa watoto wanaozaliwa. Aidha yanaweza pia kuharibu uhusiano na mwenza wako, iwapo maambukizi hayo yamefikia kiwango cha kushindwa kujamiiana.
+
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Je, kutokwa na majimaji ukeni ni kawaida?** Ndiyo. Majimaji meupe, angavu au ya njano hafifu ni ya kawaida. Kiasi chake hubadilika kufuata mzunguko wa hedhi na huongezeka yai linapopevuka, wakati wa ujauzito na wakati wa hamu ya kujamiiana.
+
+**Dalili za uchafu usio wa kawaida ni zipi?** Rangi isiyo ya kawaida (kahawia, kijivu, kijani, mawingu au damu), harufu mbaya, au mwasho. Mara nyingi huashiria maambukizi au mzio.
+
+**Uchafu wa kijivu wenye harufu ya samaki husababishwa na nini?** Mara nyingi ni kuzaliana kupita kiasi kwa bakteria ambao kwa kawaida huishi ukeni (bacterial vaginosis).
+
+**Nijitunze vipi nyumbani?** Osha kwa maji ya uvuguvugu tu bila sabuni, jikaushe kwa kugusa taratibu kwa taulo, vaa nguo za ndani za pamba zisizobana, epuka manukato na jifute kutoka mbele kwenda nyuma.
+
+**Nimwone daktari lini?** Kila uchafu unapobadilika rangi au harufu, au mwasho usipoisha, ili upimwe maambukizi, yakiwemo magonjwa ya zinaa.
 
 ## Pata Haiiba IG Gel Sasa
 

@@ -27,6 +27,11 @@ document.addEventListener('DOMContentLoaded', function () {
   /* Newsletter forms -> Brevo list "Herbal Impact - Newsletter" */
   const BREVO_URL = 'https://3333f3b8.sibforms.com/serve/MUIFAFoKnJLz-YB5MKEbMUc4M6rzSATL1OJMxBYypOCzICZZQKIYg6HdqOuT3R44o8Rape7N-Zwq9hM3w2phLTK6L8eeIiZPd3-YG7mMNFWb2RLM0shqgtui_Ezo-ePBP0mVMPajlYci_KeGngxEo8FAtvLTbJ7A2TVuklbB-5IIqfJ1nA6K8uUzAwSbjBNBHvT3Do9eU88pZuMijA==';
   document.querySelectorAll('form[data-brevo-form]').forEach(function (form) {
+    const offer = document.createElement('p');
+    offer.className = 'small';
+    offer.style.cssText = 'margin:0 0 10px;color:#eef5ef;';
+    offer.textContent = 'Subscribe and get our free Products & Services Guide (English & Kiswahili).';
+    form.parentNode.insertBefore(offer, form);
     form.addEventListener('submit', function (e) {
       e.preventDefault();
       const email = (form.querySelector('input[name="EMAIL"]').value || '').trim();
@@ -39,6 +44,12 @@ document.addEventListener('DOMContentLoaded', function () {
       fetch(BREVO_URL, { method: 'POST', mode: 'no-cors', body: data })
         .then(function () {
           showMsg(form, form.dataset.successMessage || 'Thanks for subscribing!', true);
+          const m = form.querySelector('.form-message');
+          if (m) {
+            m.innerHTML += '<br>Your free guide / Mwongozo wako wa bure: ' +
+              '<a href="/assets/uploads/herbal-impact-products-services-guide.pdf" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;">English</a> · ' +
+              '<a href="/assets/uploads/mwongozo-wa-bidhaa-na-huduma-herbal-impact.pdf" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;">Kiswahili</a>';
+          }
           form.reset();
         })
         .catch(function () { showMsg(form, 'Sorry, something went wrong. Please try again.', false); })
@@ -188,11 +199,16 @@ social.className = 'footer-social';
 social.style.justifyContent = 'center';
 social.style.marginBottom = '14px';
 social.innerHTML =
-'<a href="https://www.facebook.com/afyamurua" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24"><path d="M13.5 21v-8h2.7l.4-3.2h-3V7.7c0-.9.3-1.6 1.6-1.6h1.7V3.2C16.6 3.1 15.6 3 14.5 3c-2.5 0-4.2 1.5-4.2 4.3v2.5H7.7V13h2.6v8h3.2z"/></svg></a>' +
+'<a href="https://www.facebook.com/sihakwanza" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24"><path d="M13.5 21v-8h2.7l.4-3.2h-3V7.7c0-.9.3-1.6 1.6-1.6h1.7V3.2C16.6 3.1 15.6 3 14.5 3c-2.5 0-4.2 1.5-4.2 4.3v2.5H7.7V13h2.6v8h3.2z"/></svg></a>' +
 '<a href="https://www.instagram.com/herbal_impact/" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24"><path d="M12 2.2c2.7 0 3 0 4 .1 1 .1 1.7.2 2.3.5.6.2 1.1.5 1.6 1 .5.5.8 1 1 1.6.3.6.4 1.3.5 2.3.1 1 .1 1.3.1 4s0 3-.1 4c-.1 1-.2 1.7-.5 2.3-.2.6-.5 1.1-1 1.6-.5.5-1 .8-1.6 1-.6.3-1.3.4-2.3.5-1 .1-1.3.1-4 .1s-3 0-4-.1c-1-.1-1.7-.2-2.3-.5-.6-.2-1.1-.5-1.6-1-.5-.5-.8-1-1-1.6-.3-.6-.4-1.3-.5-2.3-.1-1-.1-1.3-.1-4s0-3 .1-4c.1-1 .2-1.7.5-2.3.2-.6.5-1.1 1-1.6.5-.5 1-.8 1.6-1 .6-.3 1.3-.4 2.3-.5 1-.1 1.3-.1 4-.1zM12 0C9.3 0 8.9 0 7.9.1c-1.1.1-1.9.3-2.6.6-.7.3-1.4.7-2 1.3-.6.6-1 1.2-1.3 2C1.4 4.7 1.2 5.5 1.1 6.6 1 7.6 1 8 1 10.7v2.6c0 2.7 0 3.1.1 4.1.1 1.1.3 1.9.6 2.6.3.7.7 1.4 1.3 2 .6.6 1.2 1 2 1.3.7.3 1.5.5 2.6.6 1 .1 1.4.1 4.1.1s3.1 0 4.1-.1c1.1-.1 1.9-.3 2.6-.6.7-.3 1.4-.7 2-1.3.6-.6 1-1.2 1.3-2 .3-.7.5-1.5.6-2.6.1-1 .1-1.4.1-4.1s0-3.1-.1-4.1c-.1-1.1-.3-1.9-.6-2.6-.3-.7-.7-1.4-1.3-2-.6-.6-1.2-1-2-1.3-.7-.3-1.5-.5-2.6-.6C15.1 0 14.7 0 12 0z"/><path d="M12 5.8A6.2 6.2 0 1 0 12 18.2 6.2 6.2 0 0 0 12 5.8zm0 10.2A4 4 0 1 1 12 8a4 4 0 0 1 0 8z"/><circle cx="18.4" cy="5.6" r="1.4"/></svg></a>' +
 '<a href="https://x.com/juma_killaghai" target="_blank" rel="noopener" aria-label="X (Twitter)"><svg viewBox="0 0 24 24"><path d="M18.9 3H22l-7.2 8.2L23 21h-6.8l-5.3-6.5L5 21H1.9l7.7-8.8L1 3h7l4.8 6z"/></svg></a>' +
-'<a href="https://www.tiktok.com/@herbal_impact" target="_blank" rel="noopener" aria-label="TikTok"><svg viewBox="0 0 24 24"><path d="M16.6 3c.4 2 1.7 3.7 3.6 4.5v2.7c-1.3 0-2.6-.4-3.6-1.1v6.1c0 3.2-2.6 5.8-5.8 5.8S5 18.4 5 15.2c0-3.1 2.4-5.6 5.5-5.8v2.8c-1.5.2-2.7 1.5-2.7 3 0 1.7 1.4 3 3 3s3-1.3 3-3V3h2.8z"/></svg></a>';
+'<a href="https://www.tiktok.com/@herbal_impact" target="_blank" rel="noopener" aria-label="TikTok"><svg viewBox="0 0 24 24"><path d="M16.6 3c.4 2 1.7 3.7 3.6 4.5v2.7c-1.3 0-2.6-.4-3.6-1.1v6.1c0 3.2-2.6 5.8-5.8 5.8S5 18.4 5 15.2c0-3.1 2.4-5.6 5.5-5.8v2.8c-1.5.2-2.7 1.5-2.7 3 0 1.7 1.4 3 3 3s3-1.3 3-3V3h2.8z"/></svg></a>' +
+'<a href="https://whatsapp.com/channel/0029VbEPsuJ6xCSX2li3Un3C" target="_blank" rel="noopener" aria-label="WhatsApp Channel" title="Follow our WhatsApp Channel / Fuata channel yetu"><svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.1 5.1 0 0 0 1.1 2.7 11.7 11.7 0 0 0 4.5 4c1.7.7 2.3.8 3.1.6.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.1-1.2l-.5-.3z"/></svg></a>';
 el.parentElement.insertBefore(social, el);
+var waCh = document.createElement('p');
+waCh.style.cssText = 'text-align:center;margin:0 0 14px;font-size:0.9rem;';
+waCh.innerHTML = '<a href="https://whatsapp.com/channel/0029VbEPsuJ6xCSX2li3Un3C" target="_blank" rel="noopener" style="color:#fff;text-decoration:underline;">Follow our WhatsApp Channel / Fuata channel yetu</a>';
+el.parentElement.insertBefore(waCh, el);
 
 var counter = document.createElement('div');
 counter.className = 'visitor-counter';

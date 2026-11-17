@@ -30,6 +30,14 @@ Hata hivyo, kama kiungulia ni kikali sana na ni endelevu, ni vema kutafuta matib
 
 Kiungulia kikali na cha muda mrefu siyo tu kwamba kinakuharibia sana ladha ya maisha kwa kiwango kikubwa, bali pia ni miongoni mwa vihatarishi vya kupata saratani katika njia ya chakula.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Kiungulia husababishwa na nini?** Tindikali ya tumboni kupanda kuelekea kooni. Hii hutokea pale msuli ulio mahali njia ya chakula inapoungana na tumbo usipofunga kikamilifu, au usipofunga inapotakiwa.
+
+**Je, kiungulia ni hatari?** Kiungulia kidogo cha mara moja moja ni kawaida. Kiungulia kikali kinachojirudia kinapaswa kutibiwa haraka, kwa sababu kiungulia cha muda mrefu ni kihatarishi cha saratani ya njia ya chakula.
+
+**Nimwone daktari lini kuhusu kiungulia?** Kikiwa kikali, kikijirudia, au kikiambatana na shida ya kumeza, kutapika, kupungua uzito au kinyesi cheusi.
+
 ## Unahitaji Matibabu?
 
 Ukiwa unakabiliwa na hali hiyo na unahitaji kupata matibabu, unaweza kuwasiliana nasi.

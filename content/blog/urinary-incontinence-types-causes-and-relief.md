@@ -7,9 +7,7 @@ cover_image: /assets/uploads/HAIIBA%20TIMAM%20TEA%20FOR%20LOADING%20ON%20GITHUB.
 cover_image_alt: Pack of Haiiba Timam Tea herbal tonic, 200g, from Herbal
   Impact
 swahili_link: blog-9-sw.html
-description: Learn the types and causes of urinary incontinence, why pelvic
-  floor exercises are the first step, and how Haiiba Timam Tea has helped many
-  people when hospital treatment alone wasn't enough.
+description: "Learn the types and causes of urinary incontinence, why pelvic floor exercises come first, and how Haiiba Timam Tea has helped many people."
 ---
 Struggling to control your bladder — whether it's a small leak when you laugh, or something more constant — can feel isolating and even embarrassing to talk about. But if this describes you, take a breath: urinary incontinence is an extremely common condition affecting millions of people worldwide, at every age, and it's nothing to be ashamed of.
 
@@ -45,6 +43,16 @@ One case that stands out: a client we'll call George, a professional at a major 
 We gave him a 35-day course of Haiiba Timam Tea. His symptoms cleared up in just 14 days.
 
 This wasn't a one-off. Before George, we treated a retiree with the same tea, who later told us: "I couldn't leave the house! I needed to urinate every few minutes, and if I wasn't near a bathroom, I'd have an accident."
+
+## Frequently Asked Questions
+
+**What are the main types of urinary incontinence?** There are four: stress incontinence (leaks when you cough, laugh or lift), urge incontinence (a sudden strong need to urinate), overflow incontinence (the bladder does not empty fully) and total incontinence (the bladder cannot store urine at all).
+
+**What should I try first?** Pelvic floor exercises. Tighten the muscles you use to stop urine mid-stream, hold for a few seconds, release, and repeat for a few minutes at least three times a day.
+
+**When should I see a doctor?** If exercises bring no improvement after a few days of steady practice. Go to a hospital the same day if you see blood in your urine, have pain or fever, or cannot pass urine at all.
+
+**Can Haiiba Timam Tea help when hospital treatment has not?** Many of our clients whose incontinence continued after hospital treatment report improvement with it. Keep taking any medicine your doctor prescribed and tell your doctor you are using the tea.
 
 ## Getting Haiiba Timam Tea
 

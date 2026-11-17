@@ -6,7 +6,7 @@ read_time: 4 MIN READ
 cover_image: /assets/uploads/healthy-teeth-gums-oral-health-brushing.jpg
 cover_image_alt: Smiling man brushing his teeth, a daily habit for healthy teeth and gums and good oral health
 swahili_link: blog-19-sw.html
-description: "Tooth decay and gum disease have four main causes. Learn how bacteria, body acidity, diabetes and low vitamin C affect healthy teeth and gums, and what to do."
+description: "Tooth decay and gum disease have four main causes. Learn how bacteria, acidity, diabetes and low vitamin C harm teeth and gums, and what to do."
 ---
 Oral health covers many areas, but here we focus on healthy teeth and gums, because the problems that affect them are the most common.
 
@@ -82,6 +82,16 @@ If you have toothache and would rather not have the tooth pulled, you can contac
 It kills millions of Gram-positive bacteria on contact. It relieves toothache within 15 to 20 minutes, and in most cases the pain does not come back.
 
 It also treats gum disease caused by infection, which makes it an excellent remedy for bad breath that comes from damaged gum tissue.
+
+## Frequently Asked Questions
+
+**What are the main causes of tooth and gum problems?** Four main causes: Gram-positive bacteria, a body overloaded with acid, poorly controlled diabetes, and a lack of vitamin C.
+
+**How often should I brush my teeth?** Ideally after every meal and drink. At the very least, brush twice a day: in the morning and at night before bed.
+
+**Why do my gums bleed?** Bleeding gums can be a sign of vitamin C deficiency, which weakens gum tissue, or of a gum infection. Citrus fruits such as limes and lemons are a cheap source of vitamin C. If bleeding continues, see a dentist.
+
+**What is the 80/20 rule for healthy teeth?** Fill 80% of your plate with mixed vegetables, most of them raw if possible. Eat fruit on its own, at least half an hour before a regular meal.
 
 ## Would You Like to Try Haiiba Dental Guard?
 

@@ -1,15 +1,13 @@
 ---
 title: "Stress Management Techniques That Work: 7 Steps to a Calmer Mind"
-seo_title: "Stress Management Techniques That Work: 7 Steps"
+seo_title: "Stress Management: 7 Techniques That Work"
 category: MENTAL WELLNESS
 read_time: 6 MIN READ
 cover_image: /assets/uploads/stress-management-man-at-desk.jpg
 cover_image_alt: Man at his desk holding his head, showing signs of work
   stress
 swahili_link: blog-14-sw.html
-description: Stress costing you sleep and focus? Learn 7 practical stress
-  management techniques, from slow breathing to mindfulness, that you can
-  start in ten minutes a day.
+description: "Is stress costing you sleep and focus? Learn 7 practical stress management techniques, from slow breathing to mindfulness, in ten minutes a day."
 ---
 You lie down tired, but your mind keeps running through tomorrow's bills, the unfinished report and the argument you had last week. In the morning you wake up as tired as when you went to bed. If this sounds familiar, you are dealing with stress that has stopped being useful.
 
@@ -70,6 +68,16 @@ Choose one technique and attach it to something you already do every day, such a
 ## When to get professional help
 
 If stress, low mood or anxiety has lasted for weeks and is affecting your work, sleep or relationships, speak to a doctor or mental health professional. Self-help techniques support professional care. They do not replace it.
+
+## Frequently Asked Questions
+
+**What are the signs of chronic stress?** Trouble sleeping, frequent headaches or stomach upsets, irritability, difficulty concentrating, constant worry, losing interest in things you enjoy, and reaching for food, alcohol or your phone to escape.
+
+**What is the fastest way to calm down?** Slow breathing. Breathe in through your nose for a count of four and out through your mouth for a count of six, ten times.
+
+**How much time do these techniques take?** About ten minutes a day. Start with one technique, attach it to something you already do every day, and begin with five minutes.
+
+**When should I get professional help?** If stress, low mood or anxiety has lasted for weeks and is affecting your work, sleep or relationships, speak to a doctor or mental health professional.
 
 ## Go deeper with the full guide
 

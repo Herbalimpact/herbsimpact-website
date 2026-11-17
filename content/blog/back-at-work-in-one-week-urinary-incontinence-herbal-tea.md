@@ -1,6 +1,6 @@
 ---
 title: "Back at Work in One Week: A Story of Urine Leakage and a Cup of Herbal Tea"
-seo_title: "Urinary Incontinence in Men: A Herbal Tea Story from Dar es Salaam"
+seo_title: "Urinary Incontinence in Men: A True Story"
 category: BLADDER HEALTH
 read_time: 5 MIN READ
 cover_image: /assets/uploads/back-at-work-in-one-week-en.jpg

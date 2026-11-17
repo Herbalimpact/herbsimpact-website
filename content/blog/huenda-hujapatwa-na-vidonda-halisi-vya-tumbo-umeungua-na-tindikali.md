@@ -1,15 +1,13 @@
 ---
 title: "Huenda Hujapatwa na Vidonda Halisi vya Tumbo — Umeungua na Tindikali!"
-seo_title: "Si Vidonda vya Tumbo, Bali Kuungua na Tindikali"
+seo_title: "Si Vidonda: Ni Kuungua kwa Tindikali"
 category: AFYA YA MMENG'ENYO WA CHAKULA
 read_time: DAKIKA 4 ZA KUSOMA
 cover_image: /assets/uploads/acid-burn-stomach-digestive-tract.jpg
 cover_image_alt: Mtu akishikilia tumbo lake, mchoro wa mfumo wa mmeng'enyo wa
   chakula ukionesha eneo linaloathiriwa na kuungua kwa tindikali
 swahili_link: blog-10.html
-description: Baadhi ya dalili za "vidonda vya tumbo" si vidonda halisi -
-  ni majeraha ya kuungua kwa tindikali. Jifunze kwa nini hutokea na jinsi
-  Program ya Herbal Impact inavyoweza kusaidia.
+description: "Baadhi ya dalili za vidonda vya tumbo si vidonda halisi, ni majeraha ya kuungua kwa tindikali. Jifunze chanzo chake na jinsi Herbal Impact inavyosaidia."
 ---
 Kuna watu ambao wanapata dalili zote za ugonjwa wa vidonda vya tumbo, lakini kiuhalisia tatizo walilokuwa nalo ni lingine kabisa. Hawa ni wale ambao wanapata majeraha ya kuungua kwa tindikali, kwenye maeneo ya utumbo mwembamba.
 
@@ -32,6 +30,16 @@ Vidonda vinavyotokana na acid haviwezi kutibiwa kwa dawa. Tiba pekee ni kufanya 
 ## Njia ya Haraka ya Kupata Nafuu
 
 Kama njia ya haraka ya kuwasaidia wahanga wa tatizo hili kuondoa tindikali iliyozidi mwilini, **HERBAL IMPACT** imeandaa program maalum ambayo mhanga akiifuata ataweza kutatua tatizo lake ndani ya siku chache. Program hii tumeipa jina la **"Program ya Kutibu Vidonda vya Tumbo Vinavyotokana na Tindikali"** — ni seti ya maelekezo ya nini unatakiwa kufanya kuondoa mzigo wa tindikali mwilini na kujitibu majeraha yanayotokana na kuunguzwa na tindikali.
+
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Kuungua kwa tindikali tumboni ni nini?** Ni majeraha kwenye ukuta wa utumbo mdogo yanayosababishwa na tindikali iliyozidi mwilini. Dalili zake hufanana kabisa na za vidonda vya tumbo.
+
+**Nitajuaje kama nina vidonda au nimeungua na tindikali?** Ni vipimo pekee vinavyoweza kuonyesha. Mwone daktari kwanza, kwa sababu vidonda vya H. pylori, madhara ya dawa za maumivu na matatizo mengine huleta dalili zinazofanana sana.
+
+**Ninywe maji kiasi gani?** Takriban lita moja kwa kila kilo 25 za uzito wa mwili kwa siku. Kama una matatizo ya figo au moyo, muulize daktari kiasi kinachokufaa.
+
+**Nitapataje Program ya Kutibu Vidonda vya Tumbo Vinavyotokana na Tindikali?** Inapatikana kwa Tsh 45,000 na hutumwa kwa WhatsApp au barua pepe mara malipo yanapopokelewa. Piga simu au WhatsApp +255 754 281 131 / +255 655 281 131.
 
 ## Kupata Program Hii
 

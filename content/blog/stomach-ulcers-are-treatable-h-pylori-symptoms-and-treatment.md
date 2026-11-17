@@ -1,15 +1,13 @@
 ---
 title: "Contrary to Popular Belief, Stomach Ulcers Can Be Cured"
-seo_title: "Stomach Ulcers & H. Pylori: Symptoms and Treatment"
+seo_title: "H. Pylori Stomach Ulcers: Signs & Treatment"
 category: DIGESTIVE HEALTH
 read_time: 6 MIN READ
 cover_image: /assets/uploads/haiiba-ig-gel-vidonda-vya-tumbo.jpg
 cover_image_alt: Jar of HAIIBA IG Gel, a Herbal Impact herbal supplement for
   people with stomach ulcers
 swahili_link: blog-11-sw.html
-description: Most stomach ulcers are caused by H. pylori bacteria. Learn the
-  symptoms of stomach ulcers, the warning signs, how they are treated and why
-  so many people never fully heal.
+description: "Most stomach ulcers are caused by H. pylori. Learn the symptoms, warning signs, how ulcers are treated and why many people never fully heal."
 ---
 Many people believe that once you have stomach ulcers, you live with them for life. The truth is that **stomach ulcers can be cured** — as long as the cause is identified and the treatment is followed all the way through.
 
@@ -78,6 +76,18 @@ To heal the ulcers completely, treatment also has to control stomach acid and ca
 
 This treatment lasts several weeks and means swallowing a lot of tablets every day. That may be the biggest reason so many people never fully recover: **most of us stop taking the medicine as soon as we start to feel better.** If you've been given a course of treatment, finish all of it as your doctor directs.
 
+## Frequently Asked Questions
+
+**What causes most stomach ulcers?** The bacterium H. pylori. Regular use of painkillers called NSAIDs, such as ibuprofen, diclofenac and aspirin, can also cause them.
+
+**Can stomach ulcers be cured?** Yes, when the cause is identified through tests and the full course of treatment is completed.
+
+**Which symptoms need a hospital right away?** Severe stomach pain, vomiting blood, blood in the stool or black tar-like stool, dizziness or difficulty breathing.
+
+**Why do ulcers keep coming back after treatment?** Often because people stop taking their medicine as soon as they feel better. Finish the whole course exactly as your doctor directs.
+
+**Can I use HAIIBA IG with my hospital treatment?** We recommend using it alongside your doctor's advice, not in place of it.
+
 ## Ulcers That Won't Heal? Visit Herbal Impact
 
 If your stomach ulcers just don't seem to heal, whatever the reason, come and see us at **Herbal Impact** in Dar es Salaam. Our herbal food supplement, **HAIIBA IG**, has helped many of our clients with stomach ulcers — many of whom had struggled for a long time before they started using it. We recommend using it alongside your doctor's advice.
@@ -86,7 +96,7 @@ If your stomach ulcers just don't seem to heal, whatever the reason, come and se
 
 - Phone: **+255 754 281 131**
 - WhatsApp: **+255 655 281 131**
-- Email: info@wellbizsolutions.co.site
+- Email: info@herbsimpact.com
 - Visit: Mosque Street, Kitumbini, Dar es Salaam (opposite the Sunni mosque) — look for the **HERBAL IMPACT** sign.
 
 Want to see everything we offer? Download our free [Herbal Impact Products & Services Guide](downloads.html).

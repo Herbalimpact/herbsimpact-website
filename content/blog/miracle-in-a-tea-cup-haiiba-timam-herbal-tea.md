@@ -1,6 +1,6 @@
 ---
 title: "Miracle in a Tea Cup"
-seo_title: "Miracle in a Tea Cup: Haiiba Timam Herbal Tea from Tanzania"
+seo_title: "Haiiba Timam Tea: Miracle in a Tea Cup"
 category: HERBAL TEA
 read_time: 6 MIN READ
 cover_image: /assets/uploads/miracle-in-a-tea-cup-en.jpg

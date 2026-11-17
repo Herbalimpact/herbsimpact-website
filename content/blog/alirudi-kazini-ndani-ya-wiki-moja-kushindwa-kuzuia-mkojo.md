@@ -1,6 +1,6 @@
 ---
 title: "Alirudi Kazini Ndani ya Wiki Moja: Hadithi ya Tatizo la Kushindwa Kuzuia Mkojo"
-seo_title: "Kushindwa Kuzuia Mkojo kwa Wanaume: Hadithi ya Chai ya Haiiba Timam"
+seo_title: "Mkojo Kuvuja kwa Wanaume: Hadithi ya Kweli"
 category: AFYA YA KIBOFU
 read_time: DAKIKA 5 ZA KUSOMA
 cover_image: /assets/uploads/back-at-work-in-one-week-sw.jpg
@@ -24,7 +24,7 @@ Daniel alikuwa anafanya kazi katika ubalozi mmoja wa kigeni hapa Dar es Salaam. 
 
 ## Tulichompa
 
-Nilimwambia kuwa **Chai ya Haiiba Timam** inaweza kusaidia. Hii ni chai ya mitishamba tunayoitengeneza Herbal Impact kwa mimea inayoliwa pekee.
+Nilimwambia kuwa **Chai ya Haiiba Timam** inaweza kusaidia. Hii ni chai ya mimeatiba tunayoitengeneza Herbal Impact kwa mimea inayoliwa pekee.
 
 Kwa maelezo aliyonipa, nilihisi chanzo cha tatizo kilikuwa kwenye mfumo wa fahamu, yaani mishipa inayoamuru kibofu lini kishikilie mkojo na lini kiuachie. Kwa uzoefu wetu, Chai ya Haiiba Timam ni nzuri sana kwa mfumo wa fahamu. Ndiyo sababu niliamini ingeweza kumsaidia Daniel. Kwa miaka mingi, wagonjwa wetu wengi wenye tatizo la mkojo kuvuja wametueleza kuwa udhibiti wa kibofu ulirudi baada ya takriban wiki tatu za kuinywa.
 

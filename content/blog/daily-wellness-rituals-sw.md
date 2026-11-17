@@ -23,7 +23,7 @@ Unapogeuza matendo kuwa desturi:
 - Unaunda mdundo na uwezo wa kutabirika, hivyo mwili na akili yako huamini kwamba aina fulani za utunzaji zitafika nyakati maalum.
 - Unajenga utambulisho — kwa muda, unaacha "kujaribu kuwa na afya" na unakuwa tu mtu anayeishi kwa njia yenye afya.
 
-Desturi hufanya kazi kwa sababu huunganisha matendo na maana. Kunywa chai ya mitishamba ni jambo moja; kuinywa kama ishara ya makusudi ya kupunguza mwendo, kupumua, na kusikiliza mwili wako ni jambo jingine. Tabaka hilo la nia ndilo lenye nguvu.
+Desturi hufanya kazi kwa sababu huunganisha matendo na maana. Kunywa chai ya mimeatiba ni jambo moja; kuinywa kama ishara ya makusudi ya kupunguza mwendo, kupumua, na kusikiliza mwili wako ni jambo jingine. Tabaka hilo la nia ndilo lenye nguvu.
 
 ## Nguzo Nne za Desturi za Afya ya Kudumu
 
@@ -31,7 +31,7 @@ Ili kujenga desturi za kila siku zinazodumu kwa kweli, husaidia kufikiria katika
 
 ### 1. Desturi za Mwili: Lisha na Sogea
 
-- **Desturi ya maji asubuhi:** glasi ya maji na limau au chai ya mitishamba kama kitu cha kwanza unachokunywa kila siku.
+- **Desturi ya maji asubuhi:** glasi ya maji na limau au chai ya mimeatiba kama kitu cha kwanza unachokunywa kila siku.
 - **Desturi ya msogeo:** tembea kidogo, nyoosha mwili, au fanya mazoezi rahisi wakati maalum.
 - **Desturi ya lishe:** mlo mmoja wa makusudi kwa siku ambapo unapunguza mwendo, unatafuna vizuri, na kuepuka skrini.
 
@@ -48,7 +48,7 @@ Desturi hizi hufanya kazi kama usafi wa kiakili: huzuia msongo wa hisia kujaa na
 ### 3. Desturi za Mazingira: Unda Nafasi Yako
 
 - **Kurejesha usiku:** dakika 10 kila jioni kusafisha eneo dogo ili kuunda nafasi tulivu kwa asubuhi inayofuata.
-- **Kona ya afya:** mahali maalum unapoweka jarida lako, chai za mitishamba, vitabu, au mkeka wa mazoezi.
+- **Kona ya afya:** mahali maalum unapoweka jarida lako, chai za mimeatiba, vitabu, au mkeka wa mazoezi.
 - **Desturi ya mipaka ya kidijitali:** kuweka nyakati ambazo arifa zimezimwa na vifaa viko mbali na nafasi yako ya karibu.
 
 Kwa kubadilisha mazingira yako kwa njia ndogo, zinazotabirika, unafanya chaguo nzuri kuwa rahisi na chaguo zisizo na afya kuwa si za kiotomatiki tena.
@@ -93,11 +93,21 @@ Afya ya kudumu hutokana na uvumilivu, si shinikizo. Kukosa desturi si kushindwa 
 
 ## Mfano: Mpango Rahisi wa Desturi za Afya za Kila Siku
 
-- **Asubuhi:** Kunywa maji au chai ya mitishamba baada ya kupiga mswaki; vuta pumzi chache kabla ya kuangalia simu yako.
+- **Asubuhi:** Kunywa maji au chai ya mimeatiba baada ya kupiga mswaki; vuta pumzi chache kabla ya kuangalia simu yako.
 - **Mchana:** Tembea au nyoosha mwili baada ya chakula cha mchana; tuma ujumbe mmoja wa makusudi kwa mtu unayemjali.
 - **Jioni:** Tumia dakika 10 kurejesha nafasi yako; andika mistari mitatu kwenye jarida; fanya desturi fupi ya kutuliza kabla ya kulala.
 
 Hii si ratiba kali; ni kiolezo unachoweza kukirekebisha kulingana na utamaduni wako, mdundo wa kazi, na mapendeleo yako binafsi.
+
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Desturi ya afya ni nini?** Ni tabia ndogo yenye maana unayoirudia kila siku mpaka inakuwa ya kawaida, kama kunywa glasi ya maji asubuhi, kutembea kidogo au kuvuta pumzi ndefu chache kabla ya kulala.
+
+**Kwa nini desturi hufanya kazi kuliko hamasa?** Hamasa huja na kuondoka. Desturi hubaki: hupunguza maamuzi ya kila siku, huipa siku yako mpangilio na taratibu hufanya maisha yenye afya kuwa sehemu ya utambulisho wako.
+
+**Nianzeje desturi mpya?** Iunganishe na kitu unachofanya kila siku tayari, kama kupiga mswaki au chakula cha mchana, na iwe ndogo na mahususi, kwa mfano "tembea dakika 10 baada ya chakula cha jioni".
+
+**Nikikosa siku moja je?** Fanya toleo dogo kabisa linalohesabika, kama kutembea dakika 5 badala ya 20. Kukosa siku ni taarifa, si kushindwa. Rekebisha na uendelee.
 
 ## Desturi za Kila Siku kama Uwekezaji wa Muda Mrefu
 

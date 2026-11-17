@@ -1,15 +1,13 @@
 ---
 title: "Tofauti na Inavyodhaniwa na Wengi, Vidonda vya Tumbo Vinatibika!"
-seo_title: "Vidonda vya Tumbo na H. Pylori: Dalili na Tiba"
+seo_title: "Vidonda vya Tumbo na H. Pylori: Dalili, Tiba"
 category: AFYA YA MMENG'ENYO WA CHAKULA
 read_time: DAKIKA 6 ZA KUSOMA
 cover_image: /assets/uploads/haiiba-ig-gel-vidonda-vya-tumbo.jpg
 cover_image_alt: Kopo la dawa lishe ya mimea HAIIBA IG Gel kutoka Herbal Impact kwa
   ajili ya vidonda vya tumbo
 swahili_link: blog-11.html
-description: Vidonda vya tumbo husababishwa mara nyingi na bakteria H. pylori.
-  Jifunze dalili za vidonda vya tumbo, dalili za hatari, tiba ya hospitali na
-  kwa nini wengi hushindwa kupona.
+description: "Vidonda vya tumbo mara nyingi husababishwa na bakteria H. pylori. Jifunze dalili, dalili za hatari, tiba ya hospitali na kwa nini wengi hawaponi."
 ---
 Watu wengi wanaamini kuwa vidonda vya tumbo ni ugonjwa wa kudumu usiopona. Ukweli ni kwamba **vidonda vya tumbo vinatibika** — kama chanzo chake kitajulikana na matibabu yatafuatwa kikamilifu.
 
@@ -78,6 +76,18 @@ Ili vidonda vipone kabisa, matibabu lazima pia yadhibiti tindikali tumboni pamoj
 
 Matibabu haya huchukua wiki kadhaa na yanahusisha kumeza vidonge vingi kila siku. Huenda hii ndiyo sababu kubwa inayofanya wengi wasipone: **tulio wengi hukatiza dozi mara tunapohisi nafuu.** Kama umeanzishiwa dozi, imalize yote kama ulivyoelekezwa na daktari.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Vidonda vingi vya tumbo husababishwa na nini?** Bakteria H. pylori. Matumizi ya mara kwa mara ya dawa za maumivu aina ya NSAIDs, kama ibuprofen, diclofenac na aspirin, nayo yanaweza kusababisha vidonda.
+
+**Je, vidonda vya tumbo vinatibika?** Ndiyo, chanzo kikitambuliwa kwa vipimo na dozi nzima ya tiba ikimalizwa.
+
+**Ni dalili zipi zinahitaji hospitali mara moja?** Maumivu makali ya tumbo, kutapika damu, haja kubwa yenye damu au nyeusi kama lami, kizunguzungu au shida ya kupumua.
+
+**Kwa nini vidonda hurudi baada ya tiba?** Mara nyingi ni kwa sababu watu huacha kumeza dawa mara wanapojisikia nafuu. Maliza dozi yote kama daktari alivyoelekeza.
+
+**Je, naweza kutumia HAIIBA IG pamoja na tiba ya hospitali?** Tunashauri uitumie pamoja na ushauri wa daktari wako, si badala yake.
+
 ## Vidonda Vimekataa Kupona? Tembelea Herbal Impact
 
 Kama una vidonda vya tumbo ambavyo unahisi vimeshindikana kupona kwa sababu yoyote ile, karibu **Herbal Impact**. Dawa lishe yetu ya mimea, **HAIIBA IG**, imekuwa msaada mkubwa kwa wateja wetu wengi wenye vidonda vya tumbo — wengi wao wakiwa wamehangaika kwa muda mrefu kabla ya kuanza kuitumia. Tunashauri kuitumia sambamba na ushauri wa daktari wako.
@@ -86,7 +96,7 @@ Kama una vidonda vya tumbo ambavyo unahisi vimeshindikana kupona kwa sababu yoyo
 
 - Simu: **+255 754 281 131**
 - WhatsApp: **+255 655 281 131**
-- Barua pepe: info@wellbizsolutions.co.site
+- Barua pepe: info@herbsimpact.com
 - Tupo: Mosque Street, Kitumbini, Dar es Salaam (mkabala na msikiti wa Sunni). Ukifika utaona bango lenye maandishi **HERBAL IMPACT**.
 
 Unataka kujua bidhaa zetu nyingine? Pakua bure [Mwongozo wa Bidhaa na Huduma za Herbal Impact](downloads.html).

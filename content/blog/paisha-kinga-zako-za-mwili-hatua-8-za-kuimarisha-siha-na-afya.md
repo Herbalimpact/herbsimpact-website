@@ -6,7 +6,7 @@ read_time: DAKIKA 3 ZA KUSOMA
 cover_image: /assets/uploads/immune-boosting-foods-citrus-ginger.jpg
 cover_image_alt: Machungwa, malimau, tangawizi, mboga za majani, korosho na matunda mekundu juu ya meza ya mbao, vyakula vinavyosaidia kinga ya mwili
 swahili_link: blog-18.html
-description: Tumezungukwa na vimelea na sumu. Fahamu hatua 8 za kuimarisha mfumo wa kinga ya mwili wako, na jinsi Chai ya Haiiba Timam inavyosaidia kuondoa sumu mwilini.
+description: "Tumezungukwa na vimelea na sumu. Fahamu hatua 8 za kuimarisha kinga ya mwili, na jinsi Chai ya Haiiba Timam inavyosaidia kuondoa sumu mwilini."
 ---
 Tumezungukwa na vitu vingi vyenye uwezo wa kudhuru na kuathiri afya zetu.
 
@@ -48,6 +48,14 @@ Kuondoa sumu na kukarabati seli kunasaidia sana kuimarisha uwezo wa kinga za mwi
 Kudhihirisha uwezo wa Haiiba Timam Tea katika jukumu hili wako wagonjwa wa UKIMWI waliokuwa wamezidiwa na kulala kabisa lakini leo wanatembea, na wanaendelea na shughuli zao baada ya kutumia Haiiba Timam Tea kwa majuma machache.
 
 Aidha, watumiaji wengi wanadai kuwa baada ya kuanza kutumia chai hii sasa hawaugui tena ugonjwa wa malaria, tofauti na ilivyokuwa huko nyuma.
+
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Kinga za mwili zina kazi gani?** Hulinda mwili dhidi ya vimelea vya magonjwa kama bakteria, fangasi, virusi na minyoo, pamoja na sumu zinazotufikia kupitia chakula na mazingira.
+
+**Hatua nane za kuimarisha kinga za mwili ni zipi?** Kula lishe sahihi, kupata usingizi wa kutosha, kukabiliana na msongo wa mawazo, kunywa maji ya kutosha, kupata mwanga wa jua kila siku, kuushughulisha mwili kila siku, kuondosha sumu mwilini na kukarabati seli chakavu.
+
+**Je, naweza kunywa Haiiba Timam Tea nikiwa natumia dawa za hospitali?** Ndiyo, wateja wetu wengi hufanya hivyo. Endelea na tiba yako na mjulishe daktari wako kuwa unakunywa chai hii.
 
 ## Je, Ungependa Kuijaribu Chai Hii?
 

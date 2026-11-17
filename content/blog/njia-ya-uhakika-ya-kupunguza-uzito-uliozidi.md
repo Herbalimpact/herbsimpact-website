@@ -32,7 +32,7 @@ Kalori zilizozidi huhifadhiwa mwilini kama mafuta kwa ajili ya matumizi ya baada
 Kitu cha kwanza kinachohitajika katika kuzuia ongezeko kubwa la uzito wa mwili ni kuhakikisha kwamba hatuingizi mwilini kalori nyingi kuliko mahitaji ya mwili. Ili kufanikisha hili kuna umuhimu mkubwa wa kuchagua chakula.
 
 1. Vyakula vyenye sukari na wanga kwa kawaida huingiza mwilini kiasi kikubwa mno cha kalori kuliko mahitaji na kupelekea ongezeko la uzito, hivyo tunapaswa kuvila kwa tahadhari.
-2. Vyakula vya protini huhitaji kiasi kikubwa sana cha kalori kuchakatwa, kuliko kalori zitakazotokana na vyakula hivyo. Hii ina maana kuwa ulaji wa vyakula hivi husaidia sana kupunguza uzito wa mwili.
+2. Vyakula vya protini hutumia nishati zaidi kuchakatwa kuliko vyakula vya sukari au wanga, na humfanya mtu ashibe kwa muda mrefu, hivyo hula kidogo. Hii ndiyo sababu vinasaidia sana mtu anayetaka kupunguza uzito.
 
 ## Uzito wa Mwili ni Zao la Hisabati
 
@@ -47,6 +47,16 @@ Tunapokula vyakula vya aina yoyote tusisahau kanuni ya 80/20. Hii ni kanuni inay
 ## Pima BMI Yako Bure
 
 Kabla ya kuanza, fahamu uzito wako uko wapi. Tumia **[kikokotoo chetu cha BMI bure](https://herbsimpact.com/tools.html)** kupima Uwiano wa Uzito na Urefu wako (BMI) ndani ya sekunde chache. Weka urefu na uzito wako, na hesabu hufanyika kwenye kifaa chako pekee, hivyo unaweza kufuatilia maendeleo yako unapopunguza uzito.
+
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Kanuni ya msingi ya kupunguza uzito ni ipi?** Kalori zinazoingia mwilini zikiwa chache kuliko zinazotumika, uzito hupungua. Zikiwa nyingi kuliko zinazotumika, uzito huongezeka. Kalori za ziada huhifadhiwa kama mafuta.
+
+**Ni vyakula gani nile kwa tahadhari?** Vyakula vyenye sukari na wanga kwa wingi, kwa sababu kwa kawaida huingiza mwilini kalori nyingi kuliko mahitaji.
+
+**Kanuni ya 80/20 ni ipi?** Asilimia 80 ya chakula kwenye sahani yako iwe mchanganyiko wa mboga za aina mbalimbali, na ule nyingi kati yake zikiwa mbichi kadiri inavyowezekana.
+
+**Nitajuaje kama nahitaji kupunguza uzito?** Pima Uwiano wako wa Uzito na Urefu (BMI) kwa kifaa chetu cha bure cha BMI kwenye ukurasa wa Tools. Weka urefu na uzito wako na kitakupa jibu kwa sekunde chache.
 
 ## Unahitaji Ushauri Zaidi?
 

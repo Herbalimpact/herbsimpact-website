@@ -1,10 +1,10 @@
 ---
 title: "Kikombe cha Matumaini kwa Akina Mama"
-seo_title: "Kikombe cha Matumaini kwa Akina Mama: Chai ya Haiiba Timam na Afya ya Uzazi"
+seo_title: "Chai ya Haiiba Timam na Afya ya Uzazi"
 category: AFYA YA WANAWAKE
 read_time: DAKIKA 7 ZA KUSOMA
 cover_image: /assets/uploads/a-cup-of-hope-for-mothers-sw.jpg
-cover_image_alt: Mwanamke akinywa chai ya mitishamba kwenye kikombe cheupe karibu na kifurushi cha Chai ya Haiiba Timam, Herbal Impact Dar es Salaam
+cover_image_alt: Mwanamke akinywa chai ya mimeatiba kwenye kikombe cheupe karibu na kifurushi cha Chai ya Haiiba Timam, Herbal Impact Dar es Salaam
 swahili_link: blog-16.html
 description: Unatafuta mtoto, mimba haikai au una uvimbe kwenye kizazi? Soma akina mama wa Herbal Impact, Dar es Salaam, wanasema nini kuhusu Chai ya Haiiba Timam.
 ---
@@ -61,7 +61,7 @@ Chai hii hufanya kazi vizuri zaidi **sambamba na** matibabu ya hospitali, si bad
 - **Usiahirishe upasuaji uliopangwa** hadi kipimo kipya na daktari wako vithibitishe tatizo limeisha.
 - **Ukishapata ujauzito,** endelea kunywa chai. Kwa uzoefu wetu, kuendelea kuna faida, hasa kwa akina mama ambao mimba zao huharibika mara kwa mara. Mjulishe muuguzi au daktari wa kliniki ya mama na mtoto kuwa unaitumia, na usikose mahudhurio ya kliniki.
 
-## "Lakini Dawa za Mitishamba si Zinaharibu Figo?"
+## "Lakini Dawa za Mimeatiba si Zinaharibu Figo?"
 
 Wapo wanaoziogopa tiba za mimea, wakiamini zinaharibu figo na viungo vingine. Tunawaelewa, kwani wengi hawajui kinachoendelea. Kwa mtazamo wetu, baada ya zaidi ya miaka 30 ya utafiti wa mazao ya asili, mimea inayoliwa ni malighafi asilia (organic materials) ambazo mwili unazifahamu kama chakula. Ndiyo sababu Chai ya Haiiba Timam inatumia mimea inayoliwa pekee. Kwa uzoefu wetu tangu 2012, akina mama wa rika zote wameitumia bila madhara. Kama unatumia dawa nyingine, mjulishe daktari wako.
 

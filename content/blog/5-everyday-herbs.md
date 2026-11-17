@@ -115,6 +115,16 @@ You can adjust this routine to suit your taste, cultural preferences, and schedu
 - Use fresh, good quality herbs and store dried herbs properly to avoid moisture and contamination.
 - Remember that herbs support wellness best when combined with balanced nutrition, sufficient water, regular movement, and adequate rest.
 
+## Frequently Asked Questions
+
+**Which everyday herbs support wellness?** Ginger, mint, rosemary, cinnamon and garlic. They are cheap, easy to find in local markets and simple to add to daily meals and drinks.
+
+**How do I make ginger tea?** Slice or grate a small piece of fresh ginger, simmer it in water for 5 to 10 minutes, then add lemon and a little honey.
+
+**Which herb helps with indigestion after meals?** Mint. Steep fresh or dried mint leaves in hot water for 5 to 10 minutes and drink it slowly after eating. Ginger also helps ease bloating.
+
+**Are these herbs safe for everyone?** Start with small amounts. If you are pregnant, have a medical condition or take regular medicine, talk with a qualified health professional before using much more of them.
+
 ## Final Thoughts
 
 Ginger, mint, rosemary, cinnamon, and garlic are more than just flavorings in your kitchen — they are everyday wellness tools that can support digestion, immunity, focus, and overall vitality. By turning these familiar herbs into intentional daily habits, you create a simple, affordable wellness routine rooted in both traditional wisdom and modern lifestyle needs, no matter where in the world you live.

@@ -33,6 +33,16 @@ The encouraging part is that you do not need a dramatic transformation to see re
 
 A great first step is understanding your current Body Mass Index. Visit our free BMI tool at [www.herbsimpact.com](https://www.herbsimpact.com/tools) to check your body mass status and get a clearer picture of your health today.
 
+## Frequently Asked Questions
+
+**What health problems does excess weight cause?** It raises the risk of heart disease, high blood pressure, stroke, type 2 diabetes, joint pain, sleep apnea, and anxiety and depression.
+
+**How much weight do I need to lose to see benefits?** Losing just 5 to 10 percent of your body weight can lower blood pressure, improve blood sugar control and ease pressure on your joints.
+
+**What are the first steps to take?** Walk or move for at least 30 minutes most days, eat more vegetables, lean protein and whole grains, sleep 7 to 9 hours a night and manage stress.
+
+**How do I know if my weight is healthy?** Check your Body Mass Index (BMI) with our free BMI calculator on the Tools page of this website.
+
 ## Bringing It All Together
 
 Excess weight rarely announces itself loudly, but its effects on your heart, blood sugar, joints, and mental wellbeing are very real. The good news is that small, consistent changes can meaningfully reduce these risks. Start by knowing your numbers, then take one small step today toward a healthier tomorrow.

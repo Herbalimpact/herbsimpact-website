@@ -53,6 +53,16 @@ Tuna uhakika na dawa hii kwa sababu tumeitumia kwa muda mrefu sana kwa mafanikio
 
 Huhitaji kusubiri dalili zijitokeze hadharani ndipo uanze kuchukua hatua.
 
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Magonjwa yasiyoambukiza ni yapi?** Ni magonjwa yasiyoambukizwa kutoka mtu mmoja hadi mwingine, kama magonjwa ya moyo, shinikizo la damu, kiharusi, saratani, kisukari cha watu wazima, magonjwa ya figo na baadhi ya magonjwa ya mapafu, ini na akili.
+
+**Magonjwa yasiyoambukiza yanaua watu wangapi?** Ndiyo chanzo kikuu cha vifo duniani. Kwa mujibu wa Shirika la Afya Duniani, yanaua takriban watu milioni 41 kila mwaka.
+
+**Utando nta (arterial plaque) ni nini?** Ni tabaka la nta linalojikusanya ndani ya mishipa ya damu na kuzuia damu kutiririka inavyotakiwa, hivyo seli hupata oksijeni na virutubisho kidogo.
+
+**Nisubiri dalili zionekane kabla ya kuchukua hatua?** Hapana. Magonjwa mengi haya hujitokeza kimya kimya. Pima shinikizo la damu, sukari na lehemu mara kwa mara, na endelea na tiba yoyote uliyoandikiwa na daktari.
+
 ## Wasiliana Nasi
 
 Wasiliana nasi kwa simu/WhatsApp **0754 281 131 / 0655 281 131**

@@ -1,6 +1,6 @@
 ---
 title: "Measles Is Back: What Bangladesh's Deadliest Outbreak Teaches Every Parent About Protecting Their Child"
-seo_title: "Measles: Symptoms, Spread and Prevention (Bangladesh 2026)"
+seo_title: "Measles: Symptoms, Spread and Prevention"
 category: CHILD HEALTH
 read_time: 6 MIN READ
 cover_image: /assets/uploads/measles-prevention-child-vaccination.jpg
@@ -102,6 +102,18 @@ Natural approaches can play a supporting role, such as good nutrition, fluids, r
 Bangladesh did not lose ground because measles changed. It lost ground because vaccination slipped for a few years, and the virus found the children who were left unprotected. Every missed dose is an open door.
 
 Check your child's clinic card. Talk to your family and neighbours. Two doses of measles vaccine, given on time, can save a life.
+
+## Frequently Asked Questions
+
+**How does measles spread?** Through coughing, sneezing and breathing the same air as an infected person. The virus can stay in the air or on surfaces for up to two hours, and one person can infect up to 18 others who are not protected.
+
+**What are the first signs of measles?** High fever, runny nose, cough and red, watery eyes, sometimes with tiny white spots inside the cheeks. A red, blotchy rash follows a few days later, starting on the face and behind the ears.
+
+**When should my child get the measles vaccine in Tanzania?** The measles–rubella (MR) vaccine is given in two doses: the first at 9 months and the second at 18 months. If a dose was missed, take your child to the nearest health facility to catch up.
+
+**Can herbs prevent or cure measles?** No. No herb has been shown to prevent measles, and there is no herbal cure. Vaccination prevents it, and a sick child should be taken to a health facility promptly.
+
+**When is measles an emergency?** Seek urgent care if the child has difficulty breathing, will not drink, has diarrhoea with signs of dehydration, becomes very drowsy or has a convulsion.
 
 ## Stay Informed With Herbal Impact
 

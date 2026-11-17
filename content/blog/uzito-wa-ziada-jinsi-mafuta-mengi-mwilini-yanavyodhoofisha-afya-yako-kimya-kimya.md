@@ -1,6 +1,6 @@
 ---
 title: "Uzito wa Ziada: Jinsi Mafuta Mengi Mwilini Yanavyodhoofisha Afya Yako Kimya Kimya"
-seo_title: "Uzito wa Ziada Unavyodhoofisha Afya Yako Kimya Kimya"
+seo_title: "Uzito wa Ziada na Hatari Zake kwa Afya"
 category: HATARI ZA KIAFYA
 read_time: DAKIKA 3 ZA KUSOMA
 cover_image: /assets/uploads/weight-scale.jpg
@@ -32,6 +32,16 @@ Jambo la kutia moyo ni kwamba hauhitaji mabadiliko makubwa ili kuona faida halis
 ## Jua Unaposimama
 
 Hatua nzuri ya kwanza ni kuelewa Uwiano wako wa sasa wa Uzito na Urefu (BMI). Tembelea kifaa chetu cha bure cha BMI kwenye [www.herbsimpact.com](https://www.herbsimpact.com/tools) ili kuangalia hali ya uzito wa mwili wako na kupata picha wazi zaidi ya afya yako leo.
+
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Uzito wa ziada husababisha matatizo gani ya kiafya?** Huongeza hatari ya magonjwa ya moyo, shinikizo la damu, kiharusi, kisukari aina ya pili, maumivu ya viungo, kukoroma kunakokatisha pumzi usingizini (sleep apnea), na wasiwasi na sonona.
+
+**Nipunguze uzito kiasi gani ili nione faida?** Kupunguza asilimia 5 hadi 10 tu ya uzito wa mwili kunaweza kushusha shinikizo la damu, kuboresha udhibiti wa sukari na kupunguza mzigo kwenye viungo.
+
+**Nianze na hatua zipi?** Tembea au fanya mazoezi angalau dakika 30 siku nyingi, kula mboga, protini isiyo na mafuta mengi na nafaka zisizokobolewa, lala saa 7 hadi 9 usiku na dhibiti msongo wa mawazo.
+
+**Nitajuaje kama uzito wangu ni sahihi?** Pima Uwiano wako wa Uzito na Urefu (BMI) kwa kifaa chetu cha bure cha BMI kwenye ukurasa wa Tools wa tovuti hii.
 
 ## Kuunganisha Yote Pamoja
 

@@ -6,7 +6,7 @@ read_time: 3 MIN READ
 cover_image: /assets/uploads/how-to-lose-weight-kupunguza-uzito-celery-measuring-tape.jpg
 cover_image_alt: Fresh celery wrapped in a measuring tape, a symbol of how to lose weight by eating more vegetables
 swahili_link: blog-20-sw.html
-description: "How to lose weight comes down to simple calorie maths. Learn the rule behind body weight, which foods to choose and the 80/20 plate that protects your health."
+description: "How to lose weight comes down to simple calorie maths. Learn the rule behind body weight, which foods to choose and the 80/20 plate."
 ---
 Excess body weight is linked to many health problems, so learning how to lose weight is about far more than looks. These problems include:
 
@@ -32,7 +32,7 @@ Any calories beyond what the body needs are stored as fat, to be used later when
 The first thing needed to prevent large weight gain is to make sure we do not take in more calories than the body needs. To achieve this, choosing what we eat matters a great deal.
 
 1. Foods rich in sugar and starch usually bring far more calories into the body than it needs, leading to weight gain, so we should eat them with caution.
-2. Protein foods need a great many calories to be processed, more than the calories they themselves provide. This means eating them helps a lot in reducing body weight.
+2. Protein foods use more energy to digest than sugar or starch, and they keep you full for longer, so you tend to eat less. This makes them a good friend when you are trying to lose weight.
 
 ## Body Weight Is a Matter of Maths
 
@@ -47,6 +47,16 @@ Whatever kind of food we eat, we should not forget the 80/20 rule. This rule say
 ## Check Your BMI for Free
 
 Before you start, find out where you stand. Use our **[free BMI calculator](https://herbsimpact.com/tools.html)** to check your Body Mass Index in seconds. Enter your height and weight and it is calculated privately in your browser, so you can track your progress as you lose weight.
+
+## Frequently Asked Questions
+
+**What is the basic rule for losing weight?** When fewer calories come into the body than it uses, weight goes down. When more come in than it uses, weight goes up. Extra calories are stored as fat.
+
+**Which foods should I eat with caution?** Foods rich in sugar and starch, because they usually bring in more calories than the body needs.
+
+**What is the 80/20 rule?** Fill 80% of your plate with a mix of different vegetables, and eat as many of them raw as you can.
+
+**How do I know if I need to lose weight?** Check your Body Mass Index (BMI) with our free BMI calculator on the Tools page. Enter your height and weight and it works it out in seconds.
 
 ## Would You Like More Advice?
 

@@ -1,15 +1,13 @@
 ---
 title: "Abnormal Vaginal Discharge and Itching: What Your Body Is Telling You"
-seo_title: "Abnormal Vaginal Discharge & Itching: Causes and Relief"
+seo_title: "Vaginal Discharge & Itching: Causes, Relief"
 category: WOMEN'S HEALTH
 read_time: 8 MIN READ
 cover_image: /assets/uploads/haiiba-ig-gel-uchafu-ukeni-mwasho.jpg
 cover_image_alt: Smiling woman holding a jar of Haiiba IG Gel, a Herbal Impact
   herbal remedy for vaginal itching and abnormal discharge
 swahili_link: blog-12-sw.html
-description: Is your vaginal discharge normal? Learn what causes abnormal
-  vaginal discharge, itching and a fishy odour — yeast, bacterial vaginosis,
-  STIs, allergies — and how to find relief from stubborn infections.
+description: "Is your vaginal discharge normal? Learn what causes abnormal discharge, itching and odour, from yeast to bacterial vaginosis, and how to find relief."
 ---
 If you're a woman of childbearing age, some vaginal discharge is completely normal. Glands in the cervix and the walls of the vagina constantly produce a clear fluid. Once it meets the air, that fluid can turn **white or pale yellow** — and that's normal too.
 
@@ -91,6 +89,18 @@ Many other clients have reported positive results for problems beyond the ones d
 ## Don't Wait: Chronic Infections Come at a Cost
 
 If you have a chronic infection, don't hesitate to get in touch. Beyond the constant discomfort, some of these infections can affect your **ability to have children**, or the health of children born to you. They can also damage your relationship with your partner if the infection reaches the point where sex becomes impossible.
+
+## Frequently Asked Questions
+
+**Is vaginal discharge normal?** Yes. Clear, white or pale-yellow discharge is normal. The amount changes with your cycle and rises around ovulation, during pregnancy and with sexual arousal.
+
+**What are the signs of abnormal discharge?** An unusual colour (brown, grey, green, cloudy or blood-stained), a bad smell, or itching. These usually point to an infection or an allergy.
+
+**What causes a grey discharge with a fishy smell?** Usually bacterial vaginosis, an overgrowth of the bacteria that normally live in the vagina.
+
+**How should I care for the area at home?** Wash with lukewarm water only and no soap, pat dry gently, wear loose cotton underwear, avoid perfumed products and wipe from front to back.
+
+**When should I see a doctor?** Whenever your discharge changes colour or smell, or itching does not go away, so you can be tested for infections, including sexually transmitted ones.
 
 ## Get Haiiba IG Gel Today
 

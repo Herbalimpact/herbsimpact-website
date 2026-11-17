@@ -1,6 +1,6 @@
 ---
 title: "Surua Imerudi kwa Kasi: Somo Zito Kutoka Bangladesh kwa Kila Mzazi"
-seo_title: "Surua: Dalili, Inavyoenea na Jinsi ya Kujikinga"
+seo_title: "Surua: Dalili, Kuenea na Kujikinga"
 category: AFYA YA MTOTO
 read_time: DAKIKA 6 ZA KUSOMA
 cover_image: /assets/uploads/measles-prevention-child-vaccination.jpg
@@ -93,7 +93,7 @@ Unaweza pia kusoma makala yetu kuhusu [kuimarisha kinga za mwili](/blog-18-sw.ht
 
 ## Je, Dawa za Asili Zinasaidia?
 
-Kama kliniki ya tiba asili na tiba mbadala iliyosajiliwa, mara nyingi tunaulizwa kama mitishamba inaweza kuzuia au kutibu surua. Jibu letu la kweli ni hili: **hakuna dawa ya mitishamba iliyothibitishwa kuzuia surua, na hakuna tiba ya asili ya surua.** Chanjo ndiyo kinga pekee iliyothibitishwa.
+Kama kliniki ya tiba asili na tiba mbadala iliyosajiliwa, mara nyingi tunaulizwa kama mimeatiba inaweza kuzuia au kutibu surua. Jibu letu la kweli ni hili: **hakuna dawa ya mimeatiba iliyothibitishwa kuzuia surua, na hakuna tiba ya asili ya surua.** Chanjo ndiyo kinga pekee iliyothibitishwa.
 
 Njia za asili zinaweza kusaidia pembeni, kama lishe bora, maji ya kutosha, mapumziko na vinywaji laini vya kutuliza koo, lakini kamwe zisichelewesha safari ya kwenda kituo cha afya wala zisichukue nafasi ya chanjo.
 
@@ -102,6 +102,18 @@ Njia za asili zinaweza kusaidia pembeni, kama lishe bora, maji ya kutosha, mapum
 Bangladesh haikurudi nyuma kwa sababu surua imebadilika. Ilirudi nyuma kwa sababu chanjo zililegea kwa miaka michache, na virusi vikawapata watoto walioachwa bila kinga. Kila dozi inayokosekana ni mlango ulio wazi.
 
 Angalia kadi ya kliniki ya mtoto wako. Zungumza na familia yako na majirani zako. Dozi mbili za chanjo ya surua, zikitolewa kwa wakati, zinaweza kuokoa maisha.
+
+## Maswali Yanayoulizwa Mara kwa Mara
+
+**Surua huenea vipi?** Kwa kukohoa, kupiga chafya na kuvuta hewa ileile anayoivuta mgonjwa. Virusi vinaweza kubaki hewani au juu ya vitu kwa hadi saa mbili, na mtu mmoja anaweza kuwaambukiza hadi watu 18 wasiokingwa.
+
+**Dalili za mwanzo za surua ni zipi?** Homa kali, mafua, kikohozi na macho mekundu yanayotoa machozi, wakati mwingine na vidoa vidogo vyeupe ndani ya mashavu. Vipele vyekundu hufuata baada ya siku chache, vikianzia usoni na nyuma ya masikio.
+
+**Mtoto apate chanjo ya surua lini Tanzania?** Chanjo ya surua na rubela (MR) hutolewa kwa dozi mbili: ya kwanza akiwa na miezi 9 na ya pili akiwa na miezi 18. Kama dozi ilikosekana, mpeleke mtoto kituo cha afya kilicho karibu ili aipate.
+
+**Je, dawa za asili zinaweza kuzuia au kutibu surua?** Hapana. Hakuna dawa ya mimea iliyothibitika kuzuia surua, na hakuna tiba ya asili ya surua. Chanjo ndiyo kinga, na mtoto mgonjwa apelekwe kituo cha afya haraka.
+
+**Surua inakuwa dharura lini?** Tafuta msaada wa haraka mtoto akipata shida ya kupumua, akikataa kunywa, akiharisha na kuonyesha dalili za kupungukiwa maji, akisinzia kupita kiasi au akipata degedege.
 
 ## Endelea Kujifunza na Herbal Impact
 

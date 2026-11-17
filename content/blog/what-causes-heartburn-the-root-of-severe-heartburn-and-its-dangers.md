@@ -30,6 +30,14 @@ However, if the heartburn is very severe and keeps coming back, it is wise to se
 
 Severe, long-lasting heartburn does not only spoil your enjoyment of life to a great degree; it is also among the risk factors for cancer of the food pipe.
 
+## Frequently Asked Questions
+
+**What causes heartburn?** Stomach acid flowing up towards the throat. This happens when the muscle where the food pipe joins the stomach does not close fully, or does not close when it should.
+
+**Is heartburn dangerous?** Occasional mild heartburn is common. Severe heartburn that keeps coming back should be treated quickly, because long-lasting heartburn is a risk factor for cancer of the food pipe.
+
+**When should I see a doctor about heartburn?** If it is severe, keeps coming back, or comes with difficulty swallowing, vomiting, weight loss or black stools.
+
 ## Do You Need Treatment?
 
 If you are facing this condition and need treatment, you can contact us.

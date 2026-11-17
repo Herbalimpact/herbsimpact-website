@@ -7,9 +7,7 @@ cover_image: /assets/uploads/golden-mind-paste.jpg
 cover_image_alt: Elderly hands grinding ingredients in a metal mortar and
   pestle
 swahili_link: blog-13-sw.html
-description: Forgetfulness after 50 is common, but some signs need a doctor
-  fast. Learn the warning signs, what protects the brain, and the traditional
-  5-ingredient paste we prepare in our practice.
+description: "Forgetfulness after 50 is common, but some signs need a doctor fast. Learn the warning signs, what protects the brain and a traditional 5-ingredient paste."
 ---
 You walk into a room and forget why. A familiar name will not come. You repeat a story and your children exchange a look. After the age of fifty, moments like these make many people ask the same quiet question: is this normal, or is something wrong?
 
@@ -70,6 +68,18 @@ We want to be clear about what this means. These are observations from one pract
 ## Who Should Be Careful
 
 The paste is made from foods, but in the amounts we use it can interact with medicines. Speak to your doctor first if you take blood thinners or anti-clotting medicine, if you have ever had a stroke or bleeding in the brain, if you have diabetes, high blood pressure, gallbladder or liver problems, if you are pregnant, or if you are due for surgery. Never stop a prescribed medicine in order to take it.
+
+## Frequently Asked Questions
+
+**Is memory loss after 50 normal?** Some slowing is normal, such as taking longer to recall a name. Repeatedly forgetting recent events, getting lost in familiar places or confusion about the date need a medical check-up.
+
+**Can memory loss be treated?** Many causes can, including thyroid problems, low vitamin B12, depression, poor sleep, infections and the side effects of medicines. That is why a proper assessment matters.
+
+**Which signs are an emergency?** Sudden weakness or numbness on one side, a drooping face, sudden difficulty speaking, a sudden severe headache, a seizure or sudden confusion. Go to a hospital immediately.
+
+**What protects the brain?** Controlling blood pressure, blood sugar and cholesterol, walking briskly most days, sleeping seven to eight hours, eating more vegetables, beans and fish, and staying socially active.
+
+**Is the Golden Mind Paste safe with my medicines?** Speak to your doctor first, especially if you take blood thinners, have had a stroke or bleeding in the brain, or have diabetes, high blood pressure, or gallbladder or liver problems.
 
 ## Get the Full Recipe Guide
 

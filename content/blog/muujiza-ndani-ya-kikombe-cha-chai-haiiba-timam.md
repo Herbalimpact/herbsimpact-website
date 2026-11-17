@@ -1,14 +1,14 @@
 ---
 title: "Muujiza Ndani ya Kikombe cha Chai"
-seo_title: "Muujiza Ndani ya Kikombe cha Chai: Chai ya Mitishamba ya Haiiba Timam"
-category: CHAI YA MITISHAMBA
+seo_title: "Chai ya Haiiba Timam: Muujiza Kikombeni"
+category: CHAI YA MIMEATIBA
 read_time: DAKIKA 6 ZA KUSOMA
 cover_image: /assets/uploads/miracle-in-a-tea-cup-sw.jpg
-cover_image_alt: Kifurushi cha Chai ya Haiiba Timam na kikombe cha chai ya mitishamba kinachofuka moshi, Herbal Impact Dar es Salaam
+cover_image_alt: Kifurushi cha Chai ya Haiiba Timam na kikombe cha chai ya mimeatiba kinachofuka moshi, Herbal Impact Dar es Salaam
 swahili_link: blog-15.html
-description: Chai ya Haiiba Timam ni chai ya mitishamba kutoka Herbal Impact, Dar es Salaam. Fahamu wagonjwa wanasema nini, jinsi ya kuiandaa na mahali pa kuipata.
+description: Chai ya Haiiba Timam ni chai ya mimeatiba kutoka Herbal Impact, Dar es Salaam. Fahamu wagonjwa wanasema nini, jinsi ya kuiandaa na mahali pa kuipata.
 ---
-*Chai moja ya mitishamba, faida nyingi: kwa nini wagonjwa wetu wanaiita "Chai ya Ajabu"*
+*Chai moja ya mimeatiba, faida nyingi: kwa nini wagonjwa wetu wanaiita "Chai ya Ajabu"*
 
 Je, umewahi kutumia dawa ya tatizo moja, ukashangaa kuona matatizo mengine nayo yanapungua? Hivyo ndivyo wagonjwa wengi wa Herbal Impact wanavyosimulia baada ya kutumia **Chai ya Haiiba Timam**.
 
@@ -18,13 +18,13 @@ Wengi hufika kliniki kwetu Kitumbini wakiwa na tatizo moja tu: maumivu ya magoti
 
 ## Chai ya Haiiba Timam ni Nini?
 
-Ni chai ya mitishamba iliyobuniwa na kutengenezwa na **Herbal Impact**, kliniki ya tiba asili iliyopo Dar es Salaam yenye leseni ya Baraza la Tiba Asili na Tiba Mbadala tangu mwaka 2012. Mbunifu wake ni Juma Killaghai, mtafiti wa kemia ya mazao ya asili tangu mwaka 1995 na daktari wa tiba asili mwenye leseni.
+Ni chai ya mimeatiba iliyobuniwa na kutengenezwa na **Herbal Impact**, kliniki ya tiba asili iliyopo Dar es Salaam yenye leseni ya Baraza la Tiba Asili na Tiba Mbadala tangu mwaka 2012. Mbunifu wake ni Juma Killaghai, mtafiti wa kemia ya mazao ya asili tangu mwaka 1995 na daktari wa tiba asili mwenye leseni.
 
 Chai hii imetengenezwa kwa **mimea inayoliwa pekee**, yaani mimea ileile tunayoifahamu kama chakula. Unaiandaa nyumbani kwenye chupa ya chai (thermos), kama unavyoandaa chai ya kawaida.
 
 ## Kwa Nini Inaitwa "Chai ya Ajabu"?
 
-Dawa nyingi za mitishamba hulenga tatizo moja. Chai hii imetushangaza hata sisi. Mgonjwa huja kwa tatizo moja, kisha anatueleza kuwa matatizo mengine kadhaa nayo yamepata nafuu.
+Dawa nyingi za mimeatiba hulenga tatizo moja. Chai hii imetushangaza hata sisi. Mgonjwa huja kwa tatizo moja, kisha anatueleza kuwa matatizo mengine kadhaa nayo yamepata nafuu.
 
 Mfano mmoja ni George (si jina lake halisi), mfanyakazi wa taasisi kubwa ya kimataifa. Alikuja kwetu akiwa na tatizo la kushindwa kuzuia mkojo, lililokuwa limeshindikana katika hospitali kubwa nchini. Tulimpa chai hii kwa siku 35. Dalili zake zilipotea ndani ya siku 14 tu.
 
@@ -48,7 +48,7 @@ Kifurushi kimoja cha gramu 200 kinatosha **siku 7**. Hivyo matumizi ya wiki 5 ya
 
 ## Ukweli Muhimu Kabla Hujaanza
 
-![Mwanamume akinywa chai ya mitishamba karibu na dirisha](/assets/uploads/herbal-tea-man-window.jpg "Picha: cottonbro studio / Pexels")
+![Mwanamume akinywa chai ya mimeatiba karibu na dirisha](/assets/uploads/herbal-tea-man-window.jpg "Picha: cottonbro studio / Pexels")
 
 Haya ni maelezo ya wagonjwa wetu wenyewe, si matokeo ya utafiti wa kitabibu. Kila mwili una upekee wake, hivyo matokeo hutofautiana kati ya mtu na mtu. Kwa uzoefu wetu tangu mwaka 2012, watu wa rika zote wameitumia chai hii bila madhara.
 
@@ -56,7 +56,7 @@ Chai hii hufanya kazi vizuri zaidi **sambamba na** matibabu yako ya hospitali, s
 
 ## Jinsi ya Kuandaa Chai ya Haiiba Timam
 
-![Mwanamke akinywa chai ya mitishamba kwenye kikombe cha njano](/assets/uploads/herbal-tea-woman-yellow-mug.jpg "Picha: Kampus Production / Pexels")
+![Mwanamke akinywa chai ya mimeatiba kwenye kikombe cha njano](/assets/uploads/herbal-tea-woman-yellow-mug.jpg "Picha: Kampus Production / Pexels")
 
 1. Chukua thermos ndogo inayobeba vikombe 2 hadi 3.
 2. Weka kijiko kikubwa kimoja cha Chai ya Haiiba Timam ndani ya thermos.
@@ -68,7 +68,7 @@ Kunywa **mara mbili kwa siku**, asubuhi na jioni. Ya asubuhi inywe kabla ya kula
 
 ## Maswali ya Mara kwa Mara
 
-**Je, Chai ya Haiiba Timam ni dawa?** Ni chai ya asili ya mitishamba iliyotengenezwa kwa mimea inayoliwa, katika kliniki ya tiba asili yenye leseni.
+**Je, Chai ya Haiiba Timam ni dawa?** Ni chai ya asili ya mimeatiba iliyotengenezwa kwa mimea inayoliwa, katika kliniki ya tiba asili yenye leseni.
 
 **Naweza kuinywa pamoja na dawa za hospitali?** Wagonjwa wetu wengi hufanya hivyo. Endelea na dawa zako na mjulishe daktari wako.
 
