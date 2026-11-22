@@ -63,6 +63,7 @@ const BLOG_INDEX_POSTS = {
  'what-causes-heartburn-the-root-of-severe-heartburn-and-its-dangers.md': 'blog-21.html',
  'how-to-prevent-non-communicable-diseases-blood-circulation.md': 'blog-22.html',
  'measles-what-it-is-how-it-spreads-how-to-prevent-it-lessons-from-bangladesh.md': 'blog-24.html',
+ 'beetroot-for-heart-health-and-stamina-what-the-research-says.md': 'blog-25.html',
 };
 
 function parseFrontMatter(raw) {
