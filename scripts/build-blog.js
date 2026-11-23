@@ -71,6 +71,8 @@ const OUTPUT_MAP = {
   'magonjwa-yasiyoambukiza-yanaongoza-kwa-kuua-visababishi-vyake.md': 'blog-23-sw.html',
   'measles-what-it-is-how-it-spreads-how-to-prevent-it-lessons-from-bangladesh.md': 'blog-24.html',
   'surua-ni-nini-inavyoenea-na-jinsi-ya-kumkinga-mtoto-somo-kutoka-bangladesh.md': 'blog-24-sw.html',
+  'beetroot-for-heart-health-and-stamina-what-the-research-says.md': 'blog-25.html',
+  'kiazi-sukari-kwa-afya-ya-moyo-na-stamina-tafiti-zinasema-nini.md': 'blog-25-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -126,6 +128,8 @@ const RELATED_POSTS = {
   'blog-23-sw.html': ['blog-22-sw.html', 'blog-14-sw.html'],
   'blog-24.html': ['blog-18.html', 'blog-22.html'],
   'blog-24-sw.html': ['blog-18-sw.html', 'blog-22-sw.html'],
+  'blog-25.html': ['blog-22.html', 'blog-20.html'],
+  'blog-25-sw.html': ['blog-22-sw.html', 'blog-20-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
