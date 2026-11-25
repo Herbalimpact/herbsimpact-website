@@ -67,7 +67,7 @@ Ili ufaidike na elimu hii kila siku, nimeandaa **Mwongozo wa Lishe kwa Mwenye Ki
 
 Bei yake ni **TZS 20,000 (US$7.55)**. Kinapatikana kwa Kiswahili na pia kwa Kiingereza.
 
-**[Pata Mwongozo wa Lishe kwa Mwenye Kisukari kupitia Payhip](PAYHIP_LINK_SW)** au **[kupitia Gumroad](GUMROAD_LINK_SW)**
+**[Pata Mwongozo wa Lishe kwa Mwenye Kisukari kupitia Payhip](https://payhip.com/b/0Htq5)** au **[kupitia Gumroad](https://wellbiz8.gumroad.com/l/mwongozo-wa-lishe-kisukari)**
 
 Pamoja na lishe bora na huduma ya daktari, baadhi ya wateja wetu pia hutumia **Haiiba GlucoMaster Extra**, dawa ya mimeatiba kutoka Herbal Impact. Uliza kuhusu dawa hii, na mjulishe daktari wako kuhusu dawa yoyote ya mimeatiba unayotumia.
 
