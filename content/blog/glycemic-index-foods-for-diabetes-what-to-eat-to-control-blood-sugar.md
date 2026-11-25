@@ -85,6 +85,6 @@ Alongside good food and medical care, some of our clients also use **Haiiba Gluc
 
 For more information or a consultation, call or WhatsApp **+255 754 281 131** / **+255 655 281 131**, or visit us at **Mosque Street, Kitumbini, Dar es Salaam**.
 
-*Sources: Atkinson, Foster-Powell and Brand-Miller, International tables of glycemic index and glycemic load values: 2008 (Diabetes Care); Ebere, Imungi and Kimani, Glycemic index values of traditional Kenyan foods (African Health Sciences, 2021); American Diabetes Association, Diabetes Plate Method.*
+*Sources: Atkinson, Foster-Powell and Brand-Miller, International tables of glycemic index and glycemic load values: 2008 (Diabetes Care); Ebere, Imungi and Kimani, Glycemic index values of traditional Kenyan foods (African Health Sciences, 2021); Henry et al., A glycaemic index compendium of non-Western foods (Nutrition & Diabetes, 2021); American Diabetes Association, Diabetes Plate Method.*
 
 *Herbal Impact is licensed by Tanzania's Traditional and Alternative Health Practice Council. If you are on medical treatment, keep taking it and tell your doctor about any herbal products you use.*

@@ -22,13 +22,13 @@ Dawa za hospitali zinasaidia sana, na wengi wanazihitaji. Hata hivyo uwezo wake 
 
 ## Kielelezo cha Glycemic (GI) ni Nini?
 
-GI ni kipimo chenye namba kuanzia 0 hadi 100. Kinapanga vyakula vyenye wanga kulingana na kasi yake ya kupandisha sukari kwenye damu, ukilinganisha na glukosi tupu ambayo imepewa namba 100.
+GI ni kipimo chenye namba kuanzia 0 hadi takriban 100. Kinapanga vyakula vyenye wanga kulingana na kasi yake ya kupandisha sukari kwenye damu, ukilinganisha na glukosi tupu ambayo imepewa namba 100.
 
 - **GI ya chini (55 au chini):** chakula humeng'enywa taratibu na sukari hupanda kwa upole. Mifano: maharage, adesi, dengu, choroko, oti zilizobanwa, tufaha, chungwa na maziwa.
 - **GI ya kati (56 hadi 69):** sukari hupanda kiasi. Mifano: viazi vitamu, wali wa brown, ugali wa dona na nanasi.
 - **GI ya juu (70 au zaidi):** chakula humeng'enywa haraka na sukari hupanda kwa kasi. Mifano: mkate mweupe, wali mweupe, viazi mviringo vya kuchemsha, mihogo ya kuchemsha na tikiti maji.
 
-Kanuni ni rahisi: milo yako mingi iwe ya vyakula vya GI ya chini, vya GI ya kati vile kwa kiasi, na vya GI ya juu viwe kidogo na vya mara chache.
+Kanuni ni rahisi: milo yako mingi iwe ya vyakula vya GI ya chini, vya GI ya kati uvile kwa kiasi, na vya GI ya juu viwe kidogo na vya mara chache.
 
 ![Sahani mbili za mbogamboga, maharage, adesi, dengu, karanga na mbegu ambazo ni vyakula vya GI ya chini](/assets/uploads/low-glycemic-foods-beans-lentils-vegetables.jpg "Jamii ya kunde na mbogamboga ndio msingi wa mlo wa GI ya chini. Picha: Vanessa Loring / Pexels")
 
@@ -79,10 +79,12 @@ Pamoja na lishe bora na huduma ya daktari, baadhi ya wateja wetu pia hutumia **H
 
 **Je, matunda yanafaa kwa mwenye kisukari?** Matunda mengi mazima yana GI ya chini na yanafaa yakiliwa kwa kiasi cha kawaida. Tikiti maji na matunda yaliyoiva kupita kiasi hupandisha sukari haraka zaidi, na ni vyema kuepuka juisi.
 
-**Je, lishe ya GI ya chini inaweza kuchukua nafasi ya dawa?** Hapana. Inasaidia matibabu na inaweza kumwezesha daktari kupunguza dozi baadaye, lakini usiache wala kubadilisha dawa bila ushauri wa daktari. Mwone daktari sukari ikiwa juu sana, ikishuka mara kwa mara, ukipata kidonda mguuni au mabadiliko ya kuona. Wajawazito na watoto wapate ushauri wa mtaalamu kwanza.
+**Je, lishe ya GI ya chini inaweza kuchukua nafasi ya dawa?** Hapana. Inasaidia matibabu na inaweza kumwezesha daktari kupunguza dozi baadaye, lakini usiache wala usibadilishe dawa bila ushauri wa daktari. Mwone daktari sukari ikiwa juu sana, ikishuka mara kwa mara, ukipata kidonda mguuni au mabadiliko ya kuona. Wajawazito na watoto wapate ushauri wa mtaalamu kwanza.
 
 ## Wasiliana Nasi
 
 Kwa maelezo zaidi au ushauri, piga simu au WhatsApp **0754 281 131** / **0655 281 131**, au tutembelee **Mtaa wa Mosque, Kitumbini, Dar es Salaam** (mkabala na msikiti wa Sunni).
 
-*Vyanzo: Atkinson, Foster-Powell na Brand-Miller, International tables of glycemic index and glycemic load values: 2008 (Diabetes Care); Ebere, Imungi na Kimani, Glycemic index values of traditional Kenyan foods (African Health Sciences, 2021); American Diabetes Association, Diabetes Plate Method.*
+*Vyanzo: Atkinson, Foster-Powell na Brand-Miller, International tables of glycemic index and glycemic load values: 2008 (Diabetes Care); Ebere, Imungi na Kimani, Glycemic index values of traditional Kenyan foods (African Health Sciences, 2021); Henry na wenzake, A glycaemic index compendium of non-Western foods (Nutrition & Diabetes, 2021); American Diabetes Association, Diabetes Plate Method.*
+
+*Herbal Impact imesajiliwa na Baraza la Tiba Asili na Tiba Mbadala la Tanzania. Kama uko kwenye matibabu ya hospitali, endelea nayo na mjulishe daktari wako kuhusu dawa yoyote ya mimeatiba unayotumia.*
