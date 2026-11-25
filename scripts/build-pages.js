@@ -64,6 +64,7 @@ const BLOG_INDEX_POSTS = {
  'how-to-prevent-non-communicable-diseases-blood-circulation.md': 'blog-22.html',
  'measles-what-it-is-how-it-spreads-how-to-prevent-it-lessons-from-bangladesh.md': 'blog-24.html',
  'beetroot-for-heart-health-and-stamina-what-the-research-says.md': 'blog-25.html',
+ 'glycemic-index-foods-for-diabetes-what-to-eat-to-control-blood-sugar.md': 'blog-26.html',
 };
 
 function parseFrontMatter(raw) {
