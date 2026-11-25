@@ -67,7 +67,7 @@ To make all of this easy to use every day, I have written **The Diabetes Food Gu
 
 It costs **US$7.55** and is available in English and in a full Kiswahili edition.
 
-**[Get The Diabetes Food Guide on Gumroad](GUMROAD_LINK_EN)** or **[on Payhip](PAYHIP_LINK_EN)**
+**[Get The Diabetes Food Guide on Gumroad](GUMROAD_LINK_EN)** or **[on Payhip](https://payhip.com/b/bmUNQ)**
 
 Alongside good food and medical care, some of our clients also use **Haiiba GlucoMaster Extra**, a herbal product from Herbal Impact. Ask us about it, and tell your doctor about any herbal product you take.
 
