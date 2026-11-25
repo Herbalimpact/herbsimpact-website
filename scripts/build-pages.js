@@ -65,6 +65,7 @@ const BLOG_INDEX_POSTS = {
  'causes-of-non-communicable-diseases-leading-cause-of-death.md': 'blog-23.html',
  'measles-what-it-is-how-it-spreads-how-to-prevent-it-lessons-from-bangladesh.md': 'blog-24.html',
  'beetroot-for-heart-health-and-stamina-what-the-research-says.md': 'blog-25.html',
+ 'glycemic-index-foods-for-diabetes-what-to-eat-to-control-blood-sugar.md': 'blog-26.html',
 };
 
 function parseFrontMatter(raw) {

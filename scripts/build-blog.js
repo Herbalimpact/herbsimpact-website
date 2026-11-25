@@ -73,6 +73,8 @@ const OUTPUT_MAP = {
   'surua-ni-nini-inavyoenea-na-jinsi-ya-kumkinga-mtoto-somo-kutoka-bangladesh.md': 'blog-24-sw.html',
   'beetroot-for-heart-health-and-stamina-what-the-research-says.md': 'blog-25.html',
   'kiazi-sukari-kwa-afya-ya-moyo-na-stamina-tafiti-zinasema-nini.md': 'blog-25-sw.html',
+  'glycemic-index-foods-for-diabetes-what-to-eat-to-control-blood-sugar.md': 'blog-26.html',
+  'vyakula-bora-kwa-mgonjwa-wa-kisukari-kielelezo-cha-glycemic.md': 'blog-26-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -130,6 +132,8 @@ const RELATED_POSTS = {
   'blog-24-sw.html': ['blog-18-sw.html', 'blog-22-sw.html'],
   'blog-25.html': ['blog-22.html', 'blog-20.html'],
   'blog-25-sw.html': ['blog-22-sw.html', 'blog-20-sw.html'],
+  'blog-26.html': ['blog-22.html', 'blog-20.html'],
+  'blog-26-sw.html': ['blog-22-sw.html', 'blog-20-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
