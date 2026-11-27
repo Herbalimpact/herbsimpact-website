@@ -75,6 +75,10 @@ const OUTPUT_MAP = {
   'kiazi-sukari-kwa-afya-ya-moyo-na-stamina-tafiti-zinasema-nini.md': 'blog-25-sw.html',
   'glycemic-index-foods-for-diabetes-what-to-eat-to-control-blood-sugar.md': 'blog-26.html',
   'vyakula-bora-kwa-mgonjwa-wa-kisukari-kielelezo-cha-glycemic.md': 'blog-26-sw.html',
+  'biological-age-how-to-slow-your-aging-clock-what-research-says.md': 'blog-27.html',
+  'umri-wa-kibaiolojia-jinsi-ya-kupunguza-kasi-ya-kuzeeka-tafiti-zinasema-nini.md': 'blog-27-sw.html',
+  'leg-artery-blockage-simple-exercises-that-protect-your-leg-circulation.md': 'blog-28.html',
+  'mishipa-ya-miguu-kuziba-zoezi-rahisi-linalolinda-mzunguko-wa-damu-miguuni.md': 'blog-28-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -134,6 +138,10 @@ const RELATED_POSTS = {
   'blog-25-sw.html': ['blog-22-sw.html', 'blog-20-sw.html'],
   'blog-26.html': ['blog-22.html', 'blog-20.html'],
   'blog-26-sw.html': ['blog-22-sw.html', 'blog-20-sw.html'],
+  'blog-27.html': ['blog-22.html', 'blog-25.html'],
+  'blog-27-sw.html': ['blog-22-sw.html', 'blog-25-sw.html'],
+  'blog-28.html': ['blog-27.html', 'blog-22.html'],
+  'blog-28-sw.html': ['blog-27-sw.html', 'blog-22-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on

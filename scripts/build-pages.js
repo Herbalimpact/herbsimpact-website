@@ -66,6 +66,8 @@ const BLOG_INDEX_POSTS = {
  'measles-what-it-is-how-it-spreads-how-to-prevent-it-lessons-from-bangladesh.md': 'blog-24.html',
  'beetroot-for-heart-health-and-stamina-what-the-research-says.md': 'blog-25.html',
  'glycemic-index-foods-for-diabetes-what-to-eat-to-control-blood-sugar.md': 'blog-26.html',
+ 'biological-age-how-to-slow-your-aging-clock-what-research-says.md': 'blog-27.html',
+ 'leg-artery-blockage-simple-exercises-that-protect-your-leg-circulation.md': 'blog-28.html',
 };
 
 function parseFrontMatter(raw) {
