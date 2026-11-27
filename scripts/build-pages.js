@@ -67,6 +67,7 @@ const BLOG_INDEX_POSTS = {
  'glycemic-index-foods-for-diabetes-what-to-eat-to-control-blood-sugar.md': 'blog-26.html',
  'biological-age-how-to-slow-your-aging-clock-what-research-says.md': 'blog-27.html',
  'leg-artery-blockage-simple-exercises-that-protect-your-leg-circulation.md': 'blog-28.html',
+ 'causes-of-non-communicable-diseases-who-risk-factors-and-stress.md': 'blog-23.html',
 };
 
 function parseFrontMatter(raw) {

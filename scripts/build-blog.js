@@ -77,6 +77,8 @@ const OUTPUT_MAP = {
   'umri-wa-kibaiolojia-jinsi-ya-kupunguza-kasi-ya-kuzeeka-tafiti-zinasema-nini.md': 'blog-27-sw.html',
   'leg-artery-blockage-simple-exercises-that-protect-your-leg-circulation.md': 'blog-28.html',
   'mishipa-ya-miguu-kuziba-zoezi-rahisi-linalolinda-mzunguko-wa-damu-miguuni.md': 'blog-28-sw.html',
+  'causes-of-non-communicable-diseases-who-risk-factors-and-stress.md': 'blog-23.html',
+  'visababishi-vya-magonjwa-yasiyoambukiza-who-na-msongo-wa-mawazo.md': 'blog-23-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -138,6 +140,8 @@ const RELATED_POSTS = {
   'blog-27-sw.html': ['blog-22-sw.html', 'blog-25-sw.html'],
   'blog-28.html': ['blog-27.html', 'blog-22.html'],
   'blog-28-sw.html': ['blog-27-sw.html', 'blog-22-sw.html'],
+  'blog-23.html': ['blog-22.html', 'blog-14.html'],
+  'blog-23-sw.html': ['blog-22-sw.html', 'blog-14-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
