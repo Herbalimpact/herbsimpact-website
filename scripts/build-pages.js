@@ -68,6 +68,7 @@ const BLOG_INDEX_POSTS = {
  'biological-age-how-to-slow-your-aging-clock-what-research-says.md': 'blog-27.html',
  'leg-artery-blockage-simple-exercises-that-protect-your-leg-circulation.md': 'blog-28.html',
  'causes-of-non-communicable-diseases-who-risk-factors-and-stress.md': 'blog-23.html',
+ 'how-to-lower-blood-pressure-naturally-7-proven-ways.md': 'blog-29.html',
 };
 
 function parseFrontMatter(raw) {
