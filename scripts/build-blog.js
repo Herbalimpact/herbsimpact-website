@@ -81,6 +81,8 @@ const OUTPUT_MAP = {
   'visababishi-vya-magonjwa-yasiyoambukiza-who-na-msongo-wa-mawazo.md': 'blog-23-sw.html',
   'how-to-lower-blood-pressure-naturally-7-proven-ways.md': 'blog-29.html',
   'jinsi-ya-kushusha-presha-kwa-njia-asilia-mbinu-7-zilizothibitishwa.md': 'blog-29-sw.html',
+  'stomach-gas-not-chewing-food-properly-a-major-cause.md': 'blog-30.html',
+  'kutotafuna-chakula-vizuri-chanzo-kikubwa-cha-gesi-tumboni.md': 'blog-30-sw.html',
 };
 
 // Hand-curated "related articles" links, grouped by topic and language, so
@@ -146,6 +148,8 @@ const RELATED_POSTS = {
   'blog-23-sw.html': ['blog-22-sw.html', 'blog-14-sw.html'],
   'blog-29.html': ['blog-25.html', 'blog-28.html'],
   'blog-29-sw.html': ['blog-25-sw.html', 'blog-28-sw.html'],
+  'blog-30.html': ['blog-21.html', 'blog-10.html'],
+  'blog-30-sw.html': ['blog-21-sw.html', 'blog-10-sw.html'],
 };
 
 // The health disclaimer and the language-switch link text are the same on
